@@ -52,6 +52,7 @@ py run_example.py -t název_nástroje -n číselné_označení_testu
 ```
 
 <h3 id="parameters-description">Popis parametrů nástroje a demonstračního příkladu</h3>
+
 Tato sekce blíže popisuje význam a funkcionalitu jednotlivých parametrů nástroje, který je určen pro spuštění ukázkového příkladu již pro konkrétní nástroj implementující aplikaci vymazávacího systému. Na závěr sekce je představen jeden konkrétní příklad pro aplikaci vymazávacího systému na ověření řešení problému n dam, kterou implementuje nástroj *n_queens_problem_tool*.
 
 Parametry -t (v dlouhé variantě --tool) a -n (v dlouhé variantě --number) jsou povinné a značí po řadě název spouštěného nástroje a číslo spouštěného testu. Název nástroje může nabývat jedné z hodnot:
@@ -81,6 +82,7 @@ py run_example.py -t n_queens_problem_tool -n 1 -v -l
 V uvedeném příkladu je spuštěn test číslo *1* pro nástroj *n_queens_problem_tool* při vypisování dodatečných informací pomocí parametru -v a použití líného kvantifikátoru pro vymazávací systémy pomocí parametru -l.
 
 <h2>Manuály pro spuštění jednotlivých nástrojů</h2>
+
 - [AminoAcidSequenceSearchTool](es_tools/tools/amino_acid_sequence_search_tool/README.md)
 - [BalancedBracketsTool](es_tools/tools/balanced_brackets_tool/README.md)
 - [NQueensProblemTool](es_tools/tools/n_queens_problem_tool/README.md)
@@ -88,6 +90,7 @@ V uvedeném příkladu je spuštěn test číslo *1* pro nástroj *n_queens_prob
 - [SequenceSearchTool](es_tools/tools/sequence_search_tool/README.md)
 
 <h2 id="test-data">Popis testovacích dat pro ukázkové příklady</h2>
+
 - [Testovací data pro nástroj AminoAcidSequenceSearchTool](es_tools/examples/amino_acid_sequence_search_tool/data/README.md)
 - [Testovací data pro nástroj BalancedBracketsTool](es_tools/examples/balanced_brackets_tool/data/README.md)
 - [Testovací data pro nástroj NQueensProblemTool](es_tools/examples/n_queens_problem_tool/data/README.md)
