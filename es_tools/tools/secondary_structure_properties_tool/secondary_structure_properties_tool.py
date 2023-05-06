@@ -313,8 +313,6 @@ class SecondaryStructurePropertiesTool(Tool):
         input_secondary_structure = self.input_data[0]
 
         print("Input RNA secondary structure: " + input_secondary_structure + "\n")
-        print(self.__min)
-        print(self.arguments.min)
         print("Entered minimum value:", self.arguments.min if self.__min == self.arguments.min else
             str(self.arguments.min) + " (rounded to: " + str(self.__min) + ")")  # noqa: E128
         print("Entered maximum value:", self.arguments.max if self.__max == self.arguments.max else

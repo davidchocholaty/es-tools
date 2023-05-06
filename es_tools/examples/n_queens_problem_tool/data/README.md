@@ -37,7 +37,7 @@
   py es_tools/tools/n_queens_problem_tool/n_queens_problem_tool.py -i es_tools/examples/n_queens_problem_tool/data/3_n_8_incorrect_right_diagonal.txt -n 8
   ```
 #### Příklad 4
-- Popis: nesprávné vstupní řešení pro n = 8 (vícenásobný výskyt poručení pravidel)
+- Popis: nesprávné vstupní řešení pro n = 8 (vícenásobný výskyt porušení pravidel)
 - Soubor: 4_n_8_multiple_incorrectness.txt
 - Příkaz pro spuštění nástroje:
   * Unix/macOS

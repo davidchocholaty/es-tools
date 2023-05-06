@@ -1,7 +1,7 @@
 # Testovací data ukázkových příkladů pro nástroj BalancedBracketsTool
 
 #### Příklad 1
-- Popis: jednoduchý program vypisující výstup (*Hello world*) v jazyce C.
+- Popis: jednoduchý program vypisující výstup (*Hello world*) v jazyce C obsahující vyvážené závorky
 - Soubor: 1_c_hello_world.c
 - Příkaz pro spuštění nástroje:
   * Unix/macOS
@@ -13,7 +13,7 @@
   py es_tools/tools/balanced_brackets_tool/balanced_brackets_tool.py -i es_tools/examples/balanced_brackets_tool/data/1_c_hello_world.c
   ```
 #### Příklad 2
-- Popis: komplexní program implementovaný v jazyce C
+- Popis: komplexní program implementovaný v jazyce C obsahující vyvážené závorky
 - Soubor: 2_c_complex.c
 - Zdroj: Kernighan, B. W. a Ritchie, D. M. Programovací jazyk C. 2. vyd. Brno: Computer Press, 2019. ISBN 978-80-251-4965-2.
   * Strany 150–151 
@@ -27,7 +27,7 @@
   py es_tools/tools/balanced_brackets_tool/balanced_brackets_tool.py -i es_tools/examples/balanced_brackets_tool/data/2_c_complex.c
   ```
 #### Příklad 3
-- Popis: program implementovaný v jazyce C++
+- Popis: program implementovaný v jazyce C++ obsahující vyvážené závorky
 - Soubor: 3_cpp_example.cpp
 - Zdroj: Stroustrup, B. The C++ Programming Language: Fourth Edition. 4. vyd. Ann Arbor: Addison-Wesley, 2013. 1346 s. ISBN 978-0-321-56384-2.
   * Strany 39-40

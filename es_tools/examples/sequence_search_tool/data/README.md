@@ -70,7 +70,7 @@
   py es_tools/tools/sequence_search_tool/sequence_search_tool.py -i es_tools/examples/sequence_search_tool/data/5_rna_search_single_accepted.txt -s CGAUUGGGA
   ```
 #### Příklad 6
-- Popis: vstupní RNA sekvence neobsahuje podsekvenci *CGAUUGGGA*
+- Popis: vstupní RNA sekvence neobsahuje podsekvenci *CGAUUAA*
 - Soubor: 6_rna_search_single_rejected.txt
 - Zdroj: https://bprna.cgrb.oregonstate.edu/search.php?query=bpRNA_CRW_1897
 - Příkaz pro spuštění nástroje:

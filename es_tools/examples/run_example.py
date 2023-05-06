@@ -22,6 +22,7 @@ if current_working_directory not in syspath:
     syspath.append(current_working_directory)
 
 from es_tools.custom_exceptions.internal_error_exception import InternalErrorException  # noqa: E402
+from es_tools.custom_exceptions.invalid_argument_exception import InvalidArgumentException  # noqa: E402
 from es_tools.custom_exceptions.invalid_example_number_exception import InvalidExampleNumberException  # noqa: E402
 from es_tools.custom_exceptions.invalid_tool_name_exception import InvalidToolNameException  # noqa: E402
 from es_tools.custom_exceptions.unknown_platform_system_exception import UnknownPlatformSystemException  # noqa: E402
@@ -132,13 +133,16 @@ def main() -> None:
     """Hlavní funkce pro spuštění ukázkového demonstračního příkladu nástroje reprezentujícího aplikaci vymazávacího
     systému."""
     argument_handler = create_custom_argument_handler()
-    arguments = argument_handler.parse_arguments()
 
     try:
+        arguments = argument_handler.parse_arguments()
         run_tool(arguments)
     except InternalErrorException as error:
         print("\nError: " + error.msg)
         sys.exit(ExitCode.INTERNAL_ERROR.value)
+    except InvalidArgumentException as error:
+        print("\nError: " + error.msg)
+        sys.exit(ExitCode.WRONG_ARGUMENT.value)
     except InvalidExampleNumberException as error:
         print("\nError: " + error.msg)
         sys.exit(ExitCode.INVALID_EXAMPLE_NUMBER.value)

@@ -53,50 +53,50 @@ def run_example_sequence_search_tool(no_install_run: bool,
             #     -i es_tools/examples/sequence_search_tool/data/1_dna_single_5_3_accepted.txt -s TCAGA -t 53
             command = command + tool_path + " -i " + ospath.join(data_path, "1_dna_single_5_3_accepted.txt") + \
                       " -s TCAGA -t 53"
-        case 1:
+        case 2:
             # python3 es_tools/tools/sequence_search_tool/sequence_search_tool.py
             #     -i es_tools/examples/sequence_search_tool/data/2_dna_single_3_5_reversed_accepted.txt
             #     -s TCACCATC -t 35_reversed
             command = command + tool_path + " -i " + ospath.join(data_path, "2_dna_single_3_5_reversed_accepted.txt") + \
                       " -s TCACCATC -t 35_reversed"
-        case 1:
+        case 3:
             # python3 es_tools/tools/sequence_search_tool/sequence_search_tool.py
             #     -i es_tools/examples/sequence_search_tool/data/3_dna_single_3_5_rejected.txt -s ATCTCGGGAGGCG -t 35
             command = command + tool_path + " -i " + ospath.join(data_path, "3_dna_single_3_5_rejected.txt") + \
                       " -s ATCTCGGGAGGCG -t 35"
-        case 1:
+        case 4:
             # python3 es_tools/tools/sequence_search_tool/sequence_search_tool.py
             #     -i es_tools/examples/sequence_search_tool/data/4_dna_both_accepted.txt -s GTCAAA GAGGC -t both
             command = command + tool_path + " -i " + ospath.join(data_path, "4_dna_both_accepted.txt") + \
                       " -s GTCAAA GAGGC -t both"
-        case 1:
+        case 5:
             # python3 es_tools/tools/sequence_search_tool/sequence_search_tool.py
             #     -i es_tools/examples/sequence_search_tool/data/5_rna_search_single_accepted.txt -s CGAUUGGGA
             command = command + tool_path + " -i " + ospath.join(data_path, "5_rna_search_single_accepted.txt") + \
                       " -s CGAUUGGGA"
-        case 1:
+        case 6:
             # python3 es_tools/tools/sequence_search_tool/sequence_search_tool.py
             #     -i es_tools/examples/sequence_search_tool/data/6_rna_search_single_rejected.txt -s CGAUUAA
             command = command + tool_path + " -i " + ospath.join(data_path, "6_rna_search_single_rejected.txt") + \
                       " -s CGAUUAA"
-        case 1:
+        case 7:
             # python3 es_tools/tools/sequence_search_tool/sequence_search_tool.py
             #     -i es_tools/examples/sequence_search_tool/data/7_rna_search_multiple_accepted.txt -s GUCA CCC UUU
             command = command + tool_path + " -i " + ospath.join(data_path, "7_rna_search_multiple_accepted.txt") + \
                       " -s GUCA CCC UUU"
-        case 1:
+        case 8:
             # python3 es_tools/tools/sequence_search_tool/sequence_search_tool.py
             #     -i es_tools/examples/sequence_search_tool/data/8_rna_search_multiple_rejected.txt -s GUCA CCC AAA
             command = command + tool_path + " -i " + ospath.join(data_path, "8_rna_search_multiple_rejected.txt") + \
                       " -s GUCA CCC AAA"
-        case 1:
+        case 9:
             # python3 es_tools/tools/sequence_search_tool/sequence_search_tool.py
             #     -i es_tools/examples/sequence_search_tool/data/9_rna_secondary_structure_accepted.txt
             #     -s "[[[:)):" "(((:"
             command = command + tool_path + " -i " + \
                       ospath.join(data_path, "9_rna_secondary_structure_accepted.txt") + \
                       " -s \"[[[:)):\" \"(((:\""
-        case 1:
+        case 10:
             # python3 es_tools/tools/sequence_search_tool/sequence_search_tool.py
             #     -i es_tools/examples/sequence_search_tool/data/10_rna_secondary_structure_rejected.txt
             #     -s "::::::::::::" ":[[:[["

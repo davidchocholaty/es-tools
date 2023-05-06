@@ -51,6 +51,7 @@ class ArgumentHandler(Handler):
 
         :return: navrací uživatelské argumenty.
         :rtype: Any
+        :raises InvalidArgumentException: zadání neplatného uživatelského argumentu.
         """
         arguments, leftovers = self.__parser.parse_known_args()
 

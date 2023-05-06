@@ -30,13 +30,13 @@ def run_tool(no_install_run: bool, command: str, verbose: bool, greedy_quantifie
     :type greedy_quantifier: bool
     :raises InvalidExampleNumberException: číslo spouštěného příkladu mimo příslušný rozsah.
     """
-    if verbose:
-        command = command + " -v"
-
-    if not greedy_quantifier:
-        command = command + " -l"
-
     if command:
+        if verbose:
+            command = command + " -v"
+
+        if not greedy_quantifier:
+            command = command + " -l"
+
         print("Running command: " + command + "\n")
 
         # Změna aktuálního pracovního adresáře na kořenový adresář projektu. Tato změna je nutná z ohledu
