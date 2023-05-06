@@ -1,0 +1,215 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, David Chocholatý
+# This file is distributed under the same license as the es-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: es-tools \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-01 21:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../es_tools.handlers.argument_handler.rst:2
+msgid "argument\\_handler package"
+msgstr "balíček argument\\_handler"
+
+#: ../../es_tools.handlers.argument_handler.rst:3
+msgid ""
+"Balíček obsahuje nástroj pro manipulaci se vstupními uživatelskými "
+"argumenty a samotný analyzátor argumentů, přičemž je dle vlastních potřeb"
+" upraveno zpracování chybových stavů."
+msgstr ""
+
+#: ../../es_tools.handlers.argument_handler.rst:6
+msgid "Submodules"
+msgstr "Dílčí moduly"
+
+#: ../../es_tools.handlers.argument_handler.rst:9
+msgid "argument\\_handler module"
+msgstr "modul argument\\_handler"
+
+#: es_tools.handlers.argument_handler.argument_handler:1 of
+msgid "Zpracování uživatelských argumentů."
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_handler:3
+#: es_tools.handlers.argument_handler.argument_parser:3 of
+msgid ""
+"Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, "
+"Brno 2023."
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_handler:5 of
+msgid ""
+"Tento soubor obsahuje implementaci zpracování uživatelských argumentů, "
+"přičemž definuje společné základní argumenty a obsahuje metodu pro "
+"samotné načtení vstupních uživatelských parametrů."
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_handler
+#: es_tools.handlers.argument_handler.argument_parser of
+msgid "Author"
+msgstr "Autor"
+
+#: es_tools.handlers.argument_handler.argument_handler:8
+#: es_tools.handlers.argument_handler.argument_parser:7 of
+msgid "David Chocholatý"
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_handler
+#: es_tools.handlers.argument_handler.argument_parser of
+msgid "Contact"
+msgstr "Kontakt"
+
+#: es_tools.handlers.argument_handler.argument_handler:9
+#: es_tools.handlers.argument_handler.argument_parser:8 of
+msgid "xchoch09@stud.fit.vutbr.cz"
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_handler
+#: es_tools.handlers.argument_handler.argument_parser of
+msgid "Filename"
+msgstr "Soubor"
+
+#: es_tools.handlers.argument_handler.argument_handler:10 of
+msgid "argument_handler.py"
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_handler.ArgumentHandler:1 of
+msgid "Bases: :py:class:`~es_tools.handlers.handler.Handler`"
+msgstr "Základ: :py:class:`~es_tools.handlers.handler.Handler`"
+
+#: es_tools.handlers.argument_handler.argument_handler.ArgumentHandler:1 of
+msgid "Nástroj pro zpracování uživatelských argumentů."
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_handler.ArgumentHandler:3 of
+msgid ""
+"Metody této třídy implementují nástroj pro zpracování vstupních "
+"uživatelských argumentů, přičemž jsou nastaveny společné vstupní "
+"argumenty a je poskytnuta metoda pro samotnou analýzu všech (i "
+"specifických) argumentů."
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_handler.ArgumentHandler:6 of
+msgid "**Konstruktor třídy ArgumentHandler**"
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_handler.ArgumentHandler:8 of
+msgid ""
+"Konstruktor slouží především pro vytvoření samotného analyzátoru "
+"argumentů a pro nastavení společných uživatelských argumentů."
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_handler.ArgumentHandler
+#: es_tools.handlers.argument_handler.argument_parser.ArgumentParser.error of
+msgid "Parametry"
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_handler.ArgumentHandler:11 of
+msgid "název nástroje implementujícího aplikací nového formálního systému."
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_handler.ArgumentHandler.handler:1
+#: of
+msgid "Získání analyzátoru argumentů."
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_handler.ArgumentHandler.handler
+#: es_tools.handlers.argument_handler.argument_handler.ArgumentHandler.parse_arguments
+#: of
+msgid "Vrací"
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_handler.ArgumentHandler.handler:3
+#: of
+msgid "navrací analyzátor argumentů."
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_handler.ArgumentHandler.handler
+#: es_tools.handlers.argument_handler.argument_handler.ArgumentHandler.parse_arguments
+#: of
+msgid "Typ návratové hodnoty"
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_handler.ArgumentHandler.parse_arguments:1
+#: of
+msgid "Analýza uživatelských argumentů."
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_handler.ArgumentHandler.parse_arguments:3
+#: of
+msgid ""
+"Tato funkce slouží pro provedení analýzy (zadaných) uživatelských "
+"argumentů."
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_handler.ArgumentHandler.parse_arguments:5
+#: of
+msgid "navrací uživatelské argumenty."
+msgstr ""
+
+#: ../../es_tools.handlers.argument_handler.rst:17
+msgid "argument\\_parser module"
+msgstr "modul argument\\_parser"
+
+#: es_tools.handlers.argument_handler.argument_parser:1
+#: es_tools.handlers.argument_handler.argument_parser.ArgumentParser:1 of
+msgid "Analyzátor argumentů."
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_parser:5 of
+msgid ""
+"Tento soubor obsahuje analyzátor argumentů, přičemž slouží především pro "
+"vlastní zpracování chybových stavů."
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_parser:9 of
+msgid "argument_parser.py"
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_parser.ArgumentParser:1 of
+msgid "Bases: :py:class:`~argparse.ArgumentParser`"
+msgstr "Základ: :py:class:`~argparse.ArgumentParser`"
+
+#: es_tools.handlers.argument_handler.argument_parser.ArgumentParser:3 of
+msgid ""
+"Metody této třídy implementují analyzátor uživatelských argumentů. "
+"Hlavním cílem této třídy je implementace metody přepisující funkcionalitu"
+" stejnojmenné metody rodičovské třídy argparse.ArgumentParser pro "
+"zpracování chybových stavů při zpracování vstupních argumentů. Motivací "
+"vytvoření příslušné třídy je zadání vlastního tvaru výpisu chybové zprávy"
+" a ukončení programu s vlastním chybovým kódem."
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_parser.ArgumentParser.error:1 of
+msgid ""
+"Výpis chybové zprávy pro zpracování argumentů a ukončení programu s "
+"chybovým kódem."
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_parser.ArgumentParser.error:3 of
+msgid ""
+"Tato metoda přepisuje stejnojmennou metodu rodičovské třídy "
+"argparse.ArgumentParser, přičemž je nastaven vlastní tvar výpisu chybové "
+"zprávy a zvolen vlastní chybový kód pro ukončení programu."
+msgstr ""
+
+#: es_tools.handlers.argument_handler.argument_parser.ArgumentParser.error:6 of
+msgid "chybová zpráva."
+msgstr ""
+
+#: ../../es_tools.handlers.argument_handler.rst:25
+msgid "Module contents"
+msgstr "Obsah modulu"
+

@@ -1,0 +1,493 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, David Chocholatý
+# This file is distributed under the same license as the es-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: es-tools \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-01 21:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../es_tools.formal_models.erasing_system.rst:2
+msgid "erasing\\_system package"
+msgstr "balíček erasing\\_system"
+
+#: ../../es_tools.formal_models.erasing_system.rst:5
+msgid "Subpackages"
+msgstr "Dílčí balíčky"
+
+#: ../../es_tools.formal_models.erasing_system.rst:13
+msgid "Submodules"
+msgstr "Dílčí moduly"
+
+#: ../../es_tools.formal_models.erasing_system.rst:16
+msgid "erasing\\_system module"
+msgstr "modul erasing\\_system"
+
+#: es_tools.formal_models.erasing_system.erasing_system:1
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem:1 of
+msgid "Implementace vymazávacího systému."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system:3 of
+msgid ""
+"Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, "
+"Brno 2023."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system:5 of
+msgid ""
+"Tento soubor obsahuje implementaci formálního systému nazývaného "
+"vymazávací systém, přičemž obsahuje implementaci jeho hlavního algoritmu,"
+" který je v textu zachycen v příloze E. Celkově je vymazávací systém "
+"implementován pomocí metod třídy ErasingSystem a pomocných funkcí."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system of
+msgid "Author"
+msgstr "Autor"
+
+#: es_tools.formal_models.erasing_system.erasing_system:9 of
+msgid "David Chocholatý"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system of
+msgid "Contact"
+msgstr "Kontakt"
+
+#: es_tools.formal_models.erasing_system.erasing_system:10 of
+msgid "xchoch09@stud.fit.vutbr.cz"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system of
+msgid "Filename"
+msgstr "Soubor"
+
+#: es_tools.formal_models.erasing_system.erasing_system:11 of
+msgid "erasing_system.py"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem:1 of
+msgid "Bases: :py:class:`~es_tools.formal_models.formal_model.FormalModel`"
+msgstr "Základ: :py:class:`~es_tools.formal_models.formal_model.FormalModel`"
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem:3 of
+msgid ""
+"Tato třída poskytuje metody, které implementují hlavní funkcionalitu "
+"vymazávacího systému. Kromě konstruktoru, metod pro získání či nastavení "
+"hodnot, hlavní algoritmus činnosti vymazávacího systému, který je v textu"
+" zachycen v příloze E, představuje metoda _is_accepted()."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem:7 of
+msgid ""
+"Třida je zděděna od abstraktní třídy FormalModel, která slouží jako "
+"bázová třída pro všechny formální modely implementované v celém projektu."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem:10 of
+msgid "**Konstruktor třídy ErasingSystem**"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem:12 of
+msgid ""
+"Konstruktor slouží především pro nastavení základních entit konečného "
+"převodníku, jako je například množina vymazávacích řetězců či regulární "
+"jazyk. Zároveň konstruktor zajišťuje nastavení parametrů pro samotnou "
+"činnost vymazávacího systému, a to typ použitého kvantifikátoru, určení, "
+"zda mají být ověřovány všechny pozice vymazávacích řetězců nebo jestli se"
+" mají vypisovat dodatečné podrobnější informace o zpracování vstupního "
+"řetězce na standarní výstup."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._is_accepted
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_regular_language
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_using_greedy_approach
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_using_lazy_approach
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._set_erasing_strings
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._set_regular_language
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.run of
+msgid "Parametry"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem:18 of
+msgid "množina vymazávacích řetězců."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem:20 of
+msgid "řetězec obsahující regulární výraz reprezentující regulární jazyk."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem:22 of
+msgid ""
+"pravdivostní hodnota, zda mají být ověřovány všechny pozice vymazávacích "
+"řetězců, přičemž přirozeně platí vztahy: True - Ano, False - Ne."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem:25 of
+msgid ""
+"typ kvantifikátoru. Pokud True, je použit chamtivý kvantifikátor (greedy "
+"quantifier). V opačném případě se použije takzvaný líný kvantifikátor "
+"(lazy quantifier)."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem:29 of
+msgid ""
+"definování, zdá mají být při provádění algoritmu vypisovány na standardní"
+" výstup dodatečné podrobné informace (aktuální stav vstupní pásky, "
+"použitý vymazávací řetězec, řetězec vzniklý konkatenací dříve využitých "
+"vymazávacích řetězců). Pokud obsahuje hodnotu True, informace jsou "
+"vypisovány."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._set_erasing_strings
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._set_regular_language
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.run of
+msgid "Vyvolá"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem:34 of
+msgid "výskyt nepovoleného symbolu ve vymazávacím řetězci."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem:35
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._set_regular_language:11
+#: of
+msgid "nevalidní nebo nepovolený tvar regulárního výrazu pro regulární jazyk."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._is_accepted:1
+#: of
+msgid "Hlavní algoritmus činnosti vymazávacího systému."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._is_accepted:3
+#: of
+msgid ""
+"Tato metoda implementuje hlavní algoritmus vymazávacího systému, který je"
+" v textu představen v sekci 7.1 a zapsán pomocí výpisu a pseudokódu v "
+"příloze E."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._is_accepted:6
+#: of
+msgid "vstupní páska v aktuálním stavu přijímání."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._is_accepted:8
+#: of
+msgid ""
+"řetězec vzniklý konkatenací použitých vymazávacích řetězců v aktuálním "
+"stavu přijímání."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._is_accepted
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_regular_language
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_using_greedy_approach
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_using_lazy_approach
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.run of
+msgid "Vrací"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._is_accepted:11
+#: of
+msgid ""
+"pravdivostní hodnota, zda vstupní řetězec je přijat vymazávacím systémem "
+"(True) či nikoliv (False) pro daný tvar vstupní pásky a řetězce vzniklého"
+" konkatenací použitých vymazávacích řetězců. Tato navrácená hodnota je "
+"využívána při rekurzivních volání metody."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._is_accepted
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_regular_language
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_using_greedy_approach
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_using_lazy_approach
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.run of
+msgid "Typ návratové hodnoty"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_regular_language:1
+#: of
+msgid "Ověření, zda řetězec může náležet do regulárního jazyka."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_regular_language:3
+#: of
+msgid ""
+"Tato metoda slouží pro ověření, zda řetězec vzniklý konkatenací použitých"
+" vymazávacích řetězců by po libovolném počtu vymazávacích kroků mohl "
+"náležet do reguláního jazyka. Samotná tato metoda ověřuje pouze, pokud "
+"vstupní řetězec má náležet do regulárního jazyka právě v aktuálním kroku "
+"(tedy po počtu nula kroků) — full_match. V opačném případě, pokud se "
+"neprovádí celkové porovnání, metoda na základě nastavení volá metody "
+"zpracování pro příslušné typy kvantifikátorů (chamtivý nebo líný)."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_regular_language:9
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_using_greedy_approach:7
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_using_lazy_approach:7
+#: of
+msgid "vstupní řetězec vzniklý konkatenací použitých vymazávacích řetězců."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_regular_language:11
+#: of
+msgid "nastavení, zdá řetězec má náležet do regulárního jazyka v aktuálním kroku."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_regular_language:13
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_using_greedy_approach:9
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_using_lazy_approach:9
+#: of
+msgid ""
+"trojice hodnot, které po řadě reprezentují: 1. zda řetězec může náležet "
+"do regulárního jazyka, 2. úroveň shody řetězce s regulárním výrazem 3. "
+"seznam obsahující počty opakování jednotlivých podvýrazů regulárního "
+"výrazu ve vstupním řetězci."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_using_greedy_approach:1
+#: of
+msgid ""
+"Oveření, zda řetězec může náležet do regulárního jazyka s využitím "
+"chamtivého kvantifikátoru."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_using_greedy_approach:3
+#: of
+msgid ""
+"Tato metoda slouží pro ověření, zda řetězec vzniklý konkatenací použitých"
+" vymazávacích řetězců by po libovolném počtu jednoho a více vymazávacích "
+"kroků mohl náležet do reguláního jazyka s využitím přístupu chamtivého "
+"kvantifikátoru."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_using_lazy_approach:1
+#: of
+msgid ""
+"Oveření, zda řetězec může náležet do regulárního jazyka s využitím líného"
+" kvantifikátoru."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._match_using_lazy_approach:3
+#: of
+msgid ""
+"Tato metoda slouží pro ověření, zda řetězec vzniklý konkatenací použitých"
+" vymazávacích řetězců by po libovolném počtu jednoho a více vymazávacích "
+"kroků mohl náležet do reguláního jazyka s využitím přístupu líného "
+"kvantifikátoru."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._set_erasing_strings:1
+#: of
+msgid "Nastavení množiny vymazávacích řetězců vymazávacího systému."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._set_erasing_strings:3
+#: of
+msgid ""
+"Tato metoda zajišťuje nastavení množiny vymazávacích řetězců, přičemž "
+"jako privátní metodu ji využívá pouze konstruktor třídy ErasingSystem."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._set_erasing_strings:6
+#: of
+msgid "množina vymazávacích řetězců, která má být nastavena."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._set_erasing_strings:8
+#: of
+msgid "minimálně jeden z vymazávacích řetězců množiny obsahuje nepovolený symbol."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._set_regular_language:1
+#: of
+msgid "Nastavení regulárního výrazu pro regulární jazyk vymazávacího systému."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._set_regular_language:3
+#: of
+msgid ""
+"Tato metoda zajišťuje nastavení regulárního výrazu pro regulární jazyk "
+"vymazávacího systému, přičemž jako privátní metodu ji využívá pouze "
+"konstruktor třídy ErasingSystem. Nutno zdůraznit, že samotný regulární "
+"jazyk je rozdělen na seznam obsahující jednotlivé podvýrazy regulárního "
+"výrazu pro regulární jazyk za účelem pozdějšího porovnávání vstupních "
+"řetězců s jednotlivými prefixy regulárního výrazu. Například regulární "
+"výraz \"(ab)*(c|de)+fg*[hij]*\" je rozdělen na seznam [\"(ab)\", \"*\", "
+"\"(c|de)\", \"+\", \"f\", \"g\", \"*\", \"[hij]\", \"*\"]."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem._set_regular_language:9
+#: of
+msgid ""
+"regulární výraz pro regulární jazyk právě definovaného vymazávacího "
+"systému."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.alphabet:1
+#: of
+msgid "Abeceda vymazávacího systému."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.alphabet
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.erasing_strings
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.quantifier_type_greedy
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.regular_language
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.test_all_overlapping_positions
+#: of
+msgid "getter"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.alphabet:3
+#: of
+msgid "získání abecedy definovaného vymazávacího systému."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.alphabet
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.erasing_strings
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.quantifier_type_greedy
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.regular_language
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.test_all_overlapping_positions
+#: of
+msgid "type"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.alphabet:4
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.erasing_strings:4
+#: of
+msgid "Set[str]"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.erasing_strings:1
+#: of
+msgid "Vymazávací řetězce vymazávacího systému."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.erasing_strings:3
+#: of
+msgid "získání množiny vymazávacích řetězců vymazávacího systému."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.quantifier_type_greedy:1
+#: of
+msgid "Nastavení typu kvantifikátoru."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.quantifier_type_greedy:3
+#: of
+msgid ""
+"Nastavení typu kvantifikátoru, přičemž se uvažuje pravdivostní hodnota, "
+"která určuje, zdá má být použit chamtivý kvantifikátor. V opačném případě"
+" algoritmus využívá takzvaný líný kvantifikátor."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.quantifier_type_greedy:6
+#: of
+msgid "získání typu kvantifikátoru (True — chamtivý, False — líný)."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.quantifier_type_greedy
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.test_all_overlapping_positions
+#: of
+msgid "setter"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.quantifier_type_greedy:7
+#: of
+msgid "nastavení typu kvantifikátoru (True — chamtivý, False — líný)."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.quantifier_type_greedy:8
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.test_all_overlapping_positions:8
+#: of
+msgid "bool"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.regular_language:1
+#: of
+msgid "Regulární jazyk vymazávacího systému."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.regular_language:3
+#: of
+msgid "získání regulárního výrazu pro regulární jazyk vymazávacího systému."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.regular_language:4
+#: of
+msgid "List[str]"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.run:1 of
+msgid "Spuštění hlavního algoritmu činnosti vymazávacího systému."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.run:3 of
+msgid ""
+"Tato metoda slouží především pro spuštění hlavního algoritmu činnosti "
+"vymazávacího systému, který využívá rekurzivních volání metody "
+"_is_accepted(). Dále před spuštěním samotné funkcionality vymazávacího "
+"systému metoda ověřuje, zda délka vstupní řetězec nepřesahuje maximální "
+"povolenou délku."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.run:7 of
+msgid "vstupní řetězec, přičemž se jedná o počáteční tvar vstupní pásky."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.run:8 of
+msgid ""
+"pravdivostní hodnota, zda vstupní řetězec je přijat vymazávacím systémem "
+"(True) či nikoliv (False)."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.run:10 of
+msgid ""
+"překročena maximální povolená délka vstupního řetězce pro vymazávací "
+"systém."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.test_all_overlapping_positions:1
+#: of
+msgid "Testování všech překrývajících se pozic vymazávacích řetězců."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.test_all_overlapping_positions:3
+#: of
+msgid ""
+"Nastavení, zda mají být při vykonávání algoritmu ověřovány všechny pozice"
+" vymazávacích řetězců ve vstupním řetězci."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.test_all_overlapping_positions:6
+#: of
+msgid ""
+"získání pravdivostní hodnoty pro nastavení ověřování všech pozic "
+"vymazávacích řetězců."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.erasing_system.ErasingSystem.test_all_overlapping_positions:7
+#: of
+msgid ""
+"nastavení ověřování všech pozic vymazávacích řetězců (zda se mají "
+"ověřovat či nikoliv)."
+msgstr ""
+
+#: ../../es_tools.formal_models.erasing_system.rst:24
+msgid "Module contents"
+msgstr "Obsah modulu"
+

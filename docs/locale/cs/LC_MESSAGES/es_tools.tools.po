@@ -1,0 +1,253 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, David Chocholatý
+# This file is distributed under the same license as the es-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: es-tools \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-01 21:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../es_tools.tools.rst:2
+msgid "tools package"
+msgstr "balíček tools"
+
+#: ../../es_tools.tools.rst:5
+msgid "Subpackages"
+msgstr "Dílčí balíčky"
+
+#: ../../es_tools.tools.rst:17
+msgid "Submodules"
+msgstr "Dílčí moduly"
+
+#: ../../es_tools.tools.rst:20
+msgid "tool module"
+msgstr "modul tool"
+
+#: es_tools.tools.tool:1 of
+msgid "Abtraktní třída pro nástroj."
+msgstr ""
+
+#: es_tools.tools.tool:3 of
+msgid ""
+"Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, "
+"Brno 2023."
+msgstr ""
+
+#: es_tools.tools.tool:5 of
+msgid ""
+"Tento soubor obsahuje abstraktní třídu, která je bázovou třídou pro "
+"všechny nástroje implementující jednotlivé aplikace vymazávacího systému,"
+" jejichž třídy jsou zděděny od této třídy."
+msgstr ""
+
+#: es_tools.tools.tool of
+msgid "Author"
+msgstr "Autor"
+
+#: es_tools.tools.tool:8 of
+msgid "David Chocholatý"
+msgstr ""
+
+#: es_tools.tools.tool of
+msgid "Contact"
+msgstr "Kontakt"
+
+#: es_tools.tools.tool:9 of
+msgid "xchoch09@stud.fit.vutbr.cz"
+msgstr ""
+
+#: es_tools.tools.tool of
+msgid "Filename"
+msgstr "Soubor"
+
+#: es_tools.tools.tool:10 of
+msgid "tool.py"
+msgstr ""
+
+#: es_tools.tools.tool.Tool:1 of
+msgid "Bases: :py:class:`~abc.ABC`"
+msgstr "Základ: :py:class:`~abc.ABC`"
+
+#: es_tools.tools.tool.Tool:1 of
+msgid "Základní třída pro nástroje implementující aplikace vymazávacího systému."
+msgstr ""
+
+#: es_tools.tools.tool.Tool:3 of
+msgid ""
+"Tato abstraktní třída se využívá jako kořenová třída pro všechny "
+"nástroje, které dědí od této třídy. Významnými metodami, které obsahuje, "
+"jsou abstraktní metody _initialize_tool() a run(). Metoda "
+"_initialize_tool() slouží pro inicializaci nástroje a metoda run() "
+"sjednocuje rozhraní nástrojů pro spuštění jejich vlastní funkcionality."
+msgstr ""
+
+#: es_tools.tools.tool.Tool:7 of
+msgid "**Kontruktor třídy Tool**"
+msgstr ""
+
+#: es_tools.tools.tool.Tool:9 of
+msgid ""
+"Konstruktor slouží pouze pro nastavení základních hodnot atributů třídy, "
+"přičemž především je nastavena hodnota určující očekávaný počet vstupních"
+" řádků ve vstupním souboru pro daný nástroj, jehož třída je odvozena od "
+"této třídy."
+msgstr ""
+
+#: es_tools.tools.tool.Tool es_tools.tools.tool.Tool._add_custom_arguments of
+msgid "Parametry"
+msgstr ""
+
+#: es_tools.tools.tool.Tool:13 of
+msgid ""
+"očekávaný počet řádků ve vstupním souboru (hodnota -1 značí neomezený "
+"počet)."
+msgstr ""
+
+#: es_tools.tools.tool.Tool._add_custom_arguments:1 of
+msgid "Metoda pro přidání specifických uživatelských argumentů pro daný nástroj."
+msgstr ""
+
+#: es_tools.tools.tool.Tool._add_custom_arguments:3 of
+msgid ""
+"Hlavním cílem této metody je sjednotit soukromé metody pro implementované"
+" nástroje, přičemž její implementace není zcela striktně vyžadována, "
+"pokud by nástroj nevyužíval specifické uživatelské argumenty."
+msgstr ""
+
+#: es_tools.tools.tool.Tool._add_custom_arguments:6 of
+msgid "analyzátor uživatelských argumentů."
+msgstr ""
+
+#: es_tools.tools.tool.Tool._create_custom_argument_handler:1 of
+msgid "Metoda pro vytvoření manipulátoru s uživatelskými argumenty."
+msgstr ""
+
+#: es_tools.tools.tool.Tool._create_custom_argument_handler:3 of
+msgid ""
+"Metoda pro vytvoření manipulátoru s uživatelskými argumenty, přičemž ke "
+"společným argumentům jsou přidány i specifické pro daný nástroj. Hlavním "
+"cílem této metody je sjednotit soukromé metody pro implementované "
+"nástroje, přičemž její implementace není zcela striktně vyžadována, pokud"
+" by nástroj pro svou funkcionalitu nepožadoval žádné uživatelské "
+"argumenty."
+msgstr ""
+
+#: es_tools.tools.tool.Tool._create_custom_argument_handler
+#: es_tools.tools.tool.Tool.get_tool_name of
+msgid "Vrací"
+msgstr ""
+
+#: es_tools.tools.tool.Tool._create_custom_argument_handler:8 of
+msgid "manipulátor s uživatelskými argumenty."
+msgstr ""
+
+#: es_tools.tools.tool.Tool._create_custom_argument_handler
+#: es_tools.tools.tool.Tool.get_tool_name of
+msgid "Typ návratové hodnoty"
+msgstr ""
+
+#: es_tools.tools.tool.Tool._initialize_tool:1 of
+msgid "Abstraktní metoda reprezentující metodu pro inicializaci nástroje."
+msgstr ""
+
+#: es_tools.tools.tool.Tool._initialize_tool:3 of
+msgid ""
+"Tato abstraktní metoda reprezentuje metodu pro inicializaci nástroje, to "
+"znamená pro načtení vstupních dat ze souboru a zpracování uživatelských "
+"argumentů."
+msgstr ""
+
+#: es_tools.tools.tool.Tool._load_arguments:1 of
+msgid "Metoda pro načtení uživatelských argumentů."
+msgstr ""
+
+#: es_tools.tools.tool.Tool._load_arguments:3 of
+msgid ""
+"Hlavním cílem této metody je sjednotit soukromé metody pro implementované"
+" nástroje, přičemž její implementace není zcela striktně vyžadována, "
+"pokud by nástroj nepožadoval pro svou funkcionalitu žádné uživatelské "
+"parametry."
+msgstr ""
+
+#: es_tools.tools.tool.Tool._run_main_algorithm:1 of
+msgid ""
+"Abstraktní metoda reprezentující metody pro spuštení hlavního algoritmu "
+"příslušného nástroje."
+msgstr ""
+
+#: es_tools.tools.tool.Tool._run_main_algorithm:3 of
+msgid ""
+"Hlavním cílem této metody je sjednotit soukromé funkce pro implementované"
+" nástroje, přičemž její implementace je striktně vyžadována."
+msgstr ""
+
+#: es_tools.tools.tool.Tool.get_tool_name:1 of
+msgid "Získání názvu nástroje."
+msgstr ""
+
+#: es_tools.tools.tool.Tool.get_tool_name:3 of
+msgid "název nástroje."
+msgstr ""
+
+#: es_tools.tools.tool.Tool.load_input_data:1 of
+msgid "Načtení dat ze vstupního souboru."
+msgstr ""
+
+#: es_tools.tools.tool.Tool.load_input_data:3 of
+msgid ""
+"Tato fundamentální metoda abstraktní třídy Tool slouží pro vytvoření "
+"manipulátoru pro práci se vstupním souborem, přičemž pokud je to možné, "
+"jsou zároveň načtena vstupní data."
+msgstr ""
+
+#: es_tools.tools.tool.Tool.load_input_data of
+msgid "Vyvolá"
+msgstr ""
+
+#: es_tools.tools.tool.Tool.load_input_data:6 of
+msgid "neočekávaný výskyt interní chyby programu."
+msgstr ""
+
+#: es_tools.tools.tool.Tool.load_input_data:7 of
+msgid "neplatná struktura vstupních dat."
+msgstr ""
+
+#: es_tools.tools.tool.Tool.load_input_data:8 of
+msgid ""
+"chyba při pokusu o načtení vstupních dat ze souboru (soubor neexistuje, "
+"jedná se o adresář, ...)."
+msgstr ""
+
+#: es_tools.tools.tool.Tool.print_tool_name:1 of
+msgid "Metoda sloužící pro výpis názvu nástroje na standardní výstup."
+msgstr ""
+
+#: es_tools.tools.tool.Tool.run:1 of
+msgid ""
+"Abstraktní metoda reprezentující metodu pro spuštění funkcionality "
+"nástoje."
+msgstr ""
+
+#: es_tools.tools.tool.Tool.run:3 of
+msgid ""
+"Tato abstraktní metoda reprezentuje metodu pro spuštění samotného "
+"algoritmu a funkcionality nástroje. Cílem této metody a sjednotit "
+"rozhraní pro všechny implementované nástroje."
+msgstr ""
+
+#: ../../es_tools.tools.rst:28
+msgid "Module contents"
+msgstr "Obsah modulu"
+

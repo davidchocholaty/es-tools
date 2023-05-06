@@ -1,0 +1,340 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, David Chocholatý
+# This file is distributed under the same license as the es-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: es-tools \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-01 21:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../es_tools.tools.amino_acid_sequence_search_tool.custom_utils.rst:2
+msgid ""
+"custom\\_utils "
+"package"
+msgstr "balíček custom\\_utils"
+
+#: ../../es_tools.tools.amino_acid_sequence_search_tool.custom_utils.rst:5
+msgid "Submodules"
+msgstr "Dílčí moduly"
+
+#: ../../es_tools.tools.amino_acid_sequence_search_tool.custom_utils.rst:8
+msgid ""
+"custom\\_constants"
+" module"
+msgstr "modul custom\\_constants"
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_constants:1
+#: of
+msgid ""
+"Specifické konstanty nástroje pro vyhledávání proteinů a sekvencí "
+"aminokyselin proteinů."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_constants:3
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation:3
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation:3
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.possible_symbols:3
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.valid_searched_sequences:3
+#: of
+msgid ""
+"Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, "
+"Brno 2023."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_constants
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.possible_symbols
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.valid_searched_sequences
+#: of
+msgid "Author"
+msgstr "Autor"
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_constants:5
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation:8
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation:8
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.possible_symbols:5
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.valid_searched_sequences:8
+#: of
+msgid "David Chocholatý"
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_constants
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.possible_symbols
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.valid_searched_sequences
+#: of
+msgid "Contact"
+msgstr "Kontakt"
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_constants:6
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation:9
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation:9
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.possible_symbols:6
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.valid_searched_sequences:9
+#: of
+msgid "xchoch09@stud.fit.vutbr.cz"
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_constants
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.possible_symbols
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.valid_searched_sequences
+#: of
+msgid "Filename"
+msgstr "Soubor"
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_constants:7
+#: of
+msgid "custom_constants.py"
+msgstr ""
+
+#: ../../es_tools.tools.amino_acid_sequence_search_tool.custom_utils.rst:16
+msgid ""
+"custom\\_erasing\\_system\\_creation"
+" module"
+msgstr "modul custom\\_erasing\\_system\\_creation"
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation:1
+#: of
+msgid ""
+"Vytvoření vymazávacího systému aplikovaného na vyhledávání proteinů a "
+"sekvencí aminokyselin proteinů."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation:5
+#: of
+msgid ""
+"Tento soubor obsahuje funkci pro vytvoření vymazávacího systému "
+"aplikovaného na vyhledávání proteinů a sekvencí aminokyselin proteinů."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation:10
+#: of
+msgid "custom_erasing_system_creation.py"
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system:1
+#: of
+msgid ""
+"Vytvoření vymazávacího systému pro vyhledávání proteinů a sekvencí "
+"aminokyselin proteinů."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system:3
+#: of
+msgid ""
+"Tato funkce slouží pro vytvoření vymazávacího systému pro vyhledávání "
+"proteinů a sekvencí aminokyselin proteinů, přičemž jsou jednotlivé "
+"vyhledávané sekvence a podsekvence aminokyselin nastaveny dle zadaných "
+"parametrů."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation.create_transducer_triplets_processing
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.valid_searched_sequences.valid_searched_sequences
+#: of
+msgid "Parametry"
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system:6
+#: of
+msgid "vyhledávané sekvence aminokyselin kódující proteiny."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system:8
+#: of
+msgid "vyhledávané podsekvence aminokyselin proteinů."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system:10
+#: of
+msgid "typ kvantifikátoru (True — chamtivý, False — líný)."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system:12
+#: of
+msgid ""
+"určení, zda mají být vypisovány na standardní výstup při činnosti "
+"vymazávacího systému podrobné informace."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation.create_transducer_triplets_processing
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.valid_searched_sequences.valid_searched_sequences
+#: of
+msgid "Vrací"
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system:15
+#: of
+msgid "vytvořený vymazávací systém dle zadaných parametrů."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation.create_transducer_triplets_processing
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.valid_searched_sequences.valid_searched_sequences
+#: of
+msgid "Typ návratové hodnoty"
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation.create_transducer_triplets_processing
+#: of
+msgid "Vyvolá"
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system:17
+#: of
+msgid "výskyt nepovoleného symbolu ve vymazávacím řetězci."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system:18
+#: of
+msgid "nevalidní nebo nepovolený tvar regulárního výrazu pro regulární jazyk."
+msgstr ""
+
+#: ../../es_tools.tools.amino_acid_sequence_search_tool.custom_utils.rst:24
+msgid ""
+"custom\\_transducer\\_creation"
+" module"
+msgstr "modul custom\\_transducer\\_creation"
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation:1
+#: of
+msgid ""
+"Vytvoření konečného převodníku pro převod sekvence RNA na sekvenci "
+"proteinů."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation:5
+#: of
+msgid ""
+"Tento soubor obsahuje funkci pro vytvoření konečného převodníku, který "
+"provádí překlad vstupní sekvence RNA na sekvenci proteinů."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation:10
+#: of
+msgid "custom_transducer_creation.py"
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation.create_transducer_triplets_processing:1
+#: of
+msgid ""
+"Vytvoření konečného převodníku pro translaci prokaryotické sekvence RNA "
+"na sekvenci proteinů."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation.create_transducer_triplets_processing:3
+#: of
+msgid ""
+"Tato funkce slouží pro vytvoření konečného převodníku pro translaci "
+"prokaryotické sekvence RNA na sekvenci proteinů, přičemž je možné určit, "
+"zda může RNA sekvence obsahovat na svém konci protein, který není "
+"zakončen takzvaným stop kodonem."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation.create_transducer_triplets_processing:7
+#: of
+msgid ""
+"určení, zda může RNA sekvence končit i proteinem, který není ukončen "
+"takzvaným stop kodonem, přičemž je dodržený převod po trojicích "
+"nukleotidů."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation.create_transducer_triplets_processing:10
+#: of
+msgid "vytvořený konečný převodník."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation.create_transducer_triplets_processing:12
+#: of
+msgid "počáteční stav nenáleží do množiny stavů."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.custom_transducer_creation.create_transducer_triplets_processing:13
+#: of
+msgid "množina koncových stavů není podmnožinou množiny stavů."
+msgstr ""
+
+#: ../../es_tools.tools.amino_acid_sequence_search_tool.custom_utils.rst:32
+msgid ""
+"custom\\_utils.possible\\_symbols"
+" module"
+msgstr "modul custom\\_utils.possible\\_symbols"
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.possible_symbols:1
+#: of
+msgid "Možné symboly pro sekvence aminokyselin kódující protein."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.possible_symbols:7
+#: of
+msgid "possible_symbols.py"
+msgstr ""
+
+#: ../../es_tools.tools.amino_acid_sequence_search_tool.custom_utils.rst:40
+msgid ""
+"valid\\_searched\\_sequences"
+" module"
+msgstr "modul valid\\_searched\\_sequences"
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.valid_searched_sequences:1
+#: of
+msgid "Ověření validity vyhledávaných sekvencí aminokyselin."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.valid_searched_sequences:5
+#: of
+msgid ""
+"Tento soubor obsahuje funkci pro ověření validity vyhledávaných sekvencí "
+"aminokyselin, přičemž se přirozeně kontroluje, zda se sekvence skládá "
+"pouze z povolených symbolů zastupujících jednotlivé aminokyseliny."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.valid_searched_sequences:10
+#: of
+msgid "valid_searched_sequences.py"
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.valid_searched_sequences.valid_searched_sequences:1
+#: of
+msgid "Ověření validity sekvencí aminokyselin."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.valid_searched_sequences.valid_searched_sequences:3
+#: of
+msgid ""
+"Tato funkce slouží pro ověření, že se sekvence aminokyselin skládají "
+"pouze ze symbolů, které kódují jednotlivé aminokyseliny."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.valid_searched_sequences.valid_searched_sequences:6
+#: of
+msgid "sekvence pro ověření validity."
+msgstr ""
+
+#: es_tools.tools.amino_acid_sequence_search_tool.custom_utils.valid_searched_sequences.valid_searched_sequences:8
+#: of
+msgid "určení, zda všechny sekvence jsou validní (True) či nikoliv (False)."
+msgstr ""
+
+#: ../../es_tools.tools.amino_acid_sequence_search_tool.custom_utils.rst:48
+msgid "Module contents"
+msgstr "Obsah modulu"
+

@@ -1,0 +1,215 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, David Chocholatý
+# This file is distributed under the same license as the es-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: es-tools \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-01 21:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../es_tools.tests.formal_models.transducers.rst:2
+msgid "transducers package"
+msgstr "balíček transducers"
+
+#: ../../es_tools.tests.formal_models.transducers.rst:3
+msgid ""
+"Balíček obsahující jednotkové testy pro implementované převodníky "
+"(konečný převodník a deterministický zobecněný sekvenční stroj)."
+msgstr ""
+
+#: ../../es_tools.tests.formal_models.transducers.rst:6
+msgid "Submodules"
+msgstr "Dílčí moduly"
+
+#: ../../es_tools.tests.formal_models.transducers.rst:9
+msgid ""
+"deterministic\\_gsm\\_test "
+"module"
+msgstr "modul deterministic\\_gsm\\_test"
+
+#: es_tools.tests.formal_models.transducers.deterministic_gsm_test:1 of
+msgid "Testy pro deterministický zobecněný sekvenční stroj."
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.deterministic_gsm_test:3
+#: es_tools.tests.formal_models.transducers.finite_transducer_test:3 of
+msgid ""
+"Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, "
+"Brno 2023."
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.deterministic_gsm_test:5 of
+msgid ""
+"Tento soubor obsahuje testy pro ověření správnosti implementace "
+"deterministického zobecněného sekvenčního stroje."
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.deterministic_gsm_test
+#: es_tools.tests.formal_models.transducers.finite_transducer_test of
+msgid "Author"
+msgstr "Autor"
+
+#: es_tools.tests.formal_models.transducers.deterministic_gsm_test:7
+#: es_tools.tests.formal_models.transducers.finite_transducer_test:7 of
+msgid "David Chocholatý"
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.deterministic_gsm_test
+#: es_tools.tests.formal_models.transducers.finite_transducer_test of
+msgid "Contact"
+msgstr "Kontakt"
+
+#: es_tools.tests.formal_models.transducers.deterministic_gsm_test:8
+#: es_tools.tests.formal_models.transducers.finite_transducer_test:8 of
+msgid "xchoch09@stud.fit.vutbr.cz"
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.deterministic_gsm_test
+#: es_tools.tests.formal_models.transducers.finite_transducer_test of
+msgid "Filename"
+msgstr "Soubor"
+
+#: es_tools.tests.formal_models.transducers.deterministic_gsm_test:9 of
+msgid "deterministic_gsm_test.py"
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.deterministic_gsm_test.DeterministicGeneralizedSequentialMachineTest:1
+#: es_tools.tests.formal_models.transducers.finite_transducer_test.FiniteTransducerTest:1
+#: of
+msgid "Bases: :py:class:`~unittest.case.TestCase`"
+msgstr "Základ: :py:class:`~unittest.case.TestCase`"
+
+#: es_tools.tests.formal_models.transducers.deterministic_gsm_test.DeterministicGeneralizedSequentialMachineTest:1
+#: of
+msgid ""
+"Třída obsahující jednotkové testy pro deterministický zobecněný sekvenční"
+" stroj."
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.deterministic_gsm_test.DeterministicGeneralizedSequentialMachineTest:3
+#: of
+msgid ""
+"Tato třída obsahuje jednotkové testy pro ověření správnosti implementace "
+"deterministického zobecněného sekvenčního stroje."
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.deterministic_gsm_test.DeterministicGeneralizedSequentialMachineTest:6
+#: es_tools.tests.formal_models.transducers.finite_transducer_test.FiniteTransducerTest:5
+#: of
+msgid ""
+"Create an instance of the class that will use the named test method when "
+"executed. Raises a ValueError if the instance does not have a method with"
+" the specified name."
+msgstr "Vytvoří instanci třídy, která bude při spuštění používat pojmenovanou testovací metodu. Vyvolá hodnotu "
+"ValueError, pokud instance nemá metodu se zadaným názvem."
+
+#: es_tools.tests.formal_models.transducers.deterministic_gsm_test.DeterministicGeneralizedSequentialMachineTest.test_initial_state_not_in_states:1
+#: es_tools.tests.formal_models.transducers.finite_transducer_test.FiniteTransducerTest.test_initial_state_not_in_states:1
+#: of
+msgid ""
+"Testování případu, kdy počáteční stav nenáleží do množiny stavů konečného"
+" převodníku."
+msgstr ""
+
+#: ../../es_tools.tests.formal_models.transducers.rst:17
+msgid ""
+"finite\\_transducer\\_test "
+"module"
+msgstr "modul finite\\_transducer\\_test"
+
+#: es_tools.tests.formal_models.transducers.finite_transducer_test:1 of
+msgid "Testy pro konečný převodník."
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.finite_transducer_test:5 of
+msgid ""
+"Tento soubor obsahuje testy pro ověření správnosti implementace konečného"
+" převodníku."
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.finite_transducer_test:9 of
+msgid "finite_transducer_test.py"
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.finite_transducer_test.FiniteTransducerTest:1
+#: of
+msgid "Třída obsahující jednotkové testy pro konečný převodník."
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.finite_transducer_test.FiniteTransducerTest:3
+#: of
+msgid ""
+"Tato třída obsahuje jednotkové testy pro ověření správnosti implementace "
+"konečného převodníku."
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.finite_transducer_test.FiniteTransducerTest.test_accept_empty_string:1
+#: of
+msgid ""
+"Testování přijetí také prázdného řetězce (epsilon) konečným převodníkem a"
+" vygenerování výstupu."
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.finite_transducer_test.FiniteTransducerTest.test_empty_string_transition_as_last:1
+#: of
+msgid ""
+"Testování případu, kdy při posledním použitém přechodu je přečten prázdný"
+" symbol (epsilon)."
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.finite_transducer_test.FiniteTransducerTest.test_exceeding_maximum_output_string_length_no_empty_string:1
+#: of
+msgid ""
+"Testování překročení maximální povolené délky výstupního řetězce pro "
+"případ, kdy převodník neobsahuje přechod s prázdným řetězcem na vstupní "
+"straně."
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.finite_transducer_test.FiniteTransducerTest.test_exceeding_maximum_output_string_length_with_empty_string:1
+#: of
+msgid ""
+"Testování překročení maximální povolené délky výstupního řetězce pro "
+"případ, kdy převodník obsahuje přechod s prázdným řetězcem na vstupní "
+"straně."
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.finite_transducer_test.FiniteTransducerTest.test_final_states_not_states_subset:1
+#: of
+msgid ""
+"Testování případu, kdy množina koncových stavů není podmnožinou množiny "
+"koncových stavů."
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.finite_transducer_test.FiniteTransducerTest.test_non_deterministic_finite_transducer:1
+#: of
+msgid "Testování nedeterministického konečného převodníku."
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.finite_transducer_test.FiniteTransducerTest.test_valid_string_acceptance:1
+#: of
+msgid ""
+"Testování správného přijetí vstupního řetězce konečným převodníkem a "
+"vygenerování výstupu."
+msgstr ""
+
+#: es_tools.tests.formal_models.transducers.finite_transducer_test.FiniteTransducerTest.test_valid_string_rejection:1
+#: of
+msgid "Testování správného odmítnutí vstupního řetězce konečným převodníkem."
+msgstr ""
+
+#: ../../es_tools.tests.formal_models.transducers.rst:25
+msgid "Module contents"
+msgstr "Obsah modulu"
+

@@ -1,0 +1,555 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, David Chocholatý
+# This file is distributed under the same license as the es-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: es-tools \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-01 21:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../es_tools.tools.sequence_search_tool.custom_utils.rst:2
+msgid "custom\\_utils package"
+msgstr "balíček custom\\_utils"
+
+#: ../../es_tools.tools.sequence_search_tool.custom_utils.rst:5
+msgid "Submodules"
+msgstr "Dílčí moduly"
+
+#: ../../es_tools.tools.sequence_search_tool.custom_utils.rst:8
+msgid ""
+"custom\\_constants"
+" module"
+msgstr "modul custom\\_constants"
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_constants:1 of
+msgid "Specifické konstanty nástroje pro vyhledávání sekvencí."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_constants:3
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation:3
+#: es_tools.tools.sequence_search_tool.custom_utils.data_type:3
+#: es_tools.tools.sequence_search_tool.custom_utils.dna_search_types:3
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence:3
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure:3
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence:3
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence:3
+#: es_tools.tools.sequence_search_tool.custom_utils.valid_searched_sequences:3
+#: of
+msgid ""
+"Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, "
+"Brno 2023."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_constants
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation
+#: es_tools.tools.sequence_search_tool.custom_utils.data_type
+#: es_tools.tools.sequence_search_tool.custom_utils.dna_search_types
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence
+#: es_tools.tools.sequence_search_tool.custom_utils.valid_searched_sequences of
+msgid "Author"
+msgstr "Autor"
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_constants:5
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation:7
+#: es_tools.tools.sequence_search_tool.custom_utils.data_type:10
+#: es_tools.tools.sequence_search_tool.custom_utils.dna_search_types:7
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence:7
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure:8
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence:7
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence:7
+#: es_tools.tools.sequence_search_tool.custom_utils.valid_searched_sequences:7
+#: of
+msgid "David Chocholatý"
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_constants
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation
+#: es_tools.tools.sequence_search_tool.custom_utils.data_type
+#: es_tools.tools.sequence_search_tool.custom_utils.dna_search_types
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence
+#: es_tools.tools.sequence_search_tool.custom_utils.valid_searched_sequences of
+msgid "Contact"
+msgstr "Kontakt"
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_constants:6
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation:8
+#: es_tools.tools.sequence_search_tool.custom_utils.data_type:11
+#: es_tools.tools.sequence_search_tool.custom_utils.dna_search_types:8
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence:8
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure:9
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence:8
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence:8
+#: es_tools.tools.sequence_search_tool.custom_utils.valid_searched_sequences:8
+#: of
+msgid "xchoch09@stud.fit.vutbr.cz"
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_constants
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation
+#: es_tools.tools.sequence_search_tool.custom_utils.data_type
+#: es_tools.tools.sequence_search_tool.custom_utils.dna_search_types
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence
+#: es_tools.tools.sequence_search_tool.custom_utils.valid_searched_sequences of
+msgid "Filename"
+msgstr "Soubor"
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_constants:7 of
+msgid "custom_constants.py"
+msgstr ""
+
+#: ../../es_tools.tools.sequence_search_tool.custom_utils.rst:16
+msgid ""
+"custom\\_erasing\\_system\\_creation"
+" module"
+msgstr "modul custom\\_erasing\\_system\\_creation"
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation:1
+#: of
+msgid "Vytvoření vymazávacího systému aplikovaného na vyhledávání sekvencí."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation:5
+#: of
+msgid ""
+"Tento soubor obsahuje funkci pro vytvoření vymazávacího systému "
+"aplikovaného na vyhledávání sekvencí."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation:9
+#: of
+msgid "custom_erasing_system_creation.py"
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system:1
+#: of
+msgid ""
+"Vytvoření vymazávacího systému pro vyhledávání podsekvencí ve vstupní "
+"sekvenci."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence.process_dna_sequence
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure.process_rna_secondary_structure
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence.process_rna_sequence
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence.process_sequence
+#: es_tools.tools.sequence_search_tool.custom_utils.valid_searched_sequences.valid_searched_sequences
+#: of
+msgid "Parametry"
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system:3
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence.process_sequence:7
+#: of
+msgid "vyhledávané podsekvence ve vstupní sekvenci."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system:4
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence.process_dna_sequence:12
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure.process_rna_secondary_structure:5
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence.process_rna_sequence:5
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence.process_sequence:8
+#: of
+msgid "typ kvantifikátoru (True — chamtivý, False — líný)."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system:6
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence.process_dna_sequence:14
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure.process_rna_secondary_structure:7
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence.process_rna_sequence:7
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence.process_sequence:10
+#: of
+msgid ""
+"určení, zda mají být vypisovány na standardní výstup při činnosti "
+"vymazávacího systému podrobné informace."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence.process_sequence
+#: es_tools.tools.sequence_search_tool.custom_utils.valid_searched_sequences.valid_searched_sequences
+#: of
+msgid "Vrací"
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system:9
+#: of
+msgid "vytvořený vymazávací systém dle zadaných parametrů."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence.process_sequence
+#: es_tools.tools.sequence_search_tool.custom_utils.valid_searched_sequences.valid_searched_sequences
+#: of
+msgid "Typ návratové hodnoty"
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence.process_dna_sequence
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure.process_rna_secondary_structure
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence.process_rna_sequence
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence.process_sequence
+#: of
+msgid "Vyvolá"
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system:11
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence.process_dna_sequence:19
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure.process_rna_secondary_structure:12
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence.process_rna_sequence:12
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence.process_sequence:18
+#: of
+msgid "výskyt nepovoleného symbolu ve vymazávacím řetězci."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.custom_erasing_system_creation.create_custom_erasing_system:12
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence.process_dna_sequence:20
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure.process_rna_secondary_structure:13
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence.process_rna_sequence:13
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence.process_sequence:19
+#: of
+msgid "nevalidní nebo nepovolený tvar regulárního výrazu pro regulární jazyk."
+msgstr ""
+
+#: ../../es_tools.tools.sequence_search_tool.custom_utils.rst:24
+msgid ""
+"data\\_type "
+"module"
+msgstr "modul data\\_type"
+
+#: es_tools.tools.sequence_search_tool.custom_utils.data_type:1 of
+msgid "Povolené datové typy vstupních sekvencí."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.data_type:5 of
+msgid ""
+"Tento soubor obsahuje výčet možných datových typů vstupní sekvence pro "
+"vyhledávání podsekvencí. Vstupní řetězec může reprezentovat RNA sekvenci,"
+" sekundární strukturu RNA. V případě dvou vstupních řetězců můžou tyto "
+"řetězce reprezentovat vlákna DNA sekvence. Pokud vstupní sekvence "
+"neobsahuje bázi specifickou pro RNA nebo DNA, tedy uracil nebo thymin, "
+"tak se uvažuje datový typ určující, že se jedná o RNA nebo DNA "
+"(RNA_OR_DNA_SEQUENCE)."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.data_type:12 of
+msgid "data_type.py"
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.data_type.DataType:1 of
+msgid "Bases: :py:class:`~enum.Enum`"
+msgstr "Základ: :py:class:`~enum.Enum`"
+
+#: es_tools.tools.sequence_search_tool.custom_utils.data_type.DataType:1 of
+msgid "Výčet možných datových typů sekvencí."
+msgstr ""
+
+#: ../../docstring
+#: es_tools.tools.sequence_search_tool.custom_utils.data_type.DataType.DNA_SEQUENCE:1
+#: of
+msgid "DNA sekvence."
+msgstr ""
+
+#: ../../docstring
+#: es_tools.tools.sequence_search_tool.custom_utils.data_type.DataType.RNA_OR_DNA_SEQUENCE:1
+#: of
+msgid ""
+"Vstupní sekvence může být DNA nebo RNA sekvence, přičemž dle zadaných "
+"nukleotidů není možné přesně určit typ (sekvence neobsahuje bázi uracilu "
+"nebo thyminu)."
+msgstr ""
+
+#: ../../docstring
+#: es_tools.tools.sequence_search_tool.custom_utils.data_type.DataType.RNA_SECONDARY_STRUCTURE_SEQUENCE:1
+#: of
+msgid "Sekvence sekundární struktury RNA."
+msgstr ""
+
+#: ../../docstring
+#: es_tools.tools.sequence_search_tool.custom_utils.data_type.DataType.RNA_SEQUENCE:1
+#: of
+msgid "RNA sekvence."
+msgstr ""
+
+#: ../../docstring
+#: es_tools.tools.sequence_search_tool.custom_utils.data_type.DataType.UNSET:1
+#: of
+msgid "Datový typ sekvence není nastaven (výchozí hodnota)."
+msgstr ""
+
+#: ../../es_tools.tools.sequence_search_tool.custom_utils.rst:31
+msgid ""
+"dna\\_search\\_types"
+" module"
+msgstr "modul dna\\_search\\_types"
+
+#: es_tools.tools.sequence_search_tool.custom_utils.dna_search_types:1 of
+msgid "Typy vyhledávání podsekvencí ve vláknech DNA."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.dna_search_types:5 of
+msgid ""
+"Tento soubor obsahuje seznam všech možných typů vyhledávání podsekvencí "
+"ve dvou sekvencích DNA."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.dna_search_types:9 of
+msgid "dna_search_types.py"
+msgstr ""
+
+#: ../../es_tools.tools.sequence_search_tool.custom_utils.rst:39
+msgid ""
+"process\\_dna\\_sequence"
+" module"
+msgstr "modul process\\_dna\\_sequence"
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence:1 of
+msgid "Vyhledávání podsekvencí ve vláknech DNA."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence:5 of
+msgid ""
+"Tento soubor obsahuje funkci, která implementuje hlavní algoritmus pro "
+"vyhledávání podsekvencí ve dvou vláknech DNA."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence:9 of
+msgid "process_dna_sequence.py"
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence.process_dna_sequence:1
+#: of
+msgid "Vyhledávání sekvencí ve dvou vláknech DNA."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence.process_dna_sequence:3
+#: of
+msgid ""
+"Tato funkce slouží pro vyhledávání sekvencí ve dvou vláknech DNA. Na "
+"základě typu vyhledávání je případně provedena reverzace druhého vlákna "
+"DNA."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence.process_dna_sequence:6
+#: of
+msgid "seznam obsahující dvě položky, a to jednotlivá vlákna DNA."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence.process_dna_sequence:8
+#: of
+msgid "vyhledávané sekvence ve vláknech DNA."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence.process_dna_sequence:10
+#: of
+msgid "typ vyhledávání ve vláknech DNA."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence.process_dna_sequence:17
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure.process_rna_secondary_structure:10
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence.process_rna_sequence:10
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence.process_sequence:16
+#: of
+msgid "počáteční stav nenáleží do množiny stavů."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence.process_dna_sequence:18
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure.process_rna_secondary_structure:11
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence.process_rna_sequence:11
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence.process_sequence:17
+#: of
+msgid "množina koncových stavů není podmnožinou množiny stavů."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_dna_sequence.process_dna_sequence:22
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure.process_rna_secondary_structure:15
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence.process_rna_sequence:15
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence.process_sequence:21
+#: of
+msgid ""
+"překročena maximální povolená délka vstupního řetězce pro vymazávací "
+"systém."
+msgstr ""
+
+#: ../../es_tools.tools.sequence_search_tool.custom_utils.rst:47
+msgid ""
+"process\\_rna\\_secondary\\_structure"
+" module"
+msgstr "modul process\\_rna\\_secondary\\_structure"
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure:1
+#: of
+msgid "Vyhledávání podsekvencí v sekvenci sekundární struktury RNA."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure:5
+#: of
+msgid ""
+"Tento soubor obsahuje funkci, která implementuje hlavní algoritmus pro "
+"vyhledávání podsekvencí v sekvenci sekundární struktury RNA."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure:10
+#: of
+msgid "process_rna_secondary_structure.py"
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure.process_rna_secondary_structure:1
+#: of
+msgid "Vyhledávání sekvencí v sekundární struktuře RNA."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure.process_rna_secondary_structure:3
+#: of
+msgid "vstupní sekvence sekundární struktury RNA."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_secondary_structure.process_rna_secondary_structure:4
+#: of
+msgid "vyhledávané sekvence v sekundární struktuře RNA."
+msgstr ""
+
+#: ../../es_tools.tools.sequence_search_tool.custom_utils.rst:55
+msgid ""
+"process\\_rna\\_sequence"
+" module"
+msgstr "modul process\\_rna\\_sequence"
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence:1
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence.process_rna_sequence:1
+#: of
+msgid "Vyhledávání podsekvencí v RNA sekvenci."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence:5 of
+msgid ""
+"Tento soubor obsahuje funkci, která implementuje hlavní algoritmus pro "
+"vyhledávání podsekvencí v RNA sekvenci."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence:9 of
+msgid "process_rna_sequence.py"
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence.process_rna_sequence:3
+#: of
+msgid "vstupní RNA sekvence."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_rna_sequence.process_rna_sequence:4
+#: of
+msgid "vyhledávané podsekvence v RNA sekvenci."
+msgstr ""
+
+#: ../../es_tools.tools.sequence_search_tool.custom_utils.rst:63
+msgid ""
+"process\\_sequence"
+" module"
+msgstr "modul process\\_sequence"
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence:1
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence.process_sequence:1
+#: of
+msgid "Vyhledávání podsekvencí ve vstupní sekvenci."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence:5 of
+msgid ""
+"Tento soubor obsahuje funkci, která implementuje hlavní algoritmus pro "
+"vyhledávání podsekvencí ve vstupní sekvenci."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence:9 of
+msgid "process_sequence.py"
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence.process_sequence:3
+#: of
+msgid ""
+"Tato funkce slouží pro vyhledávání nepřekrývajících se výskytů všech "
+"podsekvencí ve vstupní sekvenci, přičemž se uvažuje vyhledávání nezávislé"
+" na datovém typu vstupní sekvence a podsekvencí."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence.process_sequence:6
+#: of
+msgid "vstupní sekvence."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.process_sequence.process_sequence:13
+#: of
+msgid ""
+"určení, zda vstupní sekvence obsahuje všechny nepřekrývající se výskyty "
+"vyhledávaných podsekvencí (True) či nikoliv (False)."
+msgstr ""
+
+#: ../../es_tools.tools.sequence_search_tool.custom_utils.rst:71
+msgid ""
+"valid\\_searched\\_sequences"
+" module"
+msgstr "modul valid\\_searched\\_sequences"
+
+#: es_tools.tools.sequence_search_tool.custom_utils.valid_searched_sequences:1
+#: es_tools.tools.sequence_search_tool.custom_utils.valid_searched_sequences.valid_searched_sequences:1
+#: of
+msgid "Ověření validity vyhledávaných sekvencí."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.valid_searched_sequences:5
+#: of
+msgid ""
+"Tento soubor obsahuje funkci, která ověřuje validitu vyhledávaných "
+"sekvencí."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.valid_searched_sequences:9
+#: of
+msgid "valid_searched_sequences.py"
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.valid_searched_sequences.valid_searched_sequences:3
+#: of
+msgid ""
+"Tato funkce slouží pro ověření validity vyhledávaných sekvencí. Je tudíž "
+"ověřeno,"
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.valid_searched_sequences.valid_searched_sequences:5
+#: of
+msgid ""
+"seznam sekvencí pro ověření validity. To znamená, že je ověřeno, zda "
+"všechny vyhledávané podsekvence jsou totožného povoleného datového typu a"
+" že se daný datový typ shoduje s datovým typem vstupní sekvence, ve které"
+" mají být podsekvence vyhledávány."
+msgstr ""
+
+#: es_tools.tools.sequence_search_tool.custom_utils.valid_searched_sequences.valid_searched_sequences:9
+#: of
+msgid ""
+"pravdivostní hodnota určující validitu vyhledávaných sekvencí a společný "
+"datový typ podsekvencí."
+msgstr ""
+
+#: ../../es_tools.tools.sequence_search_tool.custom_utils.rst:79
+msgid "Module contents"
+msgstr "Obsah modulu"
+

@@ -1,0 +1,192 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, David Chocholatý
+# This file is distributed under the same license as the es-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: es-tools \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-01 21:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../es_tools.examples.custom_utils.rst:2
+msgid "custom\\_utils package"
+msgstr "balíček custom\\_utils"
+
+#: ../../es_tools.examples.custom_utils.rst:5
+msgid "Submodules"
+msgstr "Dílčí moduly"
+
+#: ../../es_tools.examples.custom_utils.rst:8
+msgid ""
+"add\\_package\\_path\\_for\\_subprocess\\_call"
+" module"
+msgstr "modul add\\_package\\_path\\_for\\_subprocess\\_call"
+
+#: es_tools.examples.custom_utils.add_package_path_for_subprocess_call:1
+#: es_tools.examples.custom_utils.add_package_path_for_subprocess_call.add_package_path_for_subprocess_call:1
+#: of
+msgid ""
+"Přidání cesty aktuální pracovní složky do PYTHONPATH pro spuštění "
+"podprocesu."
+msgstr ""
+
+#: es_tools.examples.custom_utils.add_package_path_for_subprocess_call:3
+#: es_tools.examples.custom_utils.run_tool:3
+#: es_tools.examples.custom_utils.set_python_command_os_type:3 of
+msgid ""
+"Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, "
+"Brno 2023."
+msgstr ""
+
+#: es_tools.examples.custom_utils.add_package_path_for_subprocess_call:5 of
+msgid ""
+"Tento soubor obsahuje funkci, která přidává do PYTHONPATH aktuální "
+"pracovní složku před spuštěním podprocesu."
+msgstr ""
+
+#: es_tools.examples.custom_utils.add_package_path_for_subprocess_call
+#: es_tools.examples.custom_utils.run_tool
+#: es_tools.examples.custom_utils.set_python_command_os_type of
+msgid "Author"
+msgstr "Autor"
+
+#: es_tools.examples.custom_utils.add_package_path_for_subprocess_call:7
+#: es_tools.examples.custom_utils.run_tool:7
+#: es_tools.examples.custom_utils.set_python_command_os_type:8 of
+msgid "David Chocholatý"
+msgstr ""
+
+#: es_tools.examples.custom_utils.add_package_path_for_subprocess_call
+#: es_tools.examples.custom_utils.run_tool
+#: es_tools.examples.custom_utils.set_python_command_os_type of
+msgid "Contact"
+msgstr "Kontakt"
+
+#: es_tools.examples.custom_utils.add_package_path_for_subprocess_call:8
+#: es_tools.examples.custom_utils.run_tool:8
+#: es_tools.examples.custom_utils.set_python_command_os_type:9 of
+msgid "xchoch09@stud.fit.vutbr.cz"
+msgstr ""
+
+#: es_tools.examples.custom_utils.add_package_path_for_subprocess_call
+#: es_tools.examples.custom_utils.run_tool
+#: es_tools.examples.custom_utils.set_python_command_os_type of
+msgid "Filename"
+msgstr "Soubor"
+
+#: es_tools.examples.custom_utils.add_package_path_for_subprocess_call:9 of
+msgid "add_package_path_for_subprocess_call.py"
+msgstr ""
+
+#: es_tools.examples.custom_utils.add_package_path_for_subprocess_call.add_package_path_for_subprocess_call:3
+#: of
+msgid ""
+"Tato funkce přidává do PYTHONPATH cestu aktuální pracovní složky před "
+"spuštěním podprocesu. Funkcionalita této funkce se využívá při spuštění v"
+" režimu bez instalace balíčku."
+msgstr ""
+
+#: ../../es_tools.examples.custom_utils.rst:16
+msgid "run\\_tool module"
+msgstr "modul run\\_tool"
+
+#: es_tools.examples.custom_utils.run_tool:1 of
+msgid "Spuštění nástroje pomocí konkrétního příkazu s využitím podprocesu."
+msgstr ""
+
+#: es_tools.examples.custom_utils.run_tool:5 of
+msgid ""
+"Tento soubor obsahuje funkci, která s využitím podprocesu spustí již "
+"konkrétní ukázkový příklad pro specifický nástroj."
+msgstr ""
+
+#: es_tools.examples.custom_utils.run_tool:9 of
+msgid "run_tool.py"
+msgstr ""
+
+#: es_tools.examples.custom_utils.run_tool.run_tool:1 of
+msgid "Spuštění specifického nástroje pro konkrétní příklad."
+msgstr ""
+
+#: es_tools.examples.custom_utils.run_tool.run_tool of
+msgid "Parametry"
+msgstr ""
+
+#: es_tools.examples.custom_utils.run_tool.run_tool:3 of
+msgid "spuštění nástroje v režimu bez instalace balíčku."
+msgstr ""
+
+#: es_tools.examples.custom_utils.run_tool.run_tool:5 of
+msgid "příkaz pro spuštění ukázkového příkladu."
+msgstr ""
+
+#: es_tools.examples.custom_utils.run_tool.run_tool:7 of
+msgid ""
+"určení, zda mají být vypisovány na standardní výstup při činnosti "
+"vymazávacího systému podrobné informace."
+msgstr ""
+
+#: es_tools.examples.custom_utils.run_tool.run_tool:10 of
+msgid "typ kvantifikátoru (True — chamtivý, False — líný)."
+msgstr ""
+
+#: es_tools.examples.custom_utils.run_tool.run_tool of
+msgid "Vyvolá"
+msgstr ""
+
+#: es_tools.examples.custom_utils.run_tool.run_tool:12 of
+msgid "číslo spouštěného příkladu mimo příslušný rozsah."
+msgstr ""
+
+#: ../../es_tools.examples.custom_utils.rst:24
+msgid ""
+"es\\_tools.examples.custom\\_utils.set\\_python\\_command\\_os\\_type "
+"module"
+msgstr ""
+
+#: es_tools.examples.custom_utils.set_python_command_os_type:1
+#: es_tools.examples.custom_utils.set_python_command_os_type.set_python_command_os_type:1
+#: of
+msgid "Nastavení příkazu python na základě operačního systému."
+msgstr ""
+
+#: es_tools.examples.custom_utils.set_python_command_os_type:5 of
+msgid ""
+"Tento soubor obsahuje funkci, která navrací příslušný příkaz pro spuštění"
+" python3 na základě aktulního operačního systému."
+msgstr ""
+
+#: es_tools.examples.custom_utils.set_python_command_os_type:10 of
+msgid "set_python_command_os_type.py"
+msgstr ""
+
+#: es_tools.examples.custom_utils.set_python_command_os_type.set_python_command_os_type
+#: of
+msgid "Vrací"
+msgstr ""
+
+#: es_tools.examples.custom_utils.set_python_command_os_type.set_python_command_os_type:3
+#: of
+msgid "příkaz pro Python3 (linux/macOS: python3, windows: py)."
+msgstr ""
+
+#: es_tools.examples.custom_utils.set_python_command_os_type.set_python_command_os_type
+#: of
+msgid "Typ návratové hodnoty"
+msgstr ""
+
+#: ../../es_tools.examples.custom_utils.rst:32
+msgid "Module contents"
+msgstr "Obsah modulu"
+

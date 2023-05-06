@@ -1,0 +1,465 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, David Chocholatý
+# This file is distributed under the same license as the es-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: es-tools \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-01 21:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../es_tools.tools.secondary_structure_properties_tool.rst:2
+msgid "secondary\\_structure\\_properties\\_tool package"
+msgstr "balíček secondary\\_structure\\_properties\\_tool"
+
+#: ../../es_tools.tools.secondary_structure_properties_tool.rst:5
+msgid "Subpackages"
+msgstr "Dílčí balíčky"
+
+#: ../../es_tools.tools.secondary_structure_properties_tool.rst:13
+msgid "Submodules"
+msgstr "Dílčí moduly"
+
+#: ../../es_tools.tools.secondary_structure_properties_tool.rst:16
+msgid ""
+"secondary\\_structure\\_properties\\_tool"
+" module"
+msgstr "modul secondary\\_structure\\_properties\\_tool"
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool:1
+#: of
+msgid "Nástroj pro ověření vlastností sekundární struktury RNA."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool:3
+#: of
+msgid ""
+"Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, "
+"Brno 2023."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool:5
+#: of
+msgid ""
+"Tento soubor obsahuje třídu nástroje reprezentujícího aplikaci "
+"vymazávacího systému pro ověření vlastností sekundární struktury RNA."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool
+#: of
+msgid "Author"
+msgstr "Autor"
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool:8
+#: of
+msgid "David Chocholatý"
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool
+#: of
+msgid "Contact"
+msgstr "Kontakt"
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool:9
+#: of
+msgid "xchoch09@stud.fit.vutbr.cz"
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool
+#: of
+msgid "Filename"
+msgstr "Soubor"
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool:10
+#: of
+msgid "secondary_structure_properties_tool.py"
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool:1
+#: of
+msgid "Bases: :py:class:`~es_tools.tools.tool.Tool`"
+msgstr "Základ: :py:class:`~es_tools.tools.tool.Tool`"
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool:1
+#: of
+msgid ""
+"Nástroj reprezentující aplikaci pro ověření vlastností sekundární "
+"struktury RNA."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool:3
+#: of
+msgid ""
+"Tato třída implementuje nástroj realizující navržený algoritmus "
+"aplikující vymazávací systém na ověření vlastností sekundární struktury "
+"RNA. Hlavní algoritmus představený v textu práce na stranách 57-60 "
+"reprezentuje metoda _run_main_algorithm()."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool:7
+#: of
+msgid "**Konstruktor třídy SecondaryStructurePropertiesTool**"
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool:9
+#: of
+msgid ""
+"Konstruktor slouží pouze pro nastavení základních hodnot atributů třídy, "
+"přičemž jsou nastaveny atributy zdědené od rodičovské třídy Tool. Dvěma "
+"atributy, které jsou specifické pro třídu "
+"SecondaryStructurePropertiesTool, jsou atributy __min a __max. Atribut "
+"__min určuje minimální hodnotu v procentech a atribut __max určuje "
+"maximální hodnotu v procentech."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._add_custom_arguments:1
+#: of
+msgid "Metoda pro přidání specifických uživatelských argumentů pro nástroj."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._add_custom_arguments:3
+#: of
+msgid ""
+"Tato metoda implementuje přidání specifických uživatelských argumentů ke "
+"společným pro všechny nástroje. Metoda přepisuje stejnojmennou metodu z "
+"rodičovské třídy Tool."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._add_custom_arguments
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._requirements_met
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.set_new_min_max
+#: of
+msgid "Parametry"
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._add_custom_arguments:6
+#: of
+msgid "analyzátor uživatelských argumentů."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._create_custom_argument_handler:1
+#: of
+msgid "Metoda pro vytvoření manipulátoru s uživatelskými argumenty."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._create_custom_argument_handler:3
+#: of
+msgid ""
+"Tato metoda implementuje vytvoření manipulátoru s uživatelskými "
+"argumenty, přičemž ke společným argumentům jsou přidány i specifické pro "
+"tento nástroj. Metoda přepisuje stejnojmennou metody z rodičovské třídy "
+"Tool."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._create_custom_argument_handler
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._requirements_met
+#: of
+msgid "Vrací"
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._create_custom_argument_handler:6
+#: of
+msgid "manipulátor s uživatelskými argumenty."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._create_custom_argument_handler
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._requirements_met
+#: of
+msgid "Typ návratové hodnoty"
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._initialize_tool:1
+#: of
+msgid "Inicializace nástroje včetně zpracování vstupních dat."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._initialize_tool:3
+#: of
+msgid ""
+"Tato metoda slouží pro inicializaci nástroje, to znamená pro načtení "
+"vstupních dat ze souboru a zpracování uživatelských argumentů."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._initialize_tool
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._requirements_met
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._run_main_algorithm
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.max
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.min
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.run
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.set_new_min_max
+#: of
+msgid "Vyvolá"
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._initialize_tool:6
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.run:6
+#: of
+msgid ""
+"chyba při pokusu o načtení vstupních dat ze souboru (soubor neexistuje, "
+"jedná se o adresář, ...)."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._initialize_tool:8
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.run:8
+#: of
+msgid "neočekávaný výskyt interní chyby programu."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._initialize_tool:9
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.run:9
+#: of
+msgid "zadání neplatného uživatelského argumentu."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._initialize_tool:10
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.run:10
+#: of
+msgid "neplatná struktura vstupních dat."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._initialize_tool:11
+#: of
+msgid "neplatná hodnota argumentu."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._load_arguments:1
+#: of
+msgid "Načtení uživatelských argumentů."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._load_arguments:3
+#: of
+msgid ""
+"Hlavním cílem této metody je vytvoření manipulátoru s uživatelskými "
+"argumenty, včetně přidání specifických argumentů ke společným pro všechny"
+" nástroje. Zároveň tato metoda, pokud je to možné, provede načtení "
+"zadaných vstupních hodnot."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._requirements_met:1
+#: of
+msgid ""
+"Funkce pro ověření vlastností sekundární struktury RNA pro minimum nebo "
+"maximum."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._requirements_met:3
+#: of
+msgid ""
+"Tato funkce implementuje část hlavního algoritmu aplikace vymazávacího "
+"systému na ověření vlastností sekundární struktury RNA, která je "
+"prezentována v textu na stranách 57-60. Konkrétně se metoda zaměruje na "
+"ověření vlastností pro jednu konkrétní hodnotu, a to minimální nebo "
+"maximální."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._requirements_met:7
+#: of
+msgid "příznak určující, zda má být ověřována minimální nebo maximální hodnota."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._requirements_met:9
+#: of
+msgid "vstupní řetězec obsahující sekundární strukturu RNA."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._requirements_met:11
+#: of
+msgid ""
+"dvojice obsahující pravdivostní hodnoty, které po řadě určují, zda "
+"vstupní řetězec je přijat vstupní částí převodníku a zda převedený "
+"řetězec přijme vymazávací systém."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._requirements_met:14
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._run_main_algorithm:5
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.run:17
+#: of
+msgid "počáteční stav nenáleží do množiny stavů převodníku."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._requirements_met:15
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._run_main_algorithm:6
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.run:18
+#: of
+msgid "množina konečných stavů převodníku není podmnožinou množiny všech stavů."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._requirements_met:17
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._run_main_algorithm:14
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.run:20
+#: of
+msgid "převodník obsahuje neplatný přechod pro splnění požadovaných podmínek."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._requirements_met:18
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._run_main_algorithm:8
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.run:11
+#: of
+msgid "výskyt nepovoleného symbolu ve vymazávacím řetězci vymazávacího systému."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._requirements_met:20
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._run_main_algorithm:10
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.run:13
+#: of
+msgid "nevalidní nebo nepovolený tvar regulárního jazyka vymazávacího systému."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._run_main_algorithm:1
+#: of
+msgid "Spuštění hlavního algoritmu nástroje."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._run_main_algorithm:3
+#: of
+msgid ""
+"Tato metoda implementuje hlavní tok algoritmu nástroje pro ověření "
+"vlastností sekundární struktury RNA."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool._run_main_algorithm:12
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.run:15
+#: of
+msgid ""
+"překročena maximální povolená délka vstupního řetězce pro vymazávací "
+"systém."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.max:1
+#: of
+msgid ""
+"Maximální hodnota v procentech pro ověření vlastností sekundární "
+"struktury RNA."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.max
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.min
+#: of
+msgid "getter"
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.max:3
+#: of
+msgid "získání maximální hodnoty v procentech."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.max
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.min
+#: of
+msgid "setter"
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.max:4
+#: of
+msgid "nastavení maximální hodnoty v procentech."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.max
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.min
+#: of
+msgid "type"
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.max:6
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.min:5
+#: of
+msgid "int"
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.max:7
+#: of
+msgid ""
+"nová nastavovaná hodnota není v povoleném rozsahu nebo je nižší jak "
+"nastavená minimální hodnota."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.min:1
+#: of
+msgid ""
+"Minimální hodnota v procentech pro ověření vlastností sekundární "
+"struktury RNA."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.min:3
+#: of
+msgid "získání minimální hodnoty v procentech."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.min:4
+#: of
+msgid "nastavení minimální hodnoty v procentech."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.min:6
+#: of
+msgid ""
+"nová nastavovaná hodnota není v povoleném rozsahu nebo je vyšší jak "
+"nastavená maximální hodnota."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.run:1
+#: of
+msgid "Spuštění běhu nástroje."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.run:3
+#: of
+msgid ""
+"Cílem této metody je spuštění inicializace nástroje a poté samotného "
+"hlavního algoritmu implementované aplikace vymazávacího systému."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.set_new_min_max:1
+#: of
+msgid "Nastavení nových hodnot minima a maxima."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.set_new_min_max:3
+#: of
+msgid ""
+"Tato funkce slouží pro společné nastavení specifických argumentů pro daný"
+" nástroj, a to minimální a maximální hodnoty pro ověření vlastností "
+"sekundární struktury RNA."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.set_new_min_max:6
+#: of
+msgid "nová hodnota pro minimum v procentech."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.set_new_min_max:8
+#: of
+msgid "nová hodnota pro maximum v procentech."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.SecondaryStructurePropertiesTool.set_new_min_max:10
+#: of
+msgid ""
+"nové nastavované hodnoty pro minimum a maximum nejsou v povoleném "
+"rozsahu, nebo nesplňují podmínku, že minimální hodnota je nižší nebo "
+"rovna hodnotě maximální."
+msgstr ""
+
+#: es_tools.tools.secondary_structure_properties_tool.secondary_structure_properties_tool.main:1
+#: of
+msgid ""
+"Hlavní funkce pro spuštění nástroje reprezentujícího aplikaci "
+"vymazávacího pro ověření vlastností sekundární struktury RNA."
+msgstr ""
+
+#: ../../es_tools.tools.secondary_structure_properties_tool.rst:24
+msgid "Module contents"
+msgstr "Obsah modulu"
+

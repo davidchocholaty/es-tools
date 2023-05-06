@@ -1,0 +1,115 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, David Chocholatý
+# This file is distributed under the same license as the es-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: es-tools \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-01 21:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../es_tools.handlers.rst:2
+msgid "handlers package"
+msgstr "balíček handlers"
+
+#: ../../es_tools.handlers.rst:3
+msgid ""
+"Balíček obsahuje nástroje pro manipulaci se vstupním souborem a s "
+"uživatelskými argumenty."
+msgstr ""
+
+#: ../../es_tools.handlers.rst:6
+msgid "Subpackages"
+msgstr "Dílčí balíčky"
+
+#: ../../es_tools.handlers.rst:15
+msgid "Submodules"
+msgstr "Dílčí moduly"
+
+#: ../../es_tools.handlers.rst:18
+msgid "handler module"
+msgstr "modul handler"
+
+#: es_tools.handlers.handler:1 of
+msgid "Obecný manipulátor."
+msgstr ""
+
+#: es_tools.handlers.handler:3 of
+msgid ""
+"Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, "
+"Brno 2023."
+msgstr ""
+
+#: es_tools.handlers.handler:5 of
+msgid ""
+"Tento soubor obsahuje definici obecného manipulátoru, přičemž se jedná o "
+"základní abstraktní třídu pro vytvoření manipulátoru pro práci se "
+"vstupním souborem nebo pro práci s uživatelskými argumenty."
+msgstr ""
+
+#: es_tools.handlers.handler of
+msgid "Author"
+msgstr "Autor"
+
+#: es_tools.handlers.handler:8 of
+msgid "David Chocholatý"
+msgstr ""
+
+#: es_tools.handlers.handler of
+msgid "Contact"
+msgstr "Kontakt"
+
+#: es_tools.handlers.handler:9 of
+msgid "xchoch09@stud.fit.vutbr.cz"
+msgstr ""
+
+#: es_tools.handlers.handler of
+msgid "Filename"
+msgstr "Soubor"
+
+#: es_tools.handlers.handler:10 of
+msgid "handler.py"
+msgstr ""
+
+#: es_tools.handlers.handler.Handler:1 of
+msgid "Bases: :py:class:`~abc.ABC`"
+msgstr "Základ: :py:class:`~abc.ABC`"
+
+#: es_tools.handlers.handler.Handler:1 of
+msgid "Definice obecného manipulátoru."
+msgstr ""
+
+#: es_tools.handlers.handler.Handler:3 of
+msgid ""
+"Tato abstraktní třída slouží jako bázová třída pro třídy, jejichž metody "
+"implementují manipulátory zajišťující práci se vstupním souborem nebo s "
+"uživatelskými argumenty. Jedinou a fundamentální metodou je abstraktní "
+"metoda handler() ucelující přístup pro získání vytvořeného konkrétního "
+"manipulátoru."
+msgstr ""
+
+#: es_tools.handlers.handler.Handler.handler:1 of
+msgid "Abstraktní metoda pro navrácení manipulátoru."
+msgstr ""
+
+#: es_tools.handlers.handler.Handler.handler:3 of
+msgid ""
+"Tato metoda slouží především pro ucelení navrácení vytvořeného "
+"manipulátoru pro odvozené třídy."
+msgstr ""
+
+#: ../../es_tools.handlers.rst:26
+msgid "Module contents"
+msgstr "Obsah modulu"
+

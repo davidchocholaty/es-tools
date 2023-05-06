@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, David Chocholatý
+# This file is distributed under the same license as the es-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: es-tools \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-01 21:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../index.rst:4
+msgid "Contents:"
+msgstr "Obsah"
+
+#: ../../index.rst:2
+msgid "Welcome to es-tools's documentation!"
+msgstr ""
+
+#: ../../index.rst:12
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../index.rst:14
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../index.rst:15
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../index.rst:16
+msgid ":ref:`search`"
+msgstr ""
+

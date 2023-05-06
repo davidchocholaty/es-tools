@@ -1,0 +1,2 @@
+This is the (plain) text with (a few) basic brackets (opening and closing) with an illegal character § occurrence.
+

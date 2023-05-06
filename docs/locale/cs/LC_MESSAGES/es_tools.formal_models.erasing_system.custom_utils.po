@@ -1,0 +1,720 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, David Chocholatý
+# This file is distributed under the same license as the es-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: es-tools \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-01 21:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../es_tools.formal_models.erasing_system.custom_utils.rst:2
+msgid "custom\\_utils package"
+msgstr "balíček custom\\_utils"
+
+#: ../../es_tools.formal_models.erasing_system.custom_utils.rst:5
+msgid "Submodules"
+msgstr "Dílčí moduly"
+
+#: ../../es_tools.formal_models.erasing_system.custom_utils.rst:8
+msgid ""
+"convert\\_parentheses\\_expression\\_to\\_extension\\_string"
+" module"
+msgstr "modul convert\\_parentheses\\_expression\\_to\\_extension\\_string"
+
+#: es_tools.formal_models.erasing_system.custom_utils.convert_parentheses_expression_to_extension_string:1
+#: of
+msgid "Převod výrazu v závorkách na řetězec pro modifikaci regulárního výrazu."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.convert_parentheses_expression_to_extension_string:3
+#: es_tools.formal_models.erasing_system.custom_utils.custom_constants:3
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools:3
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools:3
+#: es_tools.formal_models.erasing_system.custom_utils.maximum_recursion_depth:3
+#: es_tools.formal_models.erasing_system.custom_utils.not_allowed_erasing_string_symbols:3
+#: es_tools.formal_models.erasing_system.custom_utils.not_allowed_regular_language_strings:3
+#: es_tools.formal_models.erasing_system.custom_utils.parentheses_expression_contains_string:3
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools:3
+#: of
+msgid ""
+"Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, "
+"Brno 2023."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.convert_parentheses_expression_to_extension_string:5
+#: of
+msgid ""
+"Tento soubor obsahuje funkci "
+"convert_parentheses_expression_to_extension_string() pro převod výrazu v "
+"závorkách na řetězec pro modifikaci regulárního výrazu. Daný převedený "
+"výraz jednotlivé funkce využívající tak, že buď je regulární výraz "
+"rozšířen o nový výraz nebo je poslední podvýraz nahrazen novým výrazem. "
+"Typ modifikace se odvíjí od skutečnosti, zda regulární výraz končí "
+"výrazem v závorkách nebo jedním z operátorů „*“ nebo „+“."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.convert_parentheses_expression_to_extension_string
+#: es_tools.formal_models.erasing_system.custom_utils.custom_constants
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools
+#: es_tools.formal_models.erasing_system.custom_utils.maximum_recursion_depth
+#: es_tools.formal_models.erasing_system.custom_utils.not_allowed_erasing_string_symbols
+#: es_tools.formal_models.erasing_system.custom_utils.not_allowed_regular_language_strings
+#: es_tools.formal_models.erasing_system.custom_utils.parentheses_expression_contains_string
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools
+#: of
+msgid "Author"
+msgstr "Autor"
+
+#: es_tools.formal_models.erasing_system.custom_utils.convert_parentheses_expression_to_extension_string:10
+#: es_tools.formal_models.erasing_system.custom_utils.custom_constants:5
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools:10
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools:11
+#: es_tools.formal_models.erasing_system.custom_utils.maximum_recursion_depth:9
+#: es_tools.formal_models.erasing_system.custom_utils.not_allowed_erasing_string_symbols:5
+#: es_tools.formal_models.erasing_system.custom_utils.not_allowed_regular_language_strings:5
+#: es_tools.formal_models.erasing_system.custom_utils.parentheses_expression_contains_string:5
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools:9
+#: of
+msgid "David Chocholatý"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.convert_parentheses_expression_to_extension_string
+#: es_tools.formal_models.erasing_system.custom_utils.custom_constants
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools
+#: es_tools.formal_models.erasing_system.custom_utils.maximum_recursion_depth
+#: es_tools.formal_models.erasing_system.custom_utils.not_allowed_erasing_string_symbols
+#: es_tools.formal_models.erasing_system.custom_utils.not_allowed_regular_language_strings
+#: es_tools.formal_models.erasing_system.custom_utils.parentheses_expression_contains_string
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools
+#: of
+msgid "Contact"
+msgstr "Kontakt"
+
+#: es_tools.formal_models.erasing_system.custom_utils.convert_parentheses_expression_to_extension_string:11
+#: es_tools.formal_models.erasing_system.custom_utils.custom_constants:6
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools:11
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools:12
+#: es_tools.formal_models.erasing_system.custom_utils.maximum_recursion_depth:10
+#: es_tools.formal_models.erasing_system.custom_utils.not_allowed_erasing_string_symbols:6
+#: es_tools.formal_models.erasing_system.custom_utils.not_allowed_regular_language_strings:6
+#: es_tools.formal_models.erasing_system.custom_utils.parentheses_expression_contains_string:6
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools:10
+#: of
+msgid "xchoch09@stud.fit.vutbr.cz"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.convert_parentheses_expression_to_extension_string
+#: es_tools.formal_models.erasing_system.custom_utils.custom_constants
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools
+#: es_tools.formal_models.erasing_system.custom_utils.maximum_recursion_depth
+#: es_tools.formal_models.erasing_system.custom_utils.not_allowed_erasing_string_symbols
+#: es_tools.formal_models.erasing_system.custom_utils.not_allowed_regular_language_strings
+#: es_tools.formal_models.erasing_system.custom_utils.parentheses_expression_contains_string
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools
+#: of
+msgid "Filename"
+msgstr "Soubor"
+
+#: es_tools.formal_models.erasing_system.custom_utils.convert_parentheses_expression_to_extension_string:12
+#: of
+msgid "convert_parentheses_expression_to_extension_string.py"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.convert_parentheses_expression_to_extension_string.convert_parentheses_expression_to_extension_string:1
+#: of
+msgid ""
+"Funkce pro převod výrazu v závorkách na řetězec pro modifikaci "
+"regulárního výrazu."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.convert_parentheses_expression_to_extension_string.convert_parentheses_expression_to_extension_string:3
+#: of
+msgid ""
+"Tato funkce slouží pro převod vstupního výrazu na výraz pro úpravu "
+"regulárního výrazu. Konkrétně nový výraz modifikuje vstupní výraz tak, že"
+" kromě obsažených řetězců, jenž obsahují více jak jeden symbol, jsou "
+"přidány i veškeré jejich podřetězce. Například výraz (a|bcd) bude "
+"modifikován na výraz (b|bc). Jak již název funkce napovídá, je "
+"předpokládáno, že vstupní výraz je výrazem v klasických závorkách. "
+"Samotný první a poslední symbol výrazu není kontrolován na základě "
+"skutečnosti, že dle návrhu algoritmu již daná kontrola byla provedena."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.convert_parentheses_expression_to_extension_string.convert_parentheses_expression_to_extension_string
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools.filter_applicable_erasing_strings
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools.filter_quantifier_levels
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.calculate_levels
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_extended_language_ending_with_operator
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language_operator
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language_parentheses
+#: es_tools.formal_models.erasing_system.custom_utils.parentheses_expression_contains_string.parentheses_expression_contains_string
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.correctly_bracketed_without_nested_brackets
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.is_valid_regular_language
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.only_allowed_patterns
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.start_with_operator
+#: of
+msgid "Parametry"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.convert_parentheses_expression_to_extension_string.convert_parentheses_expression_to_extension_string:10
+#: of
+msgid "vstupní výraz pro převod na nový výraz."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.convert_parentheses_expression_to_extension_string.convert_parentheses_expression_to_extension_string
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools.filter_applicable_erasing_strings
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools.filter_quantifier_levels
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.calculate_levels
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_extended_language_ending_with_operator
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language_operator
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language_parentheses
+#: es_tools.formal_models.erasing_system.custom_utils.parentheses_expression_contains_string.parentheses_expression_contains_string
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.correctly_bracketed_without_nested_brackets
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.is_valid_regular_language
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.only_allowed_patterns
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.start_with_operator
+#: of
+msgid "Vrací"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.convert_parentheses_expression_to_extension_string.convert_parentheses_expression_to_extension_string:12
+#: of
+msgid "nový rozšiřující výraz vstupního výrazu."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.convert_parentheses_expression_to_extension_string.convert_parentheses_expression_to_extension_string
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools.filter_applicable_erasing_strings
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools.filter_quantifier_levels
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.calculate_levels
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_extended_language_ending_with_operator
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language_operator
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language_parentheses
+#: es_tools.formal_models.erasing_system.custom_utils.parentheses_expression_contains_string.parentheses_expression_contains_string
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.correctly_bracketed_without_nested_brackets
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.is_valid_regular_language
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.only_allowed_patterns
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.start_with_operator
+#: of
+msgid "Typ návratové hodnoty"
+msgstr ""
+
+#: ../../es_tools.formal_models.erasing_system.custom_utils.rst:16
+msgid ""
+"custom\\_constants"
+" module"
+msgstr "modul custom\\_constants"
+
+#: es_tools.formal_models.erasing_system.custom_utils.custom_constants:1 of
+msgid "Specifické konstanty pro vymazávací systém."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.custom_constants:7 of
+msgid "custom_constants.py"
+msgstr ""
+
+#: ../../es_tools.formal_models.erasing_system.custom_utils.rst:24
+msgid ""
+"filter\\_tools"
+" module"
+msgstr "modul filter\\_tools"
+
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools:1 of
+msgid "Nástroje pro vymazávací systém na bázi filtrování."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools:5 of
+msgid ""
+"Tento soubor obsahuje pomocné funkce pro algoritmus činnosti vymazávacího"
+" systému, přičemž jejich funkcionalita je založena především na bázi "
+"filtrování. Konkrétně se jedná o funkci filter_quantifier_levels(), která"
+" vybere úrovně shody řetězce s regulárním jazykem dle příslušných "
+"požadavků, a o funkci filter_applicable_erasing_strings(), která na "
+"základě parametrů vybere odpovídající aplikovatelné vymazávací řetězce."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools:12 of
+msgid "filter_tools.py"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools.filter_applicable_erasing_strings:1
+#: of
+msgid ""
+"Výběr aplikovatelých vymazávacích řetězců na základě úrovně shody a počtu"
+" opakování podvýrazů."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools.filter_applicable_erasing_strings:3
+#: of
+msgid ""
+"Tato funkce provádí výběr aplikovatelných vymazávacích řetězců. Konkrétně"
+" je výběr proveden na základě dvou kritérií. Prvním kritériem je úroveň "
+"posledního podvýrazu shody řetězce s regulárním jazykem, přičemž jako "
+"řetězec je uvažován řetězec vzniklý konkatenací všech použitých "
+"vymazávacích řetězců a ověřováného následujícího vymazávacího řetězce. "
+"Druhým kritériem jsou jednotlivé počty opakování prvků podvýrazu "
+"regulárního výrazu pro regulární jazyk ve zmíněném řetězci. Na základě "
+"parametrů jsou dle popsaných postupů vybrány aplikovatelné vymazávací "
+"řetězce splňující veškeré požadavky."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools.filter_applicable_erasing_strings:10
+#: of
+msgid "aplikovatelné vymazávací řetězce."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools.filter_applicable_erasing_strings:12
+#: of
+msgid ""
+"vybrané úrovně počtů opakování podvýrazů regulárního výrazu pro regulární"
+" jazyk."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools.filter_applicable_erasing_strings:14
+#: of
+msgid "vybraná úroveň posledního podvýrazu shody."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools.filter_applicable_erasing_strings:16
+#: of
+msgid ""
+"výsledek výběru aplikovatelných vymazávacích řetězců, které splňují "
+"požadavky definované hodnotami parametrů."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools.filter_quantifier_levels:1
+#: of
+msgid ""
+"Výběr úrovní počtu opakování podvýrazů při shodě řetězce s regulárním "
+"jazykem."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools.filter_quantifier_levels:3
+#: of
+msgid ""
+"Tato funkce nejprve vybírá aplikovatelné vymazávací řetězce na základě "
+"úrovně shody řetězce s regulárním jazykem, přičemž jako úroveň se uvažuje"
+" poslední podvýraz shody. Dále na základě jednotlivých podvýrazů "
+"regulárního výrazu pro regulární jazyk funkce provádí druhou filtraci, a "
+"to na základě opakování jednotlivých prvků podvýrazů v příslušném "
+"vymazávacím řetězci. Konečný seznam poté funkce navrací jako výsledek "
+"výběru."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools.filter_quantifier_levels:8
+#: of
+msgid "seznam aplikovatelných vymazávacích řetězců."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools.filter_quantifier_levels:10
+#: of
+msgid ""
+"vybraná úroveň shody řetězce s regulárním jazykem - úroveň posledního "
+"podvýrazu shody."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools.filter_quantifier_levels:12
+#: of
+msgid "typ kvantifikátoru (True — chamtivý, False — líný)."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.filter_tools.filter_quantifier_levels:14
+#: of
+msgid "seznam seznamů vybraných úrovní shody."
+msgstr ""
+
+#: ../../es_tools.formal_models.erasing_system.custom_utils.rst:32
+msgid ""
+"match\\_language\\_tools"
+" module"
+msgstr "modul match\\_language\\_tools"
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools:1 of
+msgid ""
+"Nástroje pro porovnání řetězců s regulárním jazykem a výpočtu úrovní "
+"shody."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools:5 of
+msgid ""
+"Tento soubor obsahuje nástroje pro porovnávání řetězců s regulárním "
+"jazykem. Významnou implementovanou funkcí je funkce "
+"match_transformed_language() která provádí kontrolu řetězce s upraveným "
+"regulárním jazykem, aby bylo možné ověřovat i částečné shody řetězce. "
+"Dále soubor obsahuje funkci calculate_levels() pro výpočet úrovní shody. "
+"Ta kalkuluje úroveň posledního podvýrazu shody řetězce s regulárním "
+"výrazem pro regulární jazyk a také úrovně počtů opakování prvků "
+"jednotlivých podvýrazů regulárního výrazu v řetězci."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools:13
+#: of
+msgid "match_language_tools.py"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.calculate_levels:1
+#: of
+msgid ""
+"Výpočet úrovně shody a úrovní počtu opakování podvýrazů pro regulární "
+"výraz a vstupní řetězec."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.calculate_levels:3
+#: of
+msgid ""
+"Tato funkce slouží pro výpočet úrovní shody. Jedná se konkrétně o dva "
+"typy úrovní. První určuje úroveň posledního podvýrazu shody řetězce s "
+"regulárním výrazem pro regulární jazyk. Druhý typ je seznamem a určuje "
+"úrovně počtu opakování prvků jednotlivých podvýrazů regulárního výrazu ve"
+" vstupním řetězci."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.calculate_levels:7
+#: of
+msgid ""
+"skupiny shody podvýrazů regulárního výrazů pro regulární jazyk se "
+"vstupním řetězcem."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.calculate_levels:9
+#: of
+msgid "porovnávaný regulární jazyk (regulární výraz pro regulární jazyk)."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.calculate_levels:11
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_extended_language_ending_with_operator:11
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language:14
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language_operator:10
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language_parentheses:11
+#: of
+msgid "vstupní řetězec."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.calculate_levels:13
+#: of
+msgid ""
+"dvojice obsahující vypočítané úrovně. První prvek dvojice představuje "
+"úrověň posledního podvýrazu shody řetězce s regulárním výrazem pro "
+"regulární jazyk. Druhý prvek, který je seznamem, obsahuje úrovně počtů "
+"opakování prvků jednotlivých podvýrazů regulárního výrazu v řetězci."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_extended_language_ending_with_operator:1
+#: of
+msgid ""
+"Funkce pro úpravu porovnávaného regulárního jazyka končícího operátorem s"
+" řetězcem."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_extended_language_ending_with_operator:3
+#: of
+msgid ""
+"Tato funkce slouží pro úpravu regulárního jazyka končícího operátorem „*“"
+" nebo „+“, kterému předchází podvýraz v klasických závorkách. Konkrétně "
+"dochází k patřičnému rozšíření posledního podvýrazu tak, aby kromě "
+"řetězců obsažených v posledním podvýrazu byly porovnávány i všechny "
+"podřetězce těchto řetězců. Tím je docíleno, že může docházet i k pouze "
+"částečné shodě řetězce s regulárním výrazem. Konkrétní rozšíření "
+"porovnávaného regulárního výrazu provádí volaná funkce "
+"convert_parentheses_expression_to_extension_string()."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_extended_language_ending_with_operator:9
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language:12
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language_operator:8
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language_parentheses:9
+#: of
+msgid "porovnávaný regulární výraz pro regulární jazyk."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_extended_language_ending_with_operator:13
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language:16
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language_operator:12
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language_parentheses:13
+#: of
+msgid ""
+"výsledek porovnání, přičemž jednotlivé prvky trojice představují po řadě:"
+" 1. zda řetězec může náležet do porovnávaného regulárního jazyka, přičemž"
+" poslední podvýraz regulárního výrazu pro porovnávaný regulární jazyk "
+"nemusí být zcela obsažen ve vstupním řetězci a pro tento podvýraz může "
+"docházet pouze k částečné shodě, 2. úroveň posledního podvýrazu shody "
+"vstupního řetězce s regulárním výrazem pro regulární jazyk, 3. úrovně "
+"počtů opakování jednotlivých prvků podvýrazů regulárního výrazu ve "
+"vstupním řetězci."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language:1
+#: of
+msgid "Porovnání řetězce s upraveným regulárním výrazem pro regulární jazyk."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language:3
+#: of
+msgid ""
+"Tato funkce poskytuje porovnání vstupního řetězce s regulárním výrazem "
+"pro regulární jazyk. Daný regulární výraz ovšem podléhá jistým úpravám. "
+"Konkrétně mohou nastat dva případy. V prvním případě může regulární výraz"
+" končit operátorem „*“ nebo „+“, kterému předchází výraz v klasických "
+"závorkách. Pro takový regulární jazyk je zapotřebí upravit regulární "
+"výraz tak, že budou porovnávány i všechny podřetězce řetězců obsažených v"
+" posledním podvýrazu v závorkách. Na základě tohoto porovnání je možné "
+"určit, zda řetězec může i pouze částečně náležet do porovnávaného "
+"regulárního jazyka. V druhém případě regulární výraz končí pouze "
+"podvýrazem v závorkách. Modifikace regulárního výrazu se velmi podobá "
+"uvedenému postupu, ovšem obsahuje jisté odlišnosti na základě "
+"skutečnosti, že regulární výraz nekončí jedním z dříve zmíněných "
+"operátorů."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language_operator:1
+#: of
+msgid ""
+"Pomocná funkce pro porovnání řetězce s upraveným regulárním výrazem "
+"končícím operátorem."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language_operator:3
+#: of
+msgid ""
+"Tato funkce slouží jako pomocná funkce pro případ, kdy regulární výraz má"
+" být upraven, pričemž končí jedním z operátorů: „*“ nebo „+“. Hlavní "
+"úlohou funkce je ověření, že před zmíněným operátorem se nachází výraz v "
+"klasických závorkách. Samotnou modifikaci porovnávaného regulárního "
+"výrazu ponechává na volané funkci "
+"match_extended_language_ending_with_operator()."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language_parentheses:1
+#: of
+msgid ""
+"Funkce pro úpravu porovnávaného regulárního jazyka končícího podvýrazem v"
+" klasických závorkách."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.match_language_tools.match_transformed_language_parentheses:3
+#: of
+msgid ""
+"Tato funkce slouží pro úpravu regulárního jazyka končícího podvýrazem v "
+"klasických závorkách. Konkrétně dochází k patřičné modifikaci posledního "
+"podvýrazu regulárního výrazu tak, aby kromě řetězců obsažených v "
+"posledním podvýrazu byly porovnávány i všechny podřetězce těchto řetězců."
+" Tím je docíleno, že může docházet i k pouze částečné shodě řetězce s "
+"regulárním výrazem. Získání nového nahrazujícího výrazu pro poslední "
+"podvýraz poskytuje volaná funkce "
+"convert_parentheses_expression_to_extension_string()."
+msgstr ""
+
+#: ../../es_tools.formal_models.erasing_system.custom_utils.rst:40
+msgid ""
+"maximum\\_recursion\\_depth"
+" module"
+msgstr "modul maximum\\_recursion\\_depth"
+
+#: es_tools.formal_models.erasing_system.custom_utils.maximum_recursion_depth:1
+#: of
+msgid "Maximální hloubka zásobníku při rekurzivních volání."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.maximum_recursion_depth:5
+#: of
+msgid ""
+"Tento soubor obsahuje jedinou konstantu, která určuje maximální hloubku "
+"zásobníku při rekurzivních volání. Přesněji příslušná hodnota určuje "
+"maximální počet rekurzivních volání a zároveň dle této hodnoty je určena "
+"největší povolená délka vstupního řetězce vymazávacího systému."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.maximum_recursion_depth:11
+#: of
+msgid "maximum_recursion_depth.py"
+msgstr ""
+
+#: ../../es_tools.formal_models.erasing_system.custom_utils.rst:48
+msgid ""
+"not\\_allowed\\_erasing\\_string\\_symbols"
+" module"
+msgstr "modul not\\_allowed\\_erasing\\_string\\_symbols"
+
+#: es_tools.formal_models.erasing_system.custom_utils.not_allowed_erasing_string_symbols:1
+#: of
+msgid "Seznam symbolů, které se nesmí vyskytovat ve vymazávacích řetězcích."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.not_allowed_erasing_string_symbols:7
+#: of
+msgid "not_allowed_erasing_string_symbols.py"
+msgstr ""
+
+#: ../../es_tools.formal_models.erasing_system.custom_utils.rst:56
+msgid ""
+"not\\_allowed\\_regular\\_language\\_strings"
+" module"
+msgstr "modul not\\_allowed\\_regular\\_language\\_strings"
+
+#: es_tools.formal_models.erasing_system.custom_utils.not_allowed_regular_language_strings:1
+#: of
+msgid ""
+"Seznam symbolů a podřetězců, které se nesmí vyskytovat v řetězci "
+"obsahujícím regulární výraz pro regulární jazyk."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.not_allowed_regular_language_strings:7
+#: of
+msgid "not_allowed_regular_language_symbols.py"
+msgstr ""
+
+#: ../../es_tools.formal_models.erasing_system.custom_utils.rst:64
+msgid ""
+"parentheses\\_expression\\_contains\\_string"
+" module"
+msgstr "modul parentheses\\_expression\\_contains\\_string"
+
+#: es_tools.formal_models.erasing_system.custom_utils.parentheses_expression_contains_string:1
+#: es_tools.formal_models.erasing_system.custom_utils.parentheses_expression_contains_string.parentheses_expression_contains_string:1
+#: of
+msgid ""
+"Ověření, zda výraz v závorkách obsahuje řetězec s délkou větší než jeden "
+"symbol."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.parentheses_expression_contains_string:7
+#: of
+msgid "parentheses_expression_contains_string.py"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.parentheses_expression_contains_string.parentheses_expression_contains_string:3
+#: of
+msgid ""
+"Tato funkce slouží pro ověření, zda výraz v závorkách obsahuje řetězec s "
+"délkou větší než jeden symbol. Jak již název funkce napovídá, je "
+"předpokládáno, že vstupní výraz je výrazem v klasických závorkách. "
+"Samotný první a poslední symbol výrazu není kontrolován na základě "
+"skutečnosti, že dle návrhu algoritmu již daná kontrola byla provedena."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.parentheses_expression_contains_string.parentheses_expression_contains_string:8
+#: of
+msgid "vstupní výraz."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.parentheses_expression_contains_string.parentheses_expression_contains_string:10
+#: of
+msgid ""
+"True, pokud výraz v závorkách obsahuje řetězec s délkou větší než jeden "
+"symbol, jinak False."
+msgstr ""
+
+#: ../../es_tools.formal_models.erasing_system.custom_utils.rst:72
+msgid ""
+"regular\\_language\\_checking\\_tools"
+" module"
+msgstr "modul regular\\_language\\_checking\\_tools"
+
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools:1
+#: of
+msgid "Nástroje pro ověření tvaru regulárního jazyka."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools:5
+#: of
+msgid ""
+"Tento soubor obsahuje funkce pro kontrolu splnění požadavků na tvar "
+"regulárního výrazu pro regulární jazyk. Fundamentální funkcí je funkce "
+"is_valid_regular_language(), která určuje zda byly požadavky splněny či "
+"nikoliv. Další funkce obsažené v tomto souboru jsou pouze pomocné pro "
+"uvedenou funkci."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools:11
+#: of
+msgid "regular_language_checking_tools.py"
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.correctly_bracketed_without_nested_brackets:1
+#: of
+msgid ""
+"Kontrola správnosti zápisu závorek v regulárním výrazu, přičemž nejsou "
+"povoleny jejich vnoření."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.correctly_bracketed_without_nested_brackets:3
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.is_valid_regular_language:7
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.only_allowed_patterns:3
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.start_with_operator:3
+#: of
+msgid "regulární výraz pro regulrární jazyk."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.correctly_bracketed_without_nested_brackets:5
+#: of
+msgid ""
+"True, pokud regulární výraz obsahuje pouze správné uzávorkování a "
+"neobsahuje jejich vnoření, jinak False."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.is_valid_regular_language:1
+#: of
+msgid "Ověření validity regulárního výrazu pro regulární jazyk."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.is_valid_regular_language:3
+#: of
+msgid ""
+"Tato funkce slouží pro ověření validity regulárního výrazu pro regulární "
+"jazyk. Především jsou provedeny kontroly, zda regulární výraz nezačíná "
+"symbolem pro operátor, zda neobsahuje zakázané řetězce a jestli je výraz "
+"správně uzávorkován, přičemž není povoleno vnoření závorek."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.is_valid_regular_language:9
+#: of
+msgid ""
+"True, pokud regulární výraz je ve validním tvaru a splňuje požadované "
+"striktní vlastnosti, jinak False."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.only_allowed_patterns:1
+#: of
+msgid "Kontrola, zda regulární výraz neobsahuje zakázané symboly či řetězce."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.only_allowed_patterns:5
+#: of
+msgid "True, pokud regulární výraz neobsahuje nepovolené řetězce, jinak False."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.start_with_operator:1
+#: of
+msgid ""
+"Kontrola, zda regulární výraz pro regulární jazyk nezačíná symbolem pro "
+"operátor."
+msgstr ""
+
+#: es_tools.formal_models.erasing_system.custom_utils.regular_language_checking_tools.start_with_operator:5
+#: of
+msgid ""
+"True, pokud regulární výraz začíná symbolem pro operátor, a tudíž jeho "
+"zápis není validní, jinak False."
+msgstr ""
+
+#: ../../es_tools.formal_models.erasing_system.custom_utils.rst:80
+msgid "Module contents"
+msgstr "Obsah modulu"
+

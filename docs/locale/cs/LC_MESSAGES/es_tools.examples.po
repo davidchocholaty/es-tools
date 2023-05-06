@@ -1,0 +1,153 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, David Chocholatý
+# This file is distributed under the same license as the es-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: es-tools \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-01 21:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../es_tools.examples.rst:2
+msgid "examples package"
+msgstr "balíček examples"
+
+#: ../../es_tools.examples.rst:5
+msgid "Subpackages"
+msgstr "Dílčí balíčky"
+
+#: ../../es_tools.examples.rst:18
+msgid "Submodules"
+msgstr "Dílčí moduly"
+
+#: ../../es_tools.examples.rst:21
+msgid "run\\_example module"
+msgstr "modul run\\_example"
+
+#: es_tools.examples.run_example:1 of
+msgid ""
+"Skript pro spuštení ukázkového příkladu pro demonstraci funkcionality "
+"nástroje."
+msgstr ""
+
+#: es_tools.examples.run_example:3 of
+msgid ""
+"Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, "
+"Brno 2023."
+msgstr ""
+
+#: es_tools.examples.run_example:5 of
+msgid ""
+"Tento soubor obsahuje implementaci pomocného nástroje pro spuštění "
+"jednotlivých ukázkových příkladů pro implementované nástroje "
+"reprezentující jednotlivé aplikace vymazávacího systému."
+msgstr ""
+
+#: es_tools.examples.run_example of
+msgid "Author"
+msgstr "Autor"
+
+#: es_tools.examples.run_example:8 of
+msgid "David Chocholatý"
+msgstr ""
+
+#: es_tools.examples.run_example of
+msgid "Contact"
+msgstr "Kontakt"
+
+#: es_tools.examples.run_example:9 of
+msgid "xchoch09@stud.fit.vutbr.cz"
+msgstr ""
+
+#: es_tools.examples.run_example of
+msgid "Filename"
+msgstr "Soubor"
+
+#: es_tools.examples.run_example:10 of
+msgid "run_example.py"
+msgstr ""
+
+#: es_tools.examples.run_example.create_custom_argument_handler:1 of
+msgid "Vytvoření manipulátoru pro zpracování uživatelských argumentů."
+msgstr ""
+
+#: es_tools.examples.run_example.create_custom_argument_handler:3 of
+msgid ""
+"Tato funkce slouží pro vytvoření manipulátoru pro zpracování "
+"uživatelských argumentů. Zároveň jsou přidány vlastní specifické "
+"argumenty, a to název spouštěného nástroje, číslo spouštěného testu a "
+"argumentu určujícího, zda má být skript spuštěn v režimu bez instalace "
+"balíčku."
+msgstr ""
+
+#: es_tools.examples.run_example.create_custom_argument_handler of
+msgid "Vrací"
+msgstr ""
+
+#: es_tools.examples.run_example.create_custom_argument_handler:7 of
+msgid "manipulátor pro zpracování uživatelských argumentů."
+msgstr ""
+
+#: es_tools.examples.run_example.create_custom_argument_handler of
+msgid "Typ návratové hodnoty"
+msgstr ""
+
+#: es_tools.examples.run_example.main:1 of
+msgid ""
+"Hlavní funkce pro spuštění ukázkového demonstračního příkladu nástroje "
+"reprezentujícího aplikaci vymazávacího systému."
+msgstr ""
+
+#: es_tools.examples.run_example.run_tool:1 of
+msgid "Spuštění nástroje pro prezentaci ukázkového příkladu příslušné aplikace."
+msgstr ""
+
+#: es_tools.examples.run_example.run_tool:3 of
+msgid ""
+"Tato funkce implementuje především výběr nástroje dle příslušného "
+"uživatelského argumentu."
+msgstr ""
+
+#: es_tools.examples.run_example.run_tool of
+msgid "Parametry"
+msgstr ""
+
+#: es_tools.examples.run_example.run_tool:5 of
+msgid "uživatelské argumenty."
+msgstr ""
+
+#: es_tools.examples.run_example.run_tool of
+msgid "Vyvolá"
+msgstr ""
+
+#: es_tools.examples.run_example.run_tool:7 of
+msgid "výskyt neočekávané interní chyby programu."
+msgstr ""
+
+#: es_tools.examples.run_example.run_tool:8 of
+msgid "hodnota čísla příkladu mimo příslušný rozsah."
+msgstr ""
+
+#: es_tools.examples.run_example.run_tool:9 of
+msgid "nesprávný název spouštěného nástroje."
+msgstr ""
+
+#: es_tools.examples.run_example.run_tool:10 of
+msgid "neznámý operační systém."
+msgstr ""
+
+#: ../../es_tools.examples.rst:29
+msgid "Module contents"
+msgstr "Obsah modulu"
+

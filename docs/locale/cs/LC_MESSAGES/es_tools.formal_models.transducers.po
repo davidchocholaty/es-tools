@@ -1,0 +1,531 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, David Chocholatý
+# This file is distributed under the same license as the es-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: es-tools \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-01 21:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../es_tools.formal_models.transducers.rst:2
+msgid "transducers package"
+msgstr "balíček transducers"
+
+#: ../../es_tools.formal_models.transducers.rst:5
+msgid "Submodules"
+msgstr "Dílčí moduly"
+
+#: ../../es_tools.formal_models.transducers.rst:8
+msgid "deterministic\\_gsm module"
+msgstr "modul deterministic\\_gsm"
+
+#: es_tools.formal_models.transducers.deterministic_gsm:1 of
+msgid "Implementace deterministického zobecněného sekvenčního stroje."
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm:3
+#: es_tools.formal_models.transducers.finite_transducer:3 of
+msgid ""
+"Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, "
+"Brno 2023."
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm:5 of
+msgid ""
+"Tento soubor obsahuje implementaci deterministického zobecněného "
+"sekvenčního stroje dle definic uvedených v textu bakalářské práce na "
+"stranách 19-21. Samotnou funkcionalitu implementují metody příslušné "
+"třídy DeterministicGeneralizedSequentialMachine, přičemž hlavní logiku "
+"převodníku implementuje metoda run()."
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm
+#: es_tools.formal_models.transducers.finite_transducer of
+msgid "Author"
+msgstr "Autor"
+
+#: es_tools.formal_models.transducers.deterministic_gsm:9
+#: es_tools.formal_models.transducers.finite_transducer:9 of
+msgid "David Chocholatý"
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm
+#: es_tools.formal_models.transducers.finite_transducer of
+msgid "Contact"
+msgstr "Kontakt"
+
+#: es_tools.formal_models.transducers.deterministic_gsm:10
+#: es_tools.formal_models.transducers.finite_transducer:10 of
+msgid "xchoch09@stud.fit.vutbr.cz"
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm
+#: es_tools.formal_models.transducers.finite_transducer of
+msgid "Filename"
+msgstr "Soubor"
+
+#: es_tools.formal_models.transducers.deterministic_gsm:11 of
+msgid "deterministic_gsm.py"
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.DeterministicGeneralizedSequentialMachine:1
+#: of
+msgid ""
+"Bases: "
+":py:class:`~es_tools.formal_models.transducers.finite_transducer.FiniteTransducer`"
+msgstr "Základ: :py:class:`~es_tools.formal_models.transducers.finite_transducer.FiniteTransducer`"
+
+#: es_tools.formal_models.transducers.deterministic_gsm.DeterministicGeneralizedSequentialMachine:1
+#: of
+msgid "**Konstruktor třídy DeterministicGeneralizedSequentialMachine**"
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.DeterministicGeneralizedSequentialMachine:3
+#: of
+msgid ""
+"Konstruktor slouží především pro nastavení základních entit "
+"deterministického zobecněného sekvenčního stroje, a to včetně elementů "
+"společných s konečným převodníkem (FiniteTransducer). Zároveň probíhá "
+"kontrola, zda přechody stroje splňují požadované podmínky, a to "
+"determinismus přechodů a čtení pouze jednotlivých symbolů ze vstupní "
+"pásky."
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.DeterministicGeneralizedSequentialMachine
+#: es_tools.formal_models.transducers.deterministic_gsm.DeterministicGeneralizedSequentialMachine.run
+#: es_tools.formal_models.transducers.deterministic_gsm.check_determinism
+#: es_tools.formal_models.transducers.deterministic_gsm.generalized_sequential_machine_transitions
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._add_transition_relation
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._set_final_states
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._set_initial_state
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._set_transition_relations
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.run of
+msgid "Parametry"
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.DeterministicGeneralizedSequentialMachine:8
+#: es_tools.formal_models.transducers.deterministic_gsm.check_determinism:8
+#: es_tools.formal_models.transducers.deterministic_gsm.generalized_sequential_machine_transitions:3
+#: of
+msgid "přechody deterministického zobecněného sekvenčního stroje."
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.DeterministicGeneralizedSequentialMachine:10
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer:18
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._set_initial_state:6
+#: of
+msgid "počáteční stav."
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.DeterministicGeneralizedSequentialMachine:12
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer:20
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._set_final_states:6
+#: of
+msgid "množina koncových stavů."
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.DeterministicGeneralizedSequentialMachine
+#: es_tools.formal_models.transducers.deterministic_gsm.check_determinism
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer of
+msgid "Vyvolá"
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.DeterministicGeneralizedSequentialMachine:14
+#: of
+msgid "neplatný přechod deterministického zobecněného sekvenčního stroje."
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.DeterministicGeneralizedSequentialMachine:15
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer:25 of
+msgid "počáteční stav nenáleží do množiny stavů."
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.DeterministicGeneralizedSequentialMachine:16
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer:26 of
+msgid "množina koncových stavů není podmnožinou množiny stavů."
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.DeterministicGeneralizedSequentialMachine.run:1
+#: of
+msgid ""
+"Spuštění běhu definovaného deterministického zobecněného sekvenčního "
+"stroje."
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.DeterministicGeneralizedSequentialMachine.run:3
+#: of
+msgid ""
+"Tato metoda poskytuje fundamentální funkcionalitu běhu deterministického "
+"zobecněného sekvenčního stroje. Zároveň metoda přepisuje stejnojmennou "
+"metodu rodičovské třídy FiniteTransducer."
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.DeterministicGeneralizedSequentialMachine.run:6
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.run:5
+#: of
+msgid "vstupní řetězec."
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.DeterministicGeneralizedSequentialMachine.run
+#: es_tools.formal_models.transducers.deterministic_gsm.generalized_sequential_machine_transitions
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.run of
+msgid "Vrací"
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.DeterministicGeneralizedSequentialMachine.run:8
+#: of
+msgid "navrací vygenerovaný výstupní řetězec (pouze jeden)."
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.DeterministicGeneralizedSequentialMachine.run
+#: es_tools.formal_models.transducers.deterministic_gsm.generalized_sequential_machine_transitions
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.run of
+msgid "Typ návratové hodnoty"
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.check_determinism:1 of
+msgid ""
+"Kontrola, zda přechody splňují podmínky deterministického zobecněného "
+"sekvenčního stroje."
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.check_determinism:3 of
+msgid ""
+"Tato funkce provádí kontrolu podmínek pro přechody deterministického "
+"zobecněného sekvenčního stroje. S využitím funkce "
+"generalized_sequential_machine_transitions() se kontroluje, zda platí "
+"podmínky pro zobecněný sekvenční stroj, tedy zda jsou ze vstupní pásky "
+"čteny pouze symboly. Samotná funkce poté provádí kontrolu determinismu "
+"přechodů."
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.check_determinism:10 of
+msgid ""
+"přechody nesplňují podmínky deterministického zobecněného sekvenčního "
+"stroje."
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.generalized_sequential_machine_transitions:1
+#: of
+msgid ""
+"Kontrola, zda přechody uvažují čtení pouze jednotlivých symbolů (je "
+"přečten právě jeden symbol ze vstupní pásky)."
+msgstr ""
+
+#: es_tools.formal_models.transducers.deterministic_gsm.generalized_sequential_machine_transitions:5
+#: of
+msgid ""
+"True, pokud přechody splňují podmínku, že je přečten právě jeden symbol "
+"ze vstupní pásky. V opačném případě False."
+msgstr ""
+
+#: ../../es_tools.formal_models.transducers.rst:16
+msgid "finite\\_transducer module"
+msgstr "modul finite\\_transducer"
+
+#: es_tools.formal_models.transducers.finite_transducer:1
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer:1 of
+msgid "Implementace konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer:5 of
+msgid ""
+"Tento soubor obsahuje implementaci konečného převodníku dle definic "
+"uvedených v textu bakalářské práce na stranách 19-21. Samotnou "
+"funkcionalitu implementují metody příslušné třídy FiniteTransducer, "
+"přičemž hlavní logiku převodníku implementuje metoda run()."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer:11 of
+msgid "finite_transducer.py"
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer:1 of
+msgid "Bases: :py:class:`~es_tools.formal_models.formal_model.FormalModel`"
+msgstr "Základ: :py:class:`~es_tools.formal_models.formal_model.FormalModel`"
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer:3 of
+msgid ""
+"Tato třída poskytuje metody, které implementují funkcionalitu konečného "
+"převodníku. Kromě konstruktoru, metod pro získání či nastavení hodnot či "
+"pomocných funkcí, hlavní funkcionalitu představuje metoda run(), která "
+"implementuje zpracování vstupního řetězce a generování výstupních řetězců"
+" s využitím konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer:7 of
+msgid ""
+"Třida je zděděna od abstraktní třídy FormalModel, která slouží jako "
+"bázová třída pro všechny formální modely implementované v celém projektu."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer:10 of
+msgid "**Konstruktor třídy FiniteTransducer**"
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer:12 of
+msgid ""
+"Konstruktor slouží především pro nastavení základních entit konečného "
+"převodníku, jako je například počáteční stav, přechody převočníku nebo "
+"množina koncových stavů. Zároveň je nastavena maximální délka "
+"vygenerovaného výstupního řetězce za účelem zabránění nekonečného "
+"generování pomocí epsilon-přechodů převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer:16 of
+msgid "přechody konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer:22 of
+msgid ""
+"maximální délka generovaného řetězce (zabránění nekonečného generování "
+"výstupu pomocí epsilon-přechodů)."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._add_transition_relation:1
+#: of
+msgid "Přidání přechodu do slovníku přechodů."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._add_transition_relation:3
+#: of
+msgid ""
+"Tato metoda zajišťuje přidání jednoho přechodu do slovníku obsahujícího "
+"jednotlivé přechody konečného převodníku. Zároveň s nastavením řetězce, "
+"který je přečten ze vstupní pásky, je rozšířena vstupní abeceda o nové "
+"symboly. To stejné platí pro řetězec zapisovaný na výstupní pásku a pro "
+"výstupní abecedu."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._add_transition_relation:7
+#: of
+msgid "počáteční stav přechodu."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._add_transition_relation:9
+#: of
+msgid "vstupní řetězec, který při provedení přechodu je přečten ze vstupní pásky."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._add_transition_relation:11
+#: of
+msgid "konečný stav přechodu."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._add_transition_relation:13
+#: of
+msgid ""
+"výstupní řetězec, který je při provedení přechodu zapsán na výstupní "
+"pásku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._set_final_states:1
+#: of
+msgid "Nastavení koncových stavů konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._set_final_states:3
+#: of
+msgid ""
+"Tato metoda nastaví koncové stavy konečného převodníku. Zároveň je "
+"provedena kontrola, zda množina koncových stavů je podmnožinou množiny "
+"stavů definovaného konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._set_initial_state:1
+#: of
+msgid "Nastavení počátečního stavu konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._set_initial_state:3
+#: of
+msgid ""
+"Tato metoda nastaví počáteční stav konečného převodníku. Zároveň je "
+"provedena kontrola, zda počáteční stav náleží do množiny stavů konečného "
+"převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._set_transition_relations:1
+#: of
+msgid "Nastavení přechodů do slovníku přechodů."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._set_transition_relations:3
+#: of
+msgid ""
+"Tato metoda nastaví všechny přechody konečného převodníku s využitím "
+"metody _add_transition_relation()."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer._set_transition_relations:5
+#: of
+msgid "seznam přechodů konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.final_states:1
+#: of
+msgid "Množina koncových stavů konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.final_states
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.initial_state
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.input_alphabet
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.max_generated_output_string_length
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.output_alphabet
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.states
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.transition_relations
+#: of
+msgid "getter"
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.final_states:3
+#: of
+msgid "získání množiny koncových stavů konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.final_states
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.initial_state
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.input_alphabet
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.max_generated_output_string_length
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.output_alphabet
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.states
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.transition_relations
+#: of
+msgid "type"
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.final_states:4
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.input_alphabet:4
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.output_alphabet:4
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.states:4
+#: of
+msgid "Set[str]"
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.initial_state:1
+#: of
+msgid "Počáteční stav definovaného konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.initial_state:3
+#: of
+msgid "získání počátečního stavu definovaného konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.initial_state:4
+#: of
+msgid "str"
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.input_alphabet:1
+#: of
+msgid "Vstupní abeceda definovaného konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.input_alphabet:3
+#: of
+msgid "získání vstupní abecedy definovaného konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.max_generated_output_string_length:1
+#: of
+msgid ""
+"Maximální délka výstupního řetězce pro omezení nekonečného generování "
+"pomocí epsilon-přechodů."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.max_generated_output_string_length:3
+#: of
+msgid ""
+"získání maximální nastavené délky výstupního řetězce pro omezení "
+"nekonečného generování pomocí epsilon-přechodů."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.max_generated_output_string_length
+#: of
+msgid "setter"
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.max_generated_output_string_length:5
+#: of
+msgid ""
+"nastavení maximální délky výstupního řetězce pro omezení nekonečného "
+"generování pomocí epsilon-přechodů."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.max_generated_output_string_length:7
+#: of
+msgid "int"
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.output_alphabet:1
+#: of
+msgid "Výstupní abeceda definovaného konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.output_alphabet:3
+#: of
+msgid "získání výstupní abecedy definovaného konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.run:1
+#: of
+msgid "Spuštění běhu definovaného konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.run:3
+#: of
+msgid ""
+"Tato metoda poskytuje fundamentální funkcionalitu běhu konečného "
+"převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.run:7
+#: of
+msgid ""
+"navrací všechny vygenerované výstupní řetězce, které je možné získat pro "
+"daný vstupní řetězec."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.states:1
+#: of
+msgid "Množina stavů definovaného konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.states:3
+#: of
+msgid "získání množiny stavů definovaného konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.transition_relations:1
+#: of
+msgid "Přechody definovaného konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.transition_relations:3
+#: of
+msgid "získání přechodů definovaného konečného převodníku."
+msgstr ""
+
+#: es_tools.formal_models.transducers.finite_transducer.FiniteTransducer.transition_relations:4
+#: of
+msgid "Dict[Tuple[str, str], Tuple[str, str]]"
+msgstr ""
+
+#: ../../es_tools.formal_models.transducers.rst:24
+msgid "Module contents"
+msgstr "Obsah modulu"
+

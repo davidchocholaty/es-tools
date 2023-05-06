@@ -1,0 +1,357 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, David Chocholatý
+# This file is distributed under the same license as the es-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: es-tools \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-01 21:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../es_tools.tools.n_queens_problem_tool.custom_utils.rst:2
+msgid "custom\\_utils package"
+msgstr "balíček custom\\_utils"
+
+#: ../../es_tools.tools.n_queens_problem_tool.custom_utils.rst:5
+msgid "Submodules"
+msgstr "Dílčí moduly"
+
+#: ../../es_tools.tools.n_queens_problem_tool.custom_utils.rst:8
+msgid ""
+"convert\\_to\\_diagonal\\_axes"
+" module"
+msgstr "modul convert\\_to\\_diagonal\\_axes"
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.convert_to_diagonal_axes:1
+#: of
+msgid ""
+"Funkce pro převod vstupního řešení problému n dam ze základních souřadnic"
+" na souřadnice diagonální."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.convert_to_diagonal_axes:3
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_constants:3
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation:3
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation:3
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation:3
+#: es_tools.tools.n_queens_problem_tool.custom_utils.english_alphabet:3 of
+msgid ""
+"Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, "
+"Brno 2023."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.convert_to_diagonal_axes:5
+#: of
+msgid ""
+"Tento soubor obsahuje funkci ro převod vstupního řešení problému n dam ze"
+" základních souřadnic na souřadnice diagonální."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.convert_to_diagonal_axes
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_constants
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation
+#: es_tools.tools.n_queens_problem_tool.custom_utils.english_alphabet of
+msgid "Author"
+msgstr "Autor"
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.convert_to_diagonal_axes:7
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_constants:5
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation:8
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation:8
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation:8
+#: es_tools.tools.n_queens_problem_tool.custom_utils.english_alphabet:5 of
+msgid "David Chocholatý"
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.convert_to_diagonal_axes
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_constants
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation
+#: es_tools.tools.n_queens_problem_tool.custom_utils.english_alphabet of
+msgid "Contact"
+msgstr "Kontakt"
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.convert_to_diagonal_axes:8
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_constants:6
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation:9
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation:9
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation:9
+#: es_tools.tools.n_queens_problem_tool.custom_utils.english_alphabet:6 of
+msgid "xchoch09@stud.fit.vutbr.cz"
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.convert_to_diagonal_axes
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_constants
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation
+#: es_tools.tools.n_queens_problem_tool.custom_utils.english_alphabet of
+msgid "Filename"
+msgstr "Soubor"
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.convert_to_diagonal_axes:9
+#: of
+msgid "convert_to_diagonal_axes.py"
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.convert_to_diagonal_axes.convert_to_diagonal_axes:1
+#: of
+msgid ""
+"Převod vstupního řešení problému n dam ze základních souřadnic na "
+"souřadnice diagonální."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.convert_to_diagonal_axes.convert_to_diagonal_axes:3
+#: of
+msgid ""
+"Tato funkce provádí převod vstupního řešení problému n dam ze základních "
+"souřadnic na souřadnice diagonální. Popis algoritmu převodu se v textu "
+"práce nachází na stranách 65 a 66, přičemž jsou využity výrazy 6.13 a "
+"6.14."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.convert_to_diagonal_axes.convert_to_diagonal_axes
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation.create_erasing_system_base_coordinates
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation.create_erasing_system_diagonal_coordinates
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation.create_transducer
+#: of
+msgid "Parametry"
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.convert_to_diagonal_axes.convert_to_diagonal_axes:6
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation.create_erasing_system_base_coordinates:3
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation.create_erasing_system_diagonal_coordinates:3
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation.create_transducer:7
+#: of
+msgid "rozměr šachovnice pro vstupní řešení."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.convert_to_diagonal_axes.convert_to_diagonal_axes:8
+#: of
+msgid "vstupní řešení v základních souřadnicích."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.convert_to_diagonal_axes.convert_to_diagonal_axes
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation.create_erasing_system_base_coordinates
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation.create_erasing_system_diagonal_coordinates
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation.create_transducer
+#: of
+msgid "Vrací"
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.convert_to_diagonal_axes.convert_to_diagonal_axes:10
+#: of
+msgid "vstupní řešení v diagonálních souřadnicích."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.convert_to_diagonal_axes.convert_to_diagonal_axes
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation.create_erasing_system_base_coordinates
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation.create_erasing_system_diagonal_coordinates
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation.create_transducer
+#: of
+msgid "Typ návratové hodnoty"
+msgstr ""
+
+#: ../../es_tools.tools.n_queens_problem_tool.custom_utils.rst:16
+msgid ""
+"custom\\_constants"
+" module"
+msgstr "modul custom\\_constants"
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_constants:1 of
+msgid "Specifické konstanty nástroje pro ověření řešení problému n dam."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_constants:7 of
+msgid "custom_constants.py"
+msgstr ""
+
+#: ../../es_tools.tools.n_queens_problem_tool.custom_utils.rst:24
+msgid ""
+"custom\\_erasing\\_system\\_base\\_coordinates\\_creation"
+" module"
+msgstr "modul custom\\_erasing\\_system\\_base\\_coordinates\\_creation"
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation:1
+#: of
+msgid ""
+"Vytvoření vymazávacího systému aplikovaného na ověření správnosti řešení "
+"problému n dam v základních souřadnicích."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation:5
+#: of
+msgid ""
+"Tento soubor obsahuje funkci pro vytvoření vymazávacího systému "
+"aplikovaného na ověření správnosti řešení problému n dam v základních "
+"souřadnicích."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation:10
+#: of
+msgid "custom_erasing_system_base_coordinates_creation.py"
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation.create_erasing_system_base_coordinates:1
+#: of
+msgid ""
+"Vytvoření vymazávacího systému pro ověření vstupního řešení problému n "
+"dam v základních souřadnicích."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation.create_erasing_system_base_coordinates:5
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation.create_erasing_system_diagonal_coordinates:5
+#: of
+msgid "typ kvantifikátoru (True — chamtivý, False — líný)."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation.create_erasing_system_base_coordinates:7
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation.create_erasing_system_diagonal_coordinates:7
+#: of
+msgid ""
+"určení, zda mají být vypisovány na standardní výstup při činnosti "
+"vymazávacího systému podrobné informace."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation.create_erasing_system_base_coordinates:10
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation.create_erasing_system_diagonal_coordinates:10
+#: of
+msgid "vytvořený vymazávací systém dle zadaného rozměru šachovnice."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation.create_erasing_system_base_coordinates
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation.create_erasing_system_diagonal_coordinates
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation.create_transducer
+#: of
+msgid "Vyvolá"
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation.create_erasing_system_base_coordinates:12
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation.create_erasing_system_diagonal_coordinates:12
+#: of
+msgid "výskyt nepovoleného symbolu ve vymazávacím řetězci."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_base_coordinates_creation.create_erasing_system_base_coordinates:13
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation.create_erasing_system_diagonal_coordinates:13
+#: of
+msgid "nevalidní nebo nepovolený tvar regulárního výrazu pro regulární jazyk."
+msgstr ""
+
+#: ../../es_tools.tools.n_queens_problem_tool.custom_utils.rst:32
+msgid ""
+"custom\\_erasing\\_system\\_diagonal\\_coordinates\\_creation"
+" module"
+msgstr "modul custom\\_erasing\\_system\\_diagonal\\_coordinates\\_creation"
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation:1
+#: of
+msgid ""
+"Vytvoření vymazávacího systému aplikovaného na ověření správnosti řešení "
+"problému n dam v diagonálních souřadnicích."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation:5
+#: of
+msgid ""
+"Tento soubor obsahuje funkci pro vytvoření vymazávacího systému "
+"aplikovaného na ověření správnosti řešení problému n dam v diagonálních "
+"souřadnicích."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation:10
+#: of
+msgid "custom_erasing_system_diagonal_coordinates_creation.py"
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_erasing_system_diagonal_coordinates_creation.create_erasing_system_diagonal_coordinates:1
+#: of
+msgid ""
+"Vytvoření vymazávacího systému pro ověření vstupního řešení problému n "
+"dam v diagonálních souřadnicích."
+msgstr ""
+
+#: ../../es_tools.tools.n_queens_problem_tool.custom_utils.rst:40
+msgid ""
+"custom\\_transducer\\_creation"
+" module"
+msgstr "modul custom\\_transducer\\_creation"
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation:1
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation.create_transducer:1
+#: of
+msgid ""
+"Vytvoření konečného převodníku pro převod vstupního řešení problému n dam"
+" na požadovaný tvar."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation:5
+#: of
+msgid ""
+"Tento soubor obsahuje funkci pro vytvoření konečného převodníku, který "
+"provádí překlad vstupního řešení problému n dam na požadovaný tvar, "
+"přičemž se jedná především o převod číselných hodnot na symboly řecké "
+"abecedy."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation:10
+#: of
+msgid "custom_transducer_creation.py"
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation.create_transducer:3
+#: of
+msgid ""
+"Tato funkce slouží pro vytvoření konečného převodníku pro převod "
+"vstupního řešení problému n dam na takový tvar, že veškeré číselné "
+"hodnoty jsou převedeny na symboly řecké abecedy. Zároveň pomocí tohoto "
+"převodníku probíhá částečná kontrola správnosti tvaru vstupního řetězce."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation.create_transducer:9
+#: of
+msgid "vytvořený konečný převodník."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation.create_transducer:11
+#: of
+msgid "počáteční stav nenáleží do množiny stavů."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.custom_transducer_creation.create_transducer:12
+#: of
+msgid "množina koncových stavů není podmnožinou množiny stavů."
+msgstr ""
+
+#: ../../es_tools.tools.n_queens_problem_tool.custom_utils.rst:48
+msgid ""
+"english\\_alphabet"
+" module"
+msgstr "modul english\\_alphabet"
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.english_alphabet:1 of
+msgid "Symboly anglické abecedy pro nástroj na ověření řešení problému n dam."
+msgstr ""
+
+#: es_tools.tools.n_queens_problem_tool.custom_utils.english_alphabet:7 of
+msgid "english_alphabet.py"
+msgstr ""
+
+#: ../../es_tools.tools.n_queens_problem_tool.custom_utils.rst:56
+msgid "Module contents"
+msgstr "Obsah modulu"
+

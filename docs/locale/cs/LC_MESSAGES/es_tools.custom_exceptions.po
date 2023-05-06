@@ -1,0 +1,801 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, David Chocholatý
+# This file is distributed under the same license as the es-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: es-tools \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-01 21:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../es_tools.custom_exceptions.rst:2
+msgid "custom\\_exceptions package"
+msgstr "balíček custom\\_exceptions"
+
+#: ../../es_tools.custom_exceptions.rst:3
+msgid ""
+"Balíček obsahuje vlastní výjimky reprezentující chybové stavy pro "
+"formální modely, nástroje a skripty pro ukázkové příklady."
+msgstr ""
+
+#: ../../es_tools.custom_exceptions.rst:6
+msgid "Submodules"
+msgstr "Dílčí moduly"
+
+#: ../../es_tools.custom_exceptions.rst:9
+msgid ""
+"es\\_tools.custom\\_exceptions.argument\\_not\\_expected\\_exception "
+"module"
+msgstr ""
+
+#: es_tools.custom_exceptions.argument_not_expected_exception:1
+#: es_tools.custom_exceptions.argument_not_expected_exception.ArgumentNotExpectedException:1
+#: of
+msgid "Výjimka pro zadání neočekávaného argumentu."
+msgstr ""
+
+#: es_tools.custom_exceptions.argument_not_expected_exception:3
+#: es_tools.custom_exceptions.data_types_not_match_exception:3
+#: es_tools.custom_exceptions.final_states_not_states_subset_exception:3
+#: es_tools.custom_exceptions.illegal_symbol_occurrence_exception:3
+#: es_tools.custom_exceptions.initial_state_not_in_states_exception:3
+#: es_tools.custom_exceptions.internal_error_exception:3
+#: es_tools.custom_exceptions.invalid_argument_exception:3
+#: es_tools.custom_exceptions.invalid_example_number_exception:3
+#: es_tools.custom_exceptions.invalid_input_data_structure_exception:3
+#: es_tools.custom_exceptions.invalid_regular_language_pattern_exception:3
+#: es_tools.custom_exceptions.invalid_searched_sequences_exception:3
+#: es_tools.custom_exceptions.invalid_transition_exception:3
+#: es_tools.custom_exceptions.invalid_value_exception:3
+#: es_tools.custom_exceptions.maximum_input_string_length_exceeded_exception:3
+#: es_tools.custom_exceptions.required_argument_not_provided_exception:3
+#: es_tools.custom_exceptions.unexpected_input_data_type_exception:3
+#: es_tools.custom_exceptions.unknown_platform_system_exception:3 of
+msgid ""
+"Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, "
+"Brno 2023."
+msgstr ""
+
+#: es_tools.custom_exceptions.argument_not_expected_exception:5
+#: es_tools.custom_exceptions.invalid_regular_language_pattern_exception:5 of
+msgid ""
+"Tento soubor obsahuje výjimku sloužící pro reprezentaci, že zadaný "
+"vstupní uživatelský argument nebyl očekáván."
+msgstr ""
+
+#: es_tools.custom_exceptions.argument_not_expected_exception
+#: es_tools.custom_exceptions.data_types_not_match_exception
+#: es_tools.custom_exceptions.final_states_not_states_subset_exception
+#: es_tools.custom_exceptions.illegal_symbol_occurrence_exception
+#: es_tools.custom_exceptions.initial_state_not_in_states_exception
+#: es_tools.custom_exceptions.internal_error_exception
+#: es_tools.custom_exceptions.invalid_argument_exception
+#: es_tools.custom_exceptions.invalid_example_number_exception
+#: es_tools.custom_exceptions.invalid_input_data_structure_exception
+#: es_tools.custom_exceptions.invalid_regular_language_pattern_exception
+#: es_tools.custom_exceptions.invalid_searched_sequences_exception
+#: es_tools.custom_exceptions.invalid_transition_exception
+#: es_tools.custom_exceptions.invalid_value_exception
+#: es_tools.custom_exceptions.maximum_input_string_length_exceeded_exception
+#: es_tools.custom_exceptions.required_argument_not_provided_exception
+#: es_tools.custom_exceptions.unexpected_input_data_type_exception
+#: es_tools.custom_exceptions.unknown_platform_system_exception of
+msgid "Author"
+msgstr "Autor"
+
+#: es_tools.custom_exceptions.argument_not_expected_exception:7
+#: es_tools.custom_exceptions.data_types_not_match_exception:8
+#: es_tools.custom_exceptions.final_states_not_states_subset_exception:7
+#: es_tools.custom_exceptions.illegal_symbol_occurrence_exception:7
+#: es_tools.custom_exceptions.initial_state_not_in_states_exception:7
+#: es_tools.custom_exceptions.internal_error_exception:7
+#: es_tools.custom_exceptions.invalid_argument_exception:7
+#: es_tools.custom_exceptions.invalid_example_number_exception:7
+#: es_tools.custom_exceptions.invalid_input_data_structure_exception:7
+#: es_tools.custom_exceptions.invalid_regular_language_pattern_exception:7
+#: es_tools.custom_exceptions.invalid_searched_sequences_exception:8
+#: es_tools.custom_exceptions.invalid_transition_exception:7
+#: es_tools.custom_exceptions.invalid_value_exception:7
+#: es_tools.custom_exceptions.maximum_input_string_length_exceeded_exception:7
+#: es_tools.custom_exceptions.required_argument_not_provided_exception:7
+#: es_tools.custom_exceptions.unexpected_input_data_type_exception:7
+#: es_tools.custom_exceptions.unknown_platform_system_exception:7 of
+msgid "David Chocholatý"
+msgstr ""
+
+#: es_tools.custom_exceptions.argument_not_expected_exception
+#: es_tools.custom_exceptions.data_types_not_match_exception
+#: es_tools.custom_exceptions.final_states_not_states_subset_exception
+#: es_tools.custom_exceptions.illegal_symbol_occurrence_exception
+#: es_tools.custom_exceptions.initial_state_not_in_states_exception
+#: es_tools.custom_exceptions.internal_error_exception
+#: es_tools.custom_exceptions.invalid_argument_exception
+#: es_tools.custom_exceptions.invalid_example_number_exception
+#: es_tools.custom_exceptions.invalid_input_data_structure_exception
+#: es_tools.custom_exceptions.invalid_regular_language_pattern_exception
+#: es_tools.custom_exceptions.invalid_searched_sequences_exception
+#: es_tools.custom_exceptions.invalid_transition_exception
+#: es_tools.custom_exceptions.invalid_value_exception
+#: es_tools.custom_exceptions.maximum_input_string_length_exceeded_exception
+#: es_tools.custom_exceptions.required_argument_not_provided_exception
+#: es_tools.custom_exceptions.unexpected_input_data_type_exception
+#: es_tools.custom_exceptions.unknown_platform_system_exception of
+msgid "Contact"
+msgstr "Kontakt"
+
+#: es_tools.custom_exceptions.argument_not_expected_exception:8
+#: es_tools.custom_exceptions.data_types_not_match_exception:9
+#: es_tools.custom_exceptions.final_states_not_states_subset_exception:8
+#: es_tools.custom_exceptions.illegal_symbol_occurrence_exception:8
+#: es_tools.custom_exceptions.initial_state_not_in_states_exception:8
+#: es_tools.custom_exceptions.internal_error_exception:8
+#: es_tools.custom_exceptions.invalid_argument_exception:8
+#: es_tools.custom_exceptions.invalid_example_number_exception:8
+#: es_tools.custom_exceptions.invalid_input_data_structure_exception:8
+#: es_tools.custom_exceptions.invalid_regular_language_pattern_exception:8
+#: es_tools.custom_exceptions.invalid_searched_sequences_exception:9
+#: es_tools.custom_exceptions.invalid_transition_exception:8
+#: es_tools.custom_exceptions.invalid_value_exception:8
+#: es_tools.custom_exceptions.maximum_input_string_length_exceeded_exception:8
+#: es_tools.custom_exceptions.required_argument_not_provided_exception:8
+#: es_tools.custom_exceptions.unexpected_input_data_type_exception:8
+#: es_tools.custom_exceptions.unknown_platform_system_exception:8 of
+msgid "xchoch09@stud.fit.vutbr.cz"
+msgstr ""
+
+#: es_tools.custom_exceptions.argument_not_expected_exception
+#: es_tools.custom_exceptions.data_types_not_match_exception
+#: es_tools.custom_exceptions.final_states_not_states_subset_exception
+#: es_tools.custom_exceptions.illegal_symbol_occurrence_exception
+#: es_tools.custom_exceptions.initial_state_not_in_states_exception
+#: es_tools.custom_exceptions.internal_error_exception
+#: es_tools.custom_exceptions.invalid_argument_exception
+#: es_tools.custom_exceptions.invalid_example_number_exception
+#: es_tools.custom_exceptions.invalid_input_data_structure_exception
+#: es_tools.custom_exceptions.invalid_regular_language_pattern_exception
+#: es_tools.custom_exceptions.invalid_searched_sequences_exception
+#: es_tools.custom_exceptions.invalid_transition_exception
+#: es_tools.custom_exceptions.invalid_value_exception
+#: es_tools.custom_exceptions.maximum_input_string_length_exceeded_exception
+#: es_tools.custom_exceptions.required_argument_not_provided_exception
+#: es_tools.custom_exceptions.unexpected_input_data_type_exception
+#: es_tools.custom_exceptions.unknown_platform_system_exception of
+msgid "Filename"
+msgstr "Soubor"
+
+#: es_tools.custom_exceptions.argument_not_expected_exception:9 of
+msgid "argument_not_expected_exception.py"
+msgstr ""
+
+#: es_tools.custom_exceptions.argument_not_expected_exception.ArgumentNotExpectedException:1
+#: es_tools.custom_exceptions.data_types_not_match_exception.DataTypesNotMatchException:1
+#: es_tools.custom_exceptions.final_states_not_states_subset_exception.FinalStatesNotStatesSubsetException:1
+#: es_tools.custom_exceptions.illegal_symbol_occurrence_exception.IllegalSymbolOccurrenceException:1
+#: es_tools.custom_exceptions.initial_state_not_in_states_exception.InitialStateNotInStatesException:1
+#: es_tools.custom_exceptions.internal_error_exception.InternalErrorException:1
+#: es_tools.custom_exceptions.invalid_argument_exception.InvalidArgumentException:1
+#: es_tools.custom_exceptions.invalid_example_number_exception.InvalidExampleNumberException:1
+#: es_tools.custom_exceptions.invalid_input_data_structure_exception.InvalidInputDataStructure:1
+#: es_tools.custom_exceptions.invalid_regular_language_pattern_exception.InvalidRegularLanguagePatternException:1
+#: es_tools.custom_exceptions.invalid_searched_sequences_exception.InvalidSearchedSequencesException:1
+#: es_tools.custom_exceptions.invalid_transition_exception.InvalidTransitionException:1
+#: es_tools.custom_exceptions.invalid_value_exception.InvalidValueException:1
+#: es_tools.custom_exceptions.maximum_input_string_length_exceeded_exception.MaximumInputStringLengthExceededException:1
+#: es_tools.custom_exceptions.required_argument_not_provided_exception.RequiredArgumentNotProvidedException:1
+#: es_tools.custom_exceptions.unexpected_input_data_type_exception.UnexpectedInputDataTypeException:1
+#: es_tools.custom_exceptions.unknown_platform_system_exception.UnknownPlatformSystemException:1
+#: of
+msgid "Bases: :py:class:`Exception`"
+msgstr "Základ: :py:class:`Exception`"
+
+#: es_tools.custom_exceptions.argument_not_expected_exception.ArgumentNotExpectedException:3
+#: of
+msgid ""
+"Tato třída reprezentuje zadání neočekávaného uživatelského argumentu. "
+"Jako výjimka je odvozena od třídy Exception."
+msgstr ""
+
+#: es_tools.custom_exceptions.argument_not_expected_exception.ArgumentNotExpectedException:5
+#: of
+msgid "**Konstruktor třídy ArgumentNotExpectedException**"
+msgstr ""
+
+#: es_tools.custom_exceptions.argument_not_expected_exception.ArgumentNotExpectedException
+#: es_tools.custom_exceptions.data_types_not_match_exception.DataTypesNotMatchException
+#: es_tools.custom_exceptions.final_states_not_states_subset_exception.FinalStatesNotStatesSubsetException
+#: es_tools.custom_exceptions.illegal_symbol_occurrence_exception.IllegalSymbolOccurrenceException
+#: es_tools.custom_exceptions.initial_state_not_in_states_exception.InitialStateNotInStatesException
+#: es_tools.custom_exceptions.internal_error_exception.InternalErrorException
+#: es_tools.custom_exceptions.invalid_argument_exception.InvalidArgumentException
+#: es_tools.custom_exceptions.invalid_example_number_exception.InvalidExampleNumberException
+#: es_tools.custom_exceptions.invalid_regular_language_pattern_exception.InvalidRegularLanguagePatternException
+#: es_tools.custom_exceptions.invalid_searched_sequences_exception.InvalidSearchedSequencesException
+#: es_tools.custom_exceptions.invalid_transition_exception.InvalidTransitionException
+#: es_tools.custom_exceptions.invalid_value_exception.InvalidValueException
+#: es_tools.custom_exceptions.maximum_input_string_length_exceeded_exception.MaximumInputStringLengthExceededException
+#: es_tools.custom_exceptions.required_argument_not_provided_exception.RequiredArgumentNotProvidedException
+#: es_tools.custom_exceptions.unexpected_input_data_type_exception.UnexpectedInputDataTypeException
+#: es_tools.custom_exceptions.unknown_platform_system_exception.UnknownPlatformSystemException
+#: of
+msgid "Parametry"
+msgstr ""
+
+#: es_tools.custom_exceptions.argument_not_expected_exception.ArgumentNotExpectedException:7
+#: es_tools.custom_exceptions.data_types_not_match_exception.DataTypesNotMatchException:8
+#: es_tools.custom_exceptions.final_states_not_states_subset_exception.FinalStatesNotStatesSubsetException:8
+#: es_tools.custom_exceptions.illegal_symbol_occurrence_exception.IllegalSymbolOccurrenceException:8
+#: es_tools.custom_exceptions.initial_state_not_in_states_exception.InitialStateNotInStatesException:8
+#: es_tools.custom_exceptions.internal_error_exception.InternalErrorException:8
+#: es_tools.custom_exceptions.invalid_argument_exception.InvalidArgumentException:8
+#: es_tools.custom_exceptions.invalid_example_number_exception.InvalidExampleNumberException:8
+#: es_tools.custom_exceptions.invalid_regular_language_pattern_exception.InvalidRegularLanguagePatternException:8
+#: es_tools.custom_exceptions.invalid_searched_sequences_exception.InvalidSearchedSequencesException:7
+#: es_tools.custom_exceptions.invalid_transition_exception.InvalidTransitionException:7
+#: es_tools.custom_exceptions.invalid_value_exception.InvalidValueException:7
+#: es_tools.custom_exceptions.maximum_input_string_length_exceeded_exception.MaximumInputStringLengthExceededException:8
+#: es_tools.custom_exceptions.required_argument_not_provided_exception.RequiredArgumentNotProvidedException:9
+#: es_tools.custom_exceptions.unexpected_input_data_type_exception.UnexpectedInputDataTypeException:8
+#: es_tools.custom_exceptions.unknown_platform_system_exception.UnknownPlatformSystemException:7
+#: of
+msgid "chybová zpráva."
+msgstr ""
+
+msgid "argument\\_not\\_expected\\_exception module"
+msgstr "modul argument\\_not\\_expected\\_exception"
+
+#: ../../es_tools.custom_exceptions.rst:17
+msgid ""
+"data\\_types\\_not\\_match\\_exception "
+"module"
+msgstr "modul data\\_types\\_not\\_match\\_exception"
+
+#: es_tools.custom_exceptions.data_types_not_match_exception:1
+#: es_tools.custom_exceptions.data_types_not_match_exception.DataTypesNotMatchException:1
+#: of
+msgid "Výjimka pro nekompatibilitu vstupních dat."
+msgstr ""
+
+#: es_tools.custom_exceptions.data_types_not_match_exception:5 of
+msgid ""
+"Tento soubor obsahuje výjimku sloužící pro reprezentaci, že zadaná "
+"vstupní data ve vstupním souboru a v rámci uživatelských argumentů nejsou"
+" kompatibilní."
+msgstr ""
+
+#: es_tools.custom_exceptions.data_types_not_match_exception:10 of
+msgid "data_types_not_match_exception.py"
+msgstr ""
+
+#: es_tools.custom_exceptions.data_types_not_match_exception.DataTypesNotMatchException:3
+#: of
+msgid ""
+"Tato třída reprezentuje zadání nekompatibilních dat pro typ dat ve "
+"vstupním souboru a typ dat zadaných jako uživatelský argumenty. Jako "
+"výjimka je odvozena od třídy Exception."
+msgstr ""
+
+#: es_tools.custom_exceptions.data_types_not_match_exception.DataTypesNotMatchException:6
+#: of
+msgid "**Konstruktor třídy DataTypesNotMatchException**"
+msgstr ""
+
+#: ../../es_tools.custom_exceptions.rst:25
+msgid ""
+"final\\_states\\_not\\_states\\_subset\\_exception"
+" module"
+msgstr "modul final\\_states\\_not\\_states\\_subset\\_exception"
+
+#: es_tools.custom_exceptions.final_states_not_states_subset_exception:1 of
+msgid "Výjimka pro neplatnou množinu koncových stavů převodníku."
+msgstr ""
+
+#: es_tools.custom_exceptions.final_states_not_states_subset_exception:5 of
+msgid ""
+"Tento soubor obsahuje výjimku sloužící pro reprezentaci, že zadaná "
+"množina koncových stavů není dle definice platná."
+msgstr ""
+
+#: es_tools.custom_exceptions.final_states_not_states_subset_exception:9 of
+msgid "final_states_not_states_subset_exception.py"
+msgstr ""
+
+#: es_tools.custom_exceptions.final_states_not_states_subset_exception.FinalStatesNotStatesSubsetException:1
+#: of
+msgid "Výjimka pro neplatnou množinu koncových stavů."
+msgstr ""
+
+#: es_tools.custom_exceptions.final_states_not_states_subset_exception.FinalStatesNotStatesSubsetException:3
+#: of
+msgid ""
+"Tato třída reprezentuje zadání neplatné množiny koncových stavů "
+"převodníku, přičemž tato množina není podmnožinou množiny všech stavů "
+"převodníku. Jako výjimka je odvozena od třídy Exception."
+msgstr ""
+
+#: es_tools.custom_exceptions.final_states_not_states_subset_exception.FinalStatesNotStatesSubsetException:6
+#: of
+msgid "**Konstruktor třídy FinalStatesNotStatesSubsetException**"
+msgstr ""
+
+#: ../../es_tools.custom_exceptions.rst:33
+msgid ""
+"illegal\\_symbol\\_occurrence\\_exception "
+"module"
+msgstr "modul illegal\\_symbol\\_occurrence\\_exception "
+
+#: es_tools.custom_exceptions.illegal_symbol_occurrence_exception:1
+#: es_tools.custom_exceptions.illegal_symbol_occurrence_exception.IllegalSymbolOccurrenceException:1
+#: of
+msgid "Výjimka pro zadání nepovoleného symbolu."
+msgstr ""
+
+#: es_tools.custom_exceptions.illegal_symbol_occurrence_exception:5 of
+msgid ""
+"Tento soubor obsahuje výjimku sloužící pro reprezentaci, že zadaný symbol"
+" není povolen."
+msgstr ""
+
+#: es_tools.custom_exceptions.illegal_symbol_occurrence_exception:9 of
+msgid "illegal_symbol_occurrence_exception.py"
+msgstr ""
+
+#: es_tools.custom_exceptions.illegal_symbol_occurrence_exception.IllegalSymbolOccurrenceException:3
+#: of
+msgid ""
+"Tato třída reprezentuje zadání symbolu, který dle striktních pravidel "
+"není povolen. Jako výjimka je odvozena od třídy Exception."
+msgstr ""
+
+#: es_tools.custom_exceptions.illegal_symbol_occurrence_exception.IllegalSymbolOccurrenceException:6
+#: of
+msgid "**Konstruktor třídy IllegalSymbolOccurrenceException**"
+msgstr ""
+
+#: ../../es_tools.custom_exceptions.rst:41
+msgid ""
+"initial\\_state\\_not\\_in\\_states\\_exception"
+" module"
+msgstr "modul initial\\_state\\_not\\_in\\_states\\_exception"
+
+#: es_tools.custom_exceptions.initial_state_not_in_states_exception:1
+#: es_tools.custom_exceptions.initial_state_not_in_states_exception.InitialStateNotInStatesException:1
+#: of
+msgid "Výjimka pro zadání neplatného počátečního stavu převodníku."
+msgstr ""
+
+#: es_tools.custom_exceptions.initial_state_not_in_states_exception:5 of
+msgid ""
+"Tento soubor obsahuje výjimku sloužící pro reprezentaci, že zadaný "
+"počáteční stav převodníku není platný."
+msgstr ""
+
+#: es_tools.custom_exceptions.initial_state_not_in_states_exception:9 of
+msgid "initial_state_not_in_states_exception.py"
+msgstr ""
+
+#: es_tools.custom_exceptions.initial_state_not_in_states_exception.InitialStateNotInStatesException:3
+#: of
+msgid ""
+"Tato třída reprezentuje zadání počátečního stavu, který nesplňuje tu "
+"podmínku, že náleží do množiny stavů převodníku. Jako výjimka je odvozena"
+" od třídy Exception."
+msgstr ""
+
+#: es_tools.custom_exceptions.initial_state_not_in_states_exception.InitialStateNotInStatesException:6
+#: of
+msgid "**Konstruktor třídy InitialStateNotInStatesException**"
+msgstr ""
+
+#: ../../es_tools.custom_exceptions.rst:49
+msgid "internal\\_error\\_exception module"
+msgstr "modul internal\\_error\\_exception"
+
+#: es_tools.custom_exceptions.internal_error_exception:1
+#: es_tools.custom_exceptions.internal_error_exception.InternalErrorException:1
+#: of
+msgid "Výjimka pro reprezentaci interní chyby."
+msgstr ""
+
+#: es_tools.custom_exceptions.internal_error_exception:5 of
+msgid ""
+"Tento soubor obsahuje výjimku sloužící pro reprezentaci, že během běhu "
+"aplikace se vyskytla neočekávaná interní chyba."
+msgstr ""
+
+#: es_tools.custom_exceptions.internal_error_exception:9 of
+msgid "internal_error_exception.py"
+msgstr ""
+
+#: es_tools.custom_exceptions.internal_error_exception.InternalErrorException:3
+#: of
+msgid ""
+"Tato třída reprezentuje situaci, kdy nastane interní chyba, přičemž není "
+"možné další vykonávání programu. Jako výjimka je odvozena od třídy "
+"Exception."
+msgstr ""
+
+#: es_tools.custom_exceptions.internal_error_exception.InternalErrorException:6
+#: of
+msgid "**Konstruktor třídy InternalErrorException**"
+msgstr ""
+
+#: ../../es_tools.custom_exceptions.rst:57
+msgid "invalid\\_argument\\_exception module"
+msgstr "modul invalid\\_argument\\_exception"
+
+#: es_tools.custom_exceptions.invalid_argument_exception:1
+#: es_tools.custom_exceptions.invalid_argument_exception.InvalidArgumentException:1
+#: of
+msgid "Výjimka pro zadání nesprávného argumentu."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_argument_exception:5 of
+msgid ""
+"Tento soubor obsahuje výjimku sloužící pro reprezentaci, že zadaný "
+"vstupní argument neexistuje."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_argument_exception:9 of
+msgid "invalid_argument_exception.py"
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_argument_exception.InvalidArgumentException:3
+#: of
+msgid ""
+"Tato třída reprezentuje zadání uživatelského argumentu, který pro daný "
+"nástroj neexistuje, a tudíž je neplatný. Jako výjimka je odvozena od "
+"třídy Exception."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_argument_exception.InvalidArgumentException:6
+#: of
+msgid "**Konstruktor třídy InvalidArgumentException**"
+msgstr ""
+
+#: ../../es_tools.custom_exceptions.rst:65
+msgid ""
+"invalid\\_example\\_number\\_exception "
+"module"
+msgstr "modul invalid\\_example\\_number\\_exception"
+
+#: es_tools.custom_exceptions.invalid_example_number_exception:1
+#: es_tools.custom_exceptions.invalid_example_number_exception.InvalidExampleNumberException:1
+#: of
+msgid "Výjimka pro zadání nesprávného čísla ukázkového příkladu."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_example_number_exception:5 of
+msgid ""
+"Tento soubor obsahuje výjimku sloužící pro reprezentaci, že zadaná číslo "
+"ukázkového příkladu není v příslušném rozsahu."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_example_number_exception:9 of
+msgid "invalid_example_number_exception.py"
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_example_number_exception.InvalidExampleNumberException:3
+#: of
+msgid ""
+"Tato třída reprezentuje zadání čísla ukázkového příkladu mimo příslušný "
+"rozsah. Jako výjimka je odvozena od třídy Exception."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_example_number_exception.InvalidExampleNumberException:6
+#: of
+msgid "**Konstruktor třídy InvalidExampleNumberException**"
+msgstr ""
+
+#: ../../es_tools.custom_exceptions.rst:73
+msgid ""
+"invalid\\_input\\_data\\_structure\\_exception"
+" module"
+msgstr "modul invalid\\_input\\_data\\_structure\\_exception"
+
+#: es_tools.custom_exceptions.invalid_input_data_structure_exception:1
+#: es_tools.custom_exceptions.invalid_input_data_structure_exception.InvalidInputDataStructure:1
+#: of
+msgid "Výjimka pro zadání neplatných vstupních dat ve vstupním souboru."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_input_data_structure_exception:5 of
+msgid ""
+"Tento soubor obsahuje výjimku sloužící pro reprezentaci, že data ve "
+"vstupním souboru nejsou platná."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_input_data_structure_exception:9 of
+msgid "invalid_input_data_structure_exception.py"
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_input_data_structure_exception.InvalidInputDataStructure:3
+#: of
+msgid ""
+"Tato třída reprezentuje zadání nesprávných vstupních dat. Jako výjimka je"
+" odvozena od třídy Exception."
+msgstr ""
+
+#: ../../es_tools.custom_exceptions.rst:81
+msgid ""
+"invalid\\_regular\\_language\\_pattern\\_exception"
+" module"
+msgstr "modul invalid\\_regular\\_language\\_pattern\\_exception"
+
+#: es_tools.custom_exceptions.invalid_regular_language_pattern_exception:1
+#: es_tools.custom_exceptions.invalid_regular_language_pattern_exception.InvalidRegularLanguagePatternException:1
+#: of
+msgid ""
+"Výjimka pro zadání neplatného regulárního jazyka nebo použití "
+"nepovolených vzorů v regulárním výrazu."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_regular_language_pattern_exception:9 of
+msgid "invalid_regular_language_exception.py"
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_regular_language_pattern_exception.InvalidRegularLanguagePatternException:3
+#: of
+msgid ""
+"Tato třída reprezentuje zadání nevalidního regulárního jazyka vůči "
+"stanoveným pravidlům. Jako výjimka je odvozena od třídy Exception."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_regular_language_pattern_exception.InvalidRegularLanguagePatternException:6
+#: of
+msgid "**Konstruktor třídy InvalidRegularLanguagePatternException**"
+msgstr ""
+
+#: ../../es_tools.custom_exceptions.rst:89
+msgid ""
+"invalid\\_searched\\_sequences\\_exception"
+" module"
+msgstr "modul invalid\\_searched\\_sequences\\_exception"
+
+#: es_tools.custom_exceptions.invalid_searched_sequences_exception:1
+#: es_tools.custom_exceptions.invalid_searched_sequences_exception.InvalidSearchedSequencesException:1
+#: of
+msgid ""
+"Výjimka pro zadání neplatné vyhledávané sekvence ve formě uživatelského "
+"argumentu."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_searched_sequences_exception:5 of
+msgid ""
+"Tento soubor obsahuje výjimku sloužící pro reprezentaci, že zadaná "
+"vyhledávaná sekvence ve formě vstupního argumentu není platná."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_searched_sequences_exception:10 of
+msgid "invalid_searched_sequences_exception.py"
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_searched_sequences_exception.InvalidSearchedSequencesException:3
+#: of
+msgid ""
+"Tato třída reprezentuje zadání neplatné vyhledávané sekvence. Jako "
+"výjimka je odvozena od třídy Exception."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_searched_sequences_exception.InvalidSearchedSequencesException:5
+#: of
+msgid "**Konstruktor třídy InvalidSearchedSequencesException**"
+msgstr ""
+
+#: ../../es_tools.custom_exceptions.rst:97
+msgid "invalid\\_transition\\_exception module"
+msgstr "modul invalid\\_transition\\_exception"
+
+#: es_tools.custom_exceptions.invalid_transition_exception:1
+#: es_tools.custom_exceptions.invalid_transition_exception.InvalidTransitionException:1
+#: of
+msgid "Výjimka pro zadání neplatného přechodu převodníku."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_transition_exception:5 of
+msgid ""
+"Tento soubor obsahuje výjimku sloužící pro reprezentaci, že zadané "
+"přechody převodníku nejsou platné."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_transition_exception:9 of
+msgid "invalid_transition_exception.py"
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_transition_exception.InvalidTransitionException:3
+#: of
+msgid ""
+"Tato třída reprezentuje zadání neplatných přechodů převodníku. Jako "
+"výjimka je odvozena od třídy Exception."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_transition_exception.InvalidTransitionException:5
+#: of
+msgid "**Konstruktor třídy InvalidTransitionException**"
+msgstr ""
+
+#: ../../es_tools.custom_exceptions.rst:105
+msgid "invalid\\_value\\_exception module"
+msgstr "modul invalid\\_value\\_exception"
+
+#: es_tools.custom_exceptions.invalid_value_exception:1
+#: es_tools.custom_exceptions.invalid_value_exception.InvalidValueException:1
+#: of
+msgid "Výjimka pro zadání neplatné hodnoty vstupního argumentu."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_value_exception:5 of
+msgid ""
+"Tento soubor obsahuje výjimku sloužící pro reprezentaci, že zadaná "
+"hodnota vstupního argumentu není platná."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_value_exception:9 of
+msgid "invalid_value_exception.py"
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_value_exception.InvalidValueException:3
+#: of
+msgid ""
+"Tato třída reprezentuje zadání neplatné hodnoty vstupního argumentu. Jako"
+" výjimka je odvozena od třídy Exception."
+msgstr ""
+
+#: es_tools.custom_exceptions.invalid_value_exception.InvalidValueException:5
+#: of
+msgid "**Konstruktor třídy InvalidValueException**"
+msgstr ""
+
+#: ../../es_tools.custom_exceptions.rst:113
+msgid ""
+"maximum\\_input\\_string\\_length\\_exceeded\\_exception"
+" module"
+msgstr "modul maximum\\_input\\_string\\_length\\_exceeded\\_exception"
+
+#: es_tools.custom_exceptions.maximum_input_string_length_exceeded_exception:1
+#: es_tools.custom_exceptions.maximum_input_string_length_exceeded_exception.MaximumInputStringLengthExceededException:1
+#: of
+msgid "Výjimka pro překročení maximální povolené délky vstupního řetězce."
+msgstr ""
+
+#: es_tools.custom_exceptions.maximum_input_string_length_exceeded_exception:5
+#: of
+msgid ""
+"Tento soubor obsahuje výjimku sloužící pro reprezentaci, že byla "
+"překročena maximální povolená délka vstupního řetězce."
+msgstr ""
+
+#: es_tools.custom_exceptions.maximum_input_string_length_exceeded_exception:9
+#: of
+msgid "maximum_input_string_length_exceeded_exception.py"
+msgstr ""
+
+#: es_tools.custom_exceptions.maximum_input_string_length_exceeded_exception.MaximumInputStringLengthExceededException:3
+#: of
+msgid ""
+"Tato třída reprezentuje zadání vstupního řetězce, který překračuje "
+"maximální povolenou délku vstupního řetězce. Jako výjimka je odvozena od "
+"třídy Exception."
+msgstr ""
+
+#: es_tools.custom_exceptions.maximum_input_string_length_exceeded_exception.MaximumInputStringLengthExceededException:6
+#: of
+msgid "**Konstruktor třídy MaximumInputStringLengthExceededException**"
+msgstr ""
+
+#: ../../es_tools.custom_exceptions.rst:121
+msgid ""
+"required\\_argument\\_not\\_provided\\_exception"
+" module"
+msgstr "modul required\\_argument\\_not\\_provided\\_exception"
+
+#: es_tools.custom_exceptions.required_argument_not_provided_exception:1
+#: es_tools.custom_exceptions.required_argument_not_provided_exception.RequiredArgumentNotProvidedException:1
+#: of
+msgid "Výjimka pro nezadání požadovaného argumentu."
+msgstr ""
+
+#: es_tools.custom_exceptions.required_argument_not_provided_exception:5 of
+msgid ""
+"Tento soubor obsahuje výjimku sloužící pro reprezentaci, že požadovaný "
+"vstupní uživatelský argument nebyl zadán."
+msgstr ""
+
+#: es_tools.custom_exceptions.required_argument_not_provided_exception:9 of
+msgid "required_argument_not_provided_exception.py"
+msgstr ""
+
+#: es_tools.custom_exceptions.required_argument_not_provided_exception.RequiredArgumentNotProvidedException:3
+#: of
+msgid ""
+"Tato třída reprezentuje situaci, kdy nebyl zadán požadovaný vstupní "
+"uživatelnský argument.  Jako výjimka je odvozena od třídy Exception."
+msgstr ""
+
+#: es_tools.custom_exceptions.required_argument_not_provided_exception.RequiredArgumentNotProvidedException:7
+#: of
+msgid "**Konstruktor třídy RequiredArgumentNotProvidedException**"
+msgstr ""
+
+#: ../../es_tools.custom_exceptions.rst:129
+msgid ""
+"unexpected\\_input\\_data\\_type\\_exception"
+" module"
+msgstr "modul unexpected\\_input\\_data\\_type\\_exception"
+
+#: es_tools.custom_exceptions.unexpected_input_data_type_exception:1
+#: es_tools.custom_exceptions.unexpected_input_data_type_exception.UnexpectedInputDataTypeException:1
+#: of
+msgid "Výjimka pro neočekávaný typ vstupních dat."
+msgstr ""
+
+#: es_tools.custom_exceptions.unexpected_input_data_type_exception:5 of
+msgid ""
+"Tento soubor obsahuje výjimku sloužící pro reprezentaci, že byl zadán "
+"neočekávaný či nekompatibilní typ vstupních dat."
+msgstr ""
+
+#: es_tools.custom_exceptions.unexpected_input_data_type_exception:9 of
+msgid "unexpected_input_data_type_exception.py"
+msgstr ""
+
+#: es_tools.custom_exceptions.unexpected_input_data_type_exception.UnexpectedInputDataTypeException:3
+#: of
+msgid ""
+"Tato třída reprezentuje zadání neočekávaného či nekompatibilního typu "
+"vstupních dat. Jako výjimka je odvozena od třídy Exception."
+msgstr ""
+
+#: es_tools.custom_exceptions.unexpected_input_data_type_exception.UnexpectedInputDataTypeException:6
+#: of
+msgid "**Konstruktor třídy UnexpectedInputDataTypeException**"
+msgstr ""
+
+#: ../../es_tools.custom_exceptions.rst:137
+msgid ""
+"unknown\\_platform\\_system\\_exception "
+"module"
+msgstr "modul unknown\\_platform\\_system\\_exception "
+
+#: es_tools.custom_exceptions.unknown_platform_system_exception:1
+#: es_tools.custom_exceptions.unknown_platform_system_exception.UnknownPlatformSystemException:1
+#: of
+msgid "Výjimka pro neznámý operační systém."
+msgstr ""
+
+#: es_tools.custom_exceptions.unknown_platform_system_exception:5 of
+msgid ""
+"Tento soubor obsahuje výjimku sloužící pro reprezentaci, že operační "
+"systém není rozpoznán."
+msgstr ""
+
+#: es_tools.custom_exceptions.unknown_platform_system_exception:9 of
+msgid "unknown_platform_system_exception.py"
+msgstr ""
+
+#: es_tools.custom_exceptions.unknown_platform_system_exception.UnknownPlatformSystemException:3
+#: of
+msgid ""
+"Tato třída reprezentuje výjimku pro neznámý operační systém. Jako výjimka"
+" je odvozena od třídy Exception."
+msgstr ""
+
+#: es_tools.custom_exceptions.unknown_platform_system_exception.UnknownPlatformSystemException:5
+#: of
+msgid "**Konstruktor třídy UnknownPlatformSystemException**"
+msgstr ""
+
+#: ../../es_tools.custom_exceptions.rst:145
+msgid "Module contents"
+msgstr "Obsah modulu"
+

@@ -1,0 +1,463 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, David Chocholatý
+# This file is distributed under the same license as the es-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: es-tools \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-01 21:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../es_tools.shared_utils.rst:2
+msgid "shared\\_utils package"
+msgstr "balíček shared\\_utils"
+
+#: ../../es_tools.shared_utils.rst:3
+msgid ""
+"Balíček obsahující nástroje sdílené mezi jednotlivými implementovanými "
+"nástroji reprezentujícími aplikace nového formálního systému."
+msgstr ""
+
+#: ../../es_tools.shared_utils.rst:6
+msgid "Submodules"
+msgstr "Dílčí moduly"
+
+#: ../../es_tools.shared_utils.rst:9
+msgid "amino\\_acids\\_list module"
+msgstr "modul amino\\_acids\\_list"
+
+#: es_tools.shared_utils.amino_acids_list:1 of
+msgid "Seznam aminokyselin."
+msgstr ""
+
+#: es_tools.shared_utils.amino_acids_list:3
+#: es_tools.shared_utils.greek_alphabet:3
+#: es_tools.shared_utils.input_data_check:3
+#: es_tools.shared_utils.nucleotides_list:3
+#: es_tools.shared_utils.rna_secondary_structure_alphabet:3
+#: es_tools.shared_utils.rna_secondary_structure_unpaired_symbol:3
+#: es_tools.shared_utils.shared_constants:3
+#: es_tools.shared_utils.transducer_creation_sequences_labelling:3 of
+msgid ""
+"Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, "
+"Brno 2023."
+msgstr ""
+
+#: es_tools.shared_utils.amino_acids_list:5 of
+msgid ""
+"Tento soubor obsahuje seznam všech uvažovaných aminokyselin kódujících "
+"proteiny."
+msgstr ""
+
+#: es_tools.shared_utils.amino_acids_list es_tools.shared_utils.greek_alphabet
+#: es_tools.shared_utils.input_data_check
+#: es_tools.shared_utils.nucleotides_list
+#: es_tools.shared_utils.rna_secondary_structure_alphabet
+#: es_tools.shared_utils.rna_secondary_structure_unpaired_symbol
+#: es_tools.shared_utils.shared_constants
+#: es_tools.shared_utils.transducer_creation_sequences_labelling of
+msgid "Author"
+msgstr "Autor"
+
+#: es_tools.shared_utils.amino_acids_list:7
+#: es_tools.shared_utils.greek_alphabet:7
+#: es_tools.shared_utils.input_data_check:8
+#: es_tools.shared_utils.nucleotides_list:7
+#: es_tools.shared_utils.rna_secondary_structure_alphabet:11
+#: es_tools.shared_utils.rna_secondary_structure_unpaired_symbol:7
+#: es_tools.shared_utils.shared_constants:7
+#: es_tools.shared_utils.transducer_creation_sequences_labelling:8 of
+msgid "David Chocholatý"
+msgstr ""
+
+#: es_tools.shared_utils.amino_acids_list es_tools.shared_utils.greek_alphabet
+#: es_tools.shared_utils.input_data_check
+#: es_tools.shared_utils.nucleotides_list
+#: es_tools.shared_utils.rna_secondary_structure_alphabet
+#: es_tools.shared_utils.rna_secondary_structure_unpaired_symbol
+#: es_tools.shared_utils.shared_constants
+#: es_tools.shared_utils.transducer_creation_sequences_labelling of
+msgid "Contact"
+msgstr "Kontakt"
+
+#: es_tools.shared_utils.amino_acids_list:8
+#: es_tools.shared_utils.greek_alphabet:8
+#: es_tools.shared_utils.input_data_check:9
+#: es_tools.shared_utils.nucleotides_list:8
+#: es_tools.shared_utils.rna_secondary_structure_alphabet:12
+#: es_tools.shared_utils.rna_secondary_structure_unpaired_symbol:8
+#: es_tools.shared_utils.shared_constants:8
+#: es_tools.shared_utils.transducer_creation_sequences_labelling:9 of
+msgid "xchoch09@stud.fit.vutbr.cz"
+msgstr ""
+
+#: es_tools.shared_utils.amino_acids_list es_tools.shared_utils.greek_alphabet
+#: es_tools.shared_utils.input_data_check
+#: es_tools.shared_utils.nucleotides_list
+#: es_tools.shared_utils.rna_secondary_structure_alphabet
+#: es_tools.shared_utils.rna_secondary_structure_unpaired_symbol
+#: es_tools.shared_utils.shared_constants
+#: es_tools.shared_utils.transducer_creation_sequences_labelling of
+msgid "Filename"
+msgstr "Soubor"
+
+#: es_tools.shared_utils.amino_acids_list:9 of
+msgid "amino_acids_list.py"
+msgstr ""
+
+#: ../../es_tools.shared_utils.rst:17
+msgid "greek\\_alphabet module"
+msgstr "modul greek\\_alphabet"
+
+#: es_tools.shared_utils.greek_alphabet:1 of
+msgid "Seznam symbolů řecké abecedy."
+msgstr ""
+
+#: es_tools.shared_utils.greek_alphabet:5 of
+msgid ""
+"Tento soubor obsahuje seznam všech symbolů (malých a velkých znaků) řecké"
+" abecedy."
+msgstr ""
+
+#: es_tools.shared_utils.greek_alphabet:9 of
+msgid "greek_alphabet.py"
+msgstr ""
+
+#: ../../es_tools.shared_utils.rst:25
+msgid "input\\_data\\_check module"
+msgstr "modul input\\_data\\_check"
+
+#: es_tools.shared_utils.input_data_check:1 of
+msgid "Utility pro kontrolu vstupních dat."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check:5 of
+msgid ""
+"Tento soubor obsahuje utility pro kontrolu vstupních dat, a to především "
+"sekvencí z oblasti molekulární biologie, jako je DNA sekvence, RNA "
+"sekvence, sekundární struktura RNA či sekvence aminokyselin."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check:10 of
+msgid "input_data_check.py"
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_amino_acids_sequence:1 of
+msgid "Funkce pro ověření, zda vstupní řetězec je sekvence aminokyselin."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_amino_acids_sequence:3 of
+msgid ""
+"Tato funkce slouží pro ověření, zda poskytnutý řetězec se skládá pouze z "
+"definovaných aminokyselin."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_amino_acids_sequence
+#: es_tools.shared_utils.input_data_check.is_dna_double_stranded_sequence
+#: es_tools.shared_utils.input_data_check.is_dna_sequence
+#: es_tools.shared_utils.input_data_check.is_rna_secondary_structure_sequence
+#: es_tools.shared_utils.input_data_check.is_rna_secondary_structure_subsequence
+#: es_tools.shared_utils.input_data_check.is_rna_sequence
+#: es_tools.shared_utils.transducer_creation_sequences_labelling.create_transducer_subsequences_labelling
+#: of
+msgid "Parametry"
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_amino_acids_sequence:5 of
+msgid "vstupní řetězec pro ověření, zda se jedná o sekvenci aminokyselin."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_amino_acids_sequence
+#: es_tools.shared_utils.input_data_check.is_dna_double_stranded_sequence
+#: es_tools.shared_utils.input_data_check.is_dna_sequence
+#: es_tools.shared_utils.input_data_check.is_rna_secondary_structure_sequence
+#: es_tools.shared_utils.input_data_check.is_rna_secondary_structure_subsequence
+#: es_tools.shared_utils.input_data_check.is_rna_sequence
+#: es_tools.shared_utils.transducer_creation_sequences_labelling.create_transducer_subsequences_labelling
+#: of
+msgid "Vrací"
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_amino_acids_sequence:7 of
+msgid "True, pokud vstupní řetězec je sekvence aminokyselin, jinak False."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_amino_acids_sequence
+#: es_tools.shared_utils.input_data_check.is_dna_double_stranded_sequence
+#: es_tools.shared_utils.input_data_check.is_dna_sequence
+#: es_tools.shared_utils.input_data_check.is_rna_secondary_structure_sequence
+#: es_tools.shared_utils.input_data_check.is_rna_secondary_structure_subsequence
+#: es_tools.shared_utils.input_data_check.is_rna_sequence
+#: es_tools.shared_utils.transducer_creation_sequences_labelling.create_transducer_subsequences_labelling
+#: of
+msgid "Typ návratové hodnoty"
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_dna_double_stranded_sequence:1 of
+msgid "Funkce pro ověření, zda řetězce jsou komplementární vlákna DNA."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_dna_double_stranded_sequence:3 of
+msgid ""
+"Tato funkce slouží pro ověření, zda dva poskytnuté řetězce reprezentují "
+"dvě komplementární vlákna DNA (přičemž jedno je takzvaně antiparalerní k "
+"druhému). Nejprve probíhá kontrola jejich délky, poté se kontroluje, zda "
+"se skládájí pouze z deoxyribonukleotidů zároveň s probáhající kontrolou "
+"jejich vzájemné komplementarity."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_dna_double_stranded_sequence:7 of
+msgid "řetězec reprezentující vlákno DNA ve směru 5'->3'."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_dna_double_stranded_sequence:9 of
+msgid "řetězec reprezentující vlákno DNA ve směru 3'->5'."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_dna_double_stranded_sequence:11 of
+msgid ""
+"True, pokud vstupní řetězce jsou dvě komplementární vlákna jedné DNA, "
+"jinak False."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_dna_sequence:1 of
+msgid "Funkce pro ověření, zda vstupní řetězec je DNA vlákno"
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_dna_sequence:3 of
+msgid ""
+"Tato funkce slouží pro ověření, zda poskytnutý vstupní řetězec je DNA "
+"vlákno, přičemž se kontroluje pouze, jestli se zkládá pouze z "
+"deoxyribonukleotidů."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_dna_sequence:6 of
+msgid ""
+"vstupní řetězec pro ověření, zda se jedná o jedno z dvou vláken DNA (může"
+" se skládat pouze z deoxyribonukleotidů)."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_dna_sequence:9 of
+msgid "True, pokud vstupní řetězec vlákno DNA, jinak False."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_rna_secondary_structure_sequence:1
+#: of
+msgid "Funkce pro ověření, zda vstupní řetězec je sekundární struktura RNA."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_rna_secondary_structure_sequence:3
+#: of
+msgid ""
+"Tato funkce slouží pro ověření, zda vstupní řetězec je sekundární "
+"struktura RNA, přičemž se může skládat pouze ze symbolů pro závorky, "
+"znaků anglické abecedy či akceptovaných symbolů pro nepárové nukleotidy. "
+"Zároveň probíhá kontrola správného párování jednotlivých nukleotidů v tom"
+" ohledu, že se kontroluje, zda se řetězec v případě párových nukleotidů "
+"skládá pouze z komplementárních dvojic."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_rna_secondary_structure_sequence:8
+#: of
+msgid "vstupní řetězec pro ověření, zda se jedná o sekundární strukturu RNA."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_rna_secondary_structure_sequence:10
+#: of
+msgid "True, pokud vstupní řetězec je sekundární struktura RNA, jinak False."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_rna_secondary_structure_subsequence:1
+#: of
+msgid ""
+"Funkce pro ověření, zda vstupní řetězec je podsekvence sekundární "
+"struktury RNA."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_rna_secondary_structure_subsequence:3
+#: of
+msgid ""
+"Tato funkce slouží pro ověření, zda poskytnutý řetězec reprezentuje "
+"podsekvenci sekundární struktury RNA, přičemž se kontrolují pouze symboly"
+" dle definované abecedy a zda řetězec obsahuje pouze jeden akceptovaný "
+"symbol pro nepárové nukleotidy. Narozdíl od funkce "
+"is_rna_secondary_structure_sequence() pro podsekvenci není prováděna "
+"kontrola vzájemného párování párových nukleotidů."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_rna_secondary_structure_subsequence:8
+#: of
+msgid ""
+"vstupní řetězec pro ověření, zda se jedná o podsekvenci sekundární "
+"struktury RNA."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_rna_secondary_structure_subsequence:10
+#: of
+msgid ""
+"True, pokud vstupní řetězec je podsekvence sekundární struktury RNA, "
+"jinak False."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_rna_sequence:1 of
+msgid "Funkce pro ověření, zda vstupní řetězec je RNA sekvence."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_rna_sequence:3 of
+msgid ""
+"Funkce slouží pro ověření, zda vstupní řetězec je sekvence RNA, přičemž "
+"se může skládat pouze z ribonukleotidů."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_rna_sequence:5 of
+msgid "vstupní řetězec pro ověření, zda se jedná o RNA sekvenci."
+msgstr ""
+
+#: es_tools.shared_utils.input_data_check.is_rna_sequence:7 of
+msgid "True, pokud vstupní řetězec je RNA sekvence, jinak False."
+msgstr ""
+
+#: ../../es_tools.shared_utils.rst:33
+msgid "nucleotides\\_list module"
+msgstr "modul nucleotides\\_list"
+
+#: es_tools.shared_utils.nucleotides_list:1 of
+msgid "Seznam nukleotidů."
+msgstr ""
+
+#: es_tools.shared_utils.nucleotides_list:5 of
+msgid ""
+"Tento soubor obsahuje seznam všech nukleotidů, jak pro DNA "
+"(deoxyribonukleotidy), tak i pro RNA (ribonukleotidy)."
+msgstr ""
+
+#: es_tools.shared_utils.nucleotides_list:9 of
+msgid "nucleotides_list.py"
+msgstr ""
+
+#: ../../es_tools.shared_utils.rst:41
+msgid "rna\\_secondary\\_structure\\_alphabet module"
+msgstr "modul rna\\_secondary\\_structure\\_alphabet"
+
+#: es_tools.shared_utils.rna_secondary_structure_alphabet:1 of
+msgid "Seznam symbolů pro sekundární strukturu RNA."
+msgstr ""
+
+#: es_tools.shared_utils.rna_secondary_structure_alphabet:5 of
+msgid ""
+"Tento soubor obsahuje seznam všech využitích abeced pro sekundární "
+"strukturu RNA. Jedná se nejprve o základní abecedu obsahující symboly pro"
+" závorky. Dále o abecedu, která již obsahuje převedené symboly pro "
+"závorky (a nepárové nukleotidy) na znaky řecké abecedy za účelem "
+"minimalizace omezení vymazávacího systému v rámci povolených znaků pro "
+"vymazávací řetězce a regulární jazyky. V poslední řadě tento soubor "
+"obsahuje jednotlivé vztahy převodů symbolů závorek (a nepárových "
+"nukleotidů) na znaky řecké abecedy."
+msgstr ""
+
+#: es_tools.shared_utils.rna_secondary_structure_alphabet:13 of
+msgid "rna_secondary_structure_alphabet.py"
+msgstr ""
+
+#: ../../es_tools.shared_utils.rst:49
+msgid ""
+"rna\\_secondary\\_structure\\_unpaired\\_symbol"
+" module"
+msgstr "rna\\_secondary\\_structure\\_unpaired\\_symbol modul"
+
+#: es_tools.shared_utils.rna_secondary_structure_unpaired_symbol:1 of
+msgid "Seznam symbolů pro nepárové nukleotidy."
+msgstr ""
+
+#: es_tools.shared_utils.rna_secondary_structure_unpaired_symbol:5 of
+msgid ""
+"Tento soubor obsahuje seznam všech akceptovaných symbolů pro nepárové "
+"nukleotidy v rámci sekundární struktury RNA."
+msgstr ""
+
+#: es_tools.shared_utils.rna_secondary_structure_unpaired_symbol:9 of
+msgid "rna_secondary_structure_unpaired_symbol.py"
+msgstr ""
+
+#: ../../es_tools.shared_utils.rst:57
+msgid "shared\\_constants module"
+msgstr "modul shared\\_constants"
+
+#: es_tools.shared_utils.shared_constants:1 of
+msgid "Seznam sdílených konstant."
+msgstr ""
+
+#: es_tools.shared_utils.shared_constants:5 of
+msgid ""
+"Tento soubor obsahuje seznam všech sdílených konstant v rámci "
+"implementovaných nástrojů."
+msgstr ""
+
+#: es_tools.shared_utils.shared_constants:9 of
+msgid "shared_constants.py"
+msgstr ""
+
+#: ../../es_tools.shared_utils.rst:65
+msgid ""
+"transducer\\_creation\\_sequences\\_labelling "
+"module"
+msgstr "modul transducer\\_creation\\_sequences\\_labelling"
+
+#: es_tools.shared_utils.transducer_creation_sequences_labelling:1 of
+msgid "Vytvoření převodníku pro označování podsekvencí."
+msgstr ""
+
+#: es_tools.shared_utils.transducer_creation_sequences_labelling:5 of
+msgid ""
+"Tento soubor obsahuje sdílenou funkci zajišťující vytvoření převodníku "
+"pro označování podsekvencí vstupní sekvence. Tuto funkci využívá nástroj "
+"sequences_search_tool a nástroj amino_acid_sequence_search_tool."
+msgstr ""
+
+#: es_tools.shared_utils.transducer_creation_sequences_labelling:10 of
+msgid "transducer_creation_sequences_labelling.py"
+msgstr ""
+
+#: es_tools.shared_utils.transducer_creation_sequences_labelling.create_transducer_subsequences_labelling:1
+#: of
+msgid "Převodník pro označení a převedení podsekvencí."
+msgstr ""
+
+#: es_tools.shared_utils.transducer_creation_sequences_labelling.create_transducer_subsequences_labelling:3
+#: of
+msgid ""
+"Tato funkce slouží pro vytvoření převodníku pro označení zadaných "
+"podsekvencí a převedení všech možných jednotlivých vstupních symbolů na "
+"prázdný řetězec (epsilon)."
+msgstr ""
+
+#: es_tools.shared_utils.transducer_creation_sequences_labelling.create_transducer_subsequences_labelling:6
+#: of
+msgid "veškeré možné vstupní symboly (abeceda)."
+msgstr ""
+
+#: es_tools.shared_utils.transducer_creation_sequences_labelling.create_transducer_subsequences_labelling:8
+#: of
+msgid "seznam podsekvencí, které mají být s označením zapsány na výstupní pásku."
+msgstr ""
+
+#: es_tools.shared_utils.transducer_creation_sequences_labelling.create_transducer_subsequences_labelling:10
+#: of
+msgid "vytvořený konečný převodník pro označení zadaných podsekvencí."
+msgstr ""
+
+#: ../../es_tools.shared_utils.rst:73
+msgid "Module contents"
+msgstr "Obsah modulu"
+

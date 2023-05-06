@@ -1,0 +1,175 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, David Chocholatý
+# This file is distributed under the same license as the es-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: es-tools \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-01 21:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../es_tools.error_utils.rst:2
+msgid "error\\_utils package"
+msgstr "balíček error\\_utils"
+
+#: ../../es_tools.error_utils.rst:3
+msgid ""
+"Balíček obsahuje nástroje pro zpracování chybových stavů, přičemž "
+"zahrnuje pouze výčet chybových návratových kódů pro nástroje a skripty "
+"spouštějící ukázkové příklady."
+msgstr ""
+
+#: ../../es_tools.error_utils.rst:6
+msgid "Submodules"
+msgstr "Dílčí moduly"
+
+#: ../../es_tools.error_utils.rst:9
+msgid "exit\\_code module"
+msgstr "modul exit\\_code"
+
+#: es_tools.error_utils.exit_code:1 of
+msgid "Chybové návratové kódy."
+msgstr ""
+
+#: es_tools.error_utils.exit_code:3 of
+msgid ""
+"Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, "
+"Brno 2023."
+msgstr ""
+
+#: es_tools.error_utils.exit_code:5 of
+msgid ""
+"Tento soubor obsahuje chybové návratové kódy společné i specifické pro "
+"jednotlivé nástroje a pro skripty spouštějící ukázkové příklady."
+msgstr ""
+
+#: es_tools.error_utils.exit_code of
+msgid "Author"
+msgstr "Autor"
+
+#: es_tools.error_utils.exit_code:8 of
+msgid "David Chocholatý"
+msgstr ""
+
+#: es_tools.error_utils.exit_code of
+msgid "Contact"
+msgstr "Kontakt"
+
+#: es_tools.error_utils.exit_code:9 of
+msgid "xchoch09@stud.fit.vutbr.cz"
+msgstr ""
+
+#: es_tools.error_utils.exit_code of
+msgid "Filename"
+msgstr "Soubor"
+
+#: es_tools.error_utils.exit_code:10 of
+msgid "exit_code.py"
+msgstr ""
+
+#: es_tools.error_utils.exit_code.ExitCode:1 of
+msgid "Bases: :py:class:`~enum.Enum`"
+msgstr "Základ: :py:class:`~enum.Enum`"
+
+#: es_tools.error_utils.exit_code.ExitCode:1 of
+msgid "Výčet chybových kódů."
+msgstr ""
+
+#: es_tools.error_utils.exit_code.ExitCode:3 of
+msgid ""
+"Tato třída obsahuje výčet všech použitých chybových stavů, přičemž je "
+"zděděna od rodičovské třídy Enum."
+msgstr ""
+
+#: ../../docstring es_tools.error_utils.exit_code.ExitCode.FILE_NOT_FOUND:1 of
+msgid "Zadaný vstupní soubor nebyl nalezen."
+msgstr ""
+
+#: ../../docstring
+#: es_tools.error_utils.exit_code.ExitCode.FINAL_STATES_NOT_STATES_SUBSET:1 of
+msgid "Množina koncových stavů není podmnožinou množiny všech stavů."
+msgstr ""
+
+#: ../../docstring
+#: es_tools.error_utils.exit_code.ExitCode.INITIAL_STATE_NOT_IN_STATES:1 of
+msgid "Počáteční stav převodníku nenáleží do množiny všech stavů."
+msgstr ""
+
+#: ../../docstring es_tools.error_utils.exit_code.ExitCode.INTERNAL_ERROR:1 of
+msgid "Neočekávaná vnitřní chyba programu."
+msgstr ""
+
+#: ../../docstring
+#: es_tools.error_utils.exit_code.ExitCode.INVALID_ARGUMENT_VALUE:1 of
+msgid "Hodnota argumentu není validní."
+msgstr ""
+
+#: ../../docstring
+#: es_tools.error_utils.exit_code.ExitCode.INVALID_ERASING_STRING:1 of
+msgid "Zadání vymazávacího řetězce obsahujícího zakázaný symbol."
+msgstr ""
+
+#: ../../docstring
+#: es_tools.error_utils.exit_code.ExitCode.INVALID_EXAMPLE_NUMBER:1 of
+msgid "Zadané číslo ukázkového příkladu pro příslušný nástroj neexistuje."
+msgstr ""
+
+#: ../../docstring
+#: es_tools.error_utils.exit_code.ExitCode.INVALID_INPUT_DATA_STRUCTURE:1 of
+msgid "Struktura dat ve vstupním souboru není validní."
+msgstr ""
+
+#: ../../docstring
+#: es_tools.error_utils.exit_code.ExitCode.INVALID_INPUT_DATA_TYPE:1 of
+msgid "Typ vstupních dat není validní."
+msgstr ""
+
+#: ../../docstring
+#: es_tools.error_utils.exit_code.ExitCode.INVALID_REGULAR_LANGUAGE:1 of
+msgid ""
+"Zadání regulárního jazyka vymazávacího systému, jehož tvar není validní "
+"nebo povolený."
+msgstr ""
+
+#: ../../docstring es_tools.error_utils.exit_code.ExitCode.INVALID_TRANSITION:1
+#: of
+msgid "Zadání neplatného přechodu převodníku."
+msgstr ""
+
+#: ../../docstring
+#: es_tools.error_utils.exit_code.ExitCode.MAXIMUM_INPUT_STRING_LENGTH_EXCEEDED:1
+#: of
+msgid ""
+"Překročena maximální povolená délka vstupního řetězce pro zpracování "
+"vymazávacím systémem."
+msgstr ""
+
+#: ../../docstring
+#: es_tools.error_utils.exit_code.ExitCode.REQUIRED_ARGUMENT_NOT_PROVIDED:1 of
+msgid "Požadovaný argument nebyl zadán."
+msgstr ""
+
+#: ../../docstring
+#: es_tools.error_utils.exit_code.ExitCode.UNKNOWN_PLATFORM_SYSTEM:1 of
+msgid "Neznámý operační systém, na kterém je spuštěn ukázkový příklad."
+msgstr ""
+
+#: ../../docstring es_tools.error_utils.exit_code.ExitCode.WRONG_ARGUMENT:1 of
+msgid "Zadání neexistujícího argumentu."
+msgstr ""
+
+#: ../../es_tools.error_utils.rst:16
+msgid "Module contents"
+msgstr "Obsah modulu"
+

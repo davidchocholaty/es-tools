@@ -1,0 +1,260 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, David Chocholatý
+# This file is distributed under the same license as the es-tools package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: es-tools \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-01 21:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: cs\n"
+"Language-Team: cs <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../es_tools.tools.balanced_brackets_tool.custom_utils.rst:2
+msgid "custom\\_utils package"
+msgstr "balíček custom\\_utils"
+
+#: ../../es_tools.tools.balanced_brackets_tool.custom_utils.rst:5
+msgid "Submodules"
+msgstr "Dílčí moduly"
+
+#: ../../es_tools.tools.balanced_brackets_tool.custom_utils.rst:8
+msgid ""
+"brackets\\_list"
+" module"
+msgstr "modul brackets\\_list"
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.brackets_list:1 of
+msgid ""
+"Seznam všech možných symbolů pro závorky a jejich odpovádajících symbolů "
+"pro převod."
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.brackets_list:3
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_constants:3
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation:3
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_transducer_creation:3
+#: of
+msgid ""
+"Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, "
+"Brno 2023."
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.brackets_list:5 of
+msgid ""
+"Tento soubor obsahuje seznam všech možných symbolů závorek pro nástroj na"
+" ověření vyvážených závorek. Ke každému symbolu je přiložen odpovídající "
+"symbol. Ten je potřebný při převodu řetězce pro vymazávací systém za "
+"účelem odstranění nepovolených znaků ze vstupního řetězce."
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.brackets_list
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_constants
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_transducer_creation
+#: of
+msgid "Author"
+msgstr "Autor"
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.brackets_list:9
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_constants:5
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation:7
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_transducer_creation:8
+#: of
+msgid "David Chocholatý"
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.brackets_list
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_constants
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_transducer_creation
+#: of
+msgid "Contact"
+msgstr "Kontakt"
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.brackets_list:10
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_constants:6
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation:8
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_transducer_creation:9
+#: of
+msgid "xchoch09@stud.fit.vutbr.cz"
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.brackets_list
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_constants
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_transducer_creation
+#: of
+msgid "Filename"
+msgstr "Soubor"
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.brackets_list:11 of
+msgid "brackets_list.py"
+msgstr ""
+
+#: ../../es_tools.tools.balanced_brackets_tool.custom_utils.rst:16
+msgid ""
+"custom\\_constants"
+" module"
+msgstr "modul custom\\_constants"
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_constants:1 of
+msgid "Specifické konstanty nástroje pro ověření vyvážených závorek."
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_constants:7 of
+msgid "custom_constants.py"
+msgstr ""
+
+#: ../../es_tools.tools.balanced_brackets_tool.custom_utils.rst:24
+msgid ""
+"custom\\_erasing\\_system\\_creation"
+" module"
+msgstr "modul custom\\_erasing\\_system\\_creation"
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation:1
+#: of
+msgid "Vytvoření vymazávacího systému aplikovaného na ověření vyvážených závorek."
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation:5
+#: of
+msgid ""
+"Tento soubor obsahuje funkci pro vytvoření vymazávacího systému "
+"aplikovaného na ověření vyvážených závorek."
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation:9
+#: of
+msgid "custom_erasing_system_creation.py"
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation.create_erasing_system:1
+#: of
+msgid "Vytvoření vymazávacího systému pro ověření vyvážených závorek."
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation.create_erasing_system
+#: of
+msgid "Parametry"
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation.create_erasing_system:3
+#: of
+msgid "typ kvantifikátoru (True — chamtivý, False — líný)."
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation.create_erasing_system:5
+#: of
+msgid ""
+"určení, zda mají být vypisovány na standardní výstup při činnosti "
+"vymazávacího systému podrobné informace."
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation.create_erasing_system
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_transducer_creation.create_transducer
+#: of
+msgid "Vrací"
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation.create_erasing_system:8
+#: of
+msgid "vytvořený vymazávací systém dle zadaných parametrů."
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation.create_erasing_system
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_transducer_creation.create_transducer
+#: of
+msgid "Typ návratové hodnoty"
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation.create_erasing_system
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_transducer_creation.create_transducer
+#: of
+msgid "Vyvolá"
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation.create_erasing_system:10
+#: of
+msgid "výskyt nepovoleného symbolu ve vymazávacím řetězci."
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_erasing_system_creation.create_erasing_system:11
+#: of
+msgid "nevalidní nebo nepovolený tvar regulárního výrazu pro regulární jazyk."
+msgstr ""
+
+#: ../../es_tools.tools.balanced_brackets_tool.custom_utils.rst:32
+msgid ""
+"custom\\_transducer\\_creation"
+" module"
+msgstr "modul custom\\_transducer\\_creation"
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_transducer_creation:1
+#: of
+msgid ""
+"Vytvoření deterministického zobecněného sekvenčního stroje pro odstranění"
+" všech znaků vyjma symbolů pro závorky."
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_transducer_creation:5
+#: of
+msgid ""
+"Tento soubor obsahuje funkci pro vytvoření deterministického zobecněného "
+"sekvenčního stroje pro odstranění všech znaků vyjma symbolů pro závorky."
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_transducer_creation:10
+#: of
+msgid "custom_transducer_creation.py"
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_transducer_creation.create_transducer:1
+#: of
+msgid ""
+"Vytvoření deterministického zobecněného sekvenčního stroje pro nástroj na"
+" ověření vyvážených závorek."
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_transducer_creation.create_transducer:3
+#: of
+msgid ""
+"Tato funkce slouží pro vytvoření deterministického zobecněného "
+"sekvenčního stroje pro nástroj na ověření vyvážených závorek, přičemž "
+"jeho hlavním účelem je převedení vstupního řetězce na takový výstupní "
+"řetězec, který obsahují pouze symboly závorek."
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_transducer_creation.create_transducer:7
+#: of
+msgid "vytvořený deterministický zobecněný sekvenční stroj."
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_transducer_creation.create_transducer:9
+#: of
+msgid "neplatný přechod deterministického zobecněného sekvenčního stroje."
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_transducer_creation.create_transducer:10
+#: of
+msgid "počáteční stav nenáleží do množiny stavů."
+msgstr ""
+
+#: es_tools.tools.balanced_brackets_tool.custom_utils.custom_transducer_creation.create_transducer:11
+#: of
+msgid "množina koncových stavů není podmnožinou množiny stavů."
+msgstr ""
+
+#: ../../es_tools.tools.balanced_brackets_tool.custom_utils.rst:40
+msgid "Module contents"
+msgstr "Obsah modulu"
+
