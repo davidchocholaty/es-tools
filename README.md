@@ -98,4 +98,17 @@ V uvedeném příkladu je spuštěn test číslo *1* pro nástroj *n_queens_prob
 - [Testovací data pro nástroj SequenceSearchTool](es_tools/examples/sequence_search_tool/data/README.md)
 
 ## Dokumentace
+### Vygenerovaná dokumentace
 - [HTML dokumentace (cesta: es-tools/docs/_build/html/index.html)](docs/_build/html/index.html)
+
+### Popis vygenerování dokumentace
+Pro vygenerování dokumentace je zapotřebí mít nainstalované balíčky *sphinx* a *sphinx_rtd_theme*. To lze provést následujícím příkazem:
+
+```console
+pip3 install sphinx sphinx_rtd_theme
+```
+
+Dále je nutné při generování nacházet se ve složce *docs*, jejíž cesta od kořenové složky projektu je *es-tools/docs*. Poté lze provést vygenerování dokumentace následujícím příkazem:
+```console
+make html
+```
