@@ -1,6 +1,6 @@
 # Nástroj SequenceSearchTool
 
-Nástroj reprezentující aplikaci vymazávacího systému pro vyhledávání podsekvencí v DNA sekvenci, RNA sekvenci nebo sekundární struktuře RNA.
+Nástroj reprezentující aplikaci vymazávacího systému pro vyhledávání podsekvencí v DNA, RNA sekvenci nebo sekundární struktuře RNA.
 
 ### Použití:
 - Unix/macOS

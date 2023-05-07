@@ -53,7 +53,7 @@
   py es_tools/tools/amino_acid_sequence_search_tool/amino_acid_sequence_search_tool.py -i es_tools/examples/amino_acid_sequence_search_tool/data/4_amino_acid_sequence_rejected.txt -b DVDVT -n
   ```  
 #### Příklad 5
-- Popis: protein složený ze sekvence aminokyselin *MALGHR* a sekvence aminokyselin *DVDVLRET* se obojí nachází ve vstupní prokaryotické RNA sekvenci.
+- Popis: proteiny složené ze sekvence aminokyselin *MALGHR* a sekvence aminokyselin *DVDVLRET* se obojí nachází ve vstupní prokaryotické RNA sekvenci.
 - Soubor: 5_both_accepted.txt
 - Zdroj: https://rnacentral.org/rna/URS00019F225C/562
 - Příkaz pro spuštění nástroje:
@@ -66,7 +66,7 @@
   py es_tools/tools/amino_acid_sequence_search_tool/amino_acid_sequence_search_tool.py -i es_tools/examples/amino_acid_sequence_search_tool/data/5_both_accepted.txt -s MALGHR -b DVDVLRET -n
   ```
 #### Příklad 6
-- Popis: protein složený ze sekvence aminokyselin *MALGHRG* a sekvence aminokyselin *DVDVLRET* se obojí nenachází ve vstupní prokaryotické RNA sekvenci.
+- Popis: proteiny složené ze sekvence aminokyselin *MALGHRG* a sekvence aminokyselin *DVDVLRET* se obojí nenachází ve vstupní prokaryotické RNA sekvenci.
 - Soubor: 6_both_protein_rejected.txt
 - Zdroj: https://rnacentral.org/rna/URS00019DE172/562
 - Příkaz pro spuštění nástroje:

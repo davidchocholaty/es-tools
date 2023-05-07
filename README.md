@@ -63,7 +63,7 @@ Parametry -t (v dlouhé variantě --tool) a -n (v dlouhé variantě --number) js
 4. secondary_structure_properties_tool
 5. sequence_search_tool
 
-Číslo spouštěného testu nabývá hodnoty dle počtu testů pro daný nástroj, jenž lze nalézt v přiložené dokumentaci (většinou se pohybuje v rozsahu 1-10) viz sekce [Popis testovacích dat pro ukázkové příklady](test-data).
+Číslo spouštěného testu nabývá hodnoty dle počtu testů pro daný nástroj, jenž lze nalézt v přiložené dokumentaci (většinou se pohybuje v rozsahu 1-10) viz sekce [Popis testovacích dat pro ukázkové příklady](#test-data).
 
 Volitelně lze využít parametr -v (v dlouhé variantě --verbose), jenž slouží pro výpis aktuálního tvaru vstupní pásky, jednotlivých použitých vymazávacích řetězců a ověřovaného řetězce vzniklého konkatenací doposud aplikovaných vymazávacích řetězců.
 
