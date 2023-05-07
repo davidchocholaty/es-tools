@@ -11,15 +11,15 @@ nástroje reprezentující aplikace vymazávacího systému.
 """
 
 import sys
+import os
 
-from os import getcwd as cwd
-from sys import path as syspath
 from typing import Any
 
-current_working_directory = cwd()
+current_script_directory = os.path.dirname(__file__)
+project_root_directory = os.path.join(current_script_directory, '..', '..')
 
-if current_working_directory not in syspath:
-    syspath.append(current_working_directory)
+if project_root_directory not in sys.path:
+    sys.path.append(project_root_directory)
 
 from es_tools.custom_exceptions.internal_error_exception import InternalErrorException  # noqa: E402
 from es_tools.custom_exceptions.invalid_argument_exception import InvalidArgumentException  # noqa: E402
