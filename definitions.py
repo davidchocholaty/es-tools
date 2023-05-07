@@ -1,14 +1,13 @@
-"""Definice konstant projektu
-
-Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, Brno 2023.
-
-Tento soubor obsahuje definice konstant projektu, přičemž obsahuje jedinou konstantu, a to ROOT_DIRECTORY. Ta slouží
-především pro využití cesty ke kořenovému adresáři projektu.
-
-Autor: David Chocholatý
-Kontakt: xchoch09@stud.fit.vutbr.cz
-Soubor: definitions.py
-"""
+# Definice konstant projektu
+#
+# Projekt: Bakalářská práce Regulované jazykové operace a jejich užití, Brno 2023.
+#
+# Tento soubor obsahuje definice konstant projektu, přičemž obsahuje jedinou konstantu, a to ROOT_DIRECTORY. Ta slouží
+# především pro využití cesty ke kořenovému adresáři projektu.
+#
+# Autor: David Chocholatý
+# Kontakt: xchoch09@stud.fit.vutbr.cz
+# Soubor: definitions.py
 
 
 import os

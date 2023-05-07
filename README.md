@@ -102,7 +102,7 @@ V uvedeném příkladu je spuštěn test číslo *1* pro nástroj *n_queens_prob
 - [HTML dokumentace (cesta: es-tools/docs/_build/html/index.html)](docs/_build/html/index.html)
 
 ### Popis vygenerování dokumentace
-Pro vygenerování dokumentace je zapotřebí mít nainstalované balíčky *sphinx* a *sphinx_rtd_theme*. To lze provést následujícím příkazem:
+Možné pouze po nainstalování balíčku *es-tools*. Pro vygenerování dokumentace je zapotřebí mít nainstalované balíčky *sphinx* a *sphinx_rtd_theme*. To lze provést následujícím příkazem:
 
 ```console
 pip3 install sphinx sphinx_rtd_theme
