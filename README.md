@@ -1,4 +1,8 @@
 # es-tools
+Source code and documentation for the bachelor's thesis [Regulated Language Operations and Their Use](https://www.vut.cz/en/students/final-thesis/detail/141140).
+
+---
+
 Balíček obsahující nástroje reprezentující aplikace nového formálního systému nazývaného *vymazávací systém*.
 
 ## Seznam aplikací
